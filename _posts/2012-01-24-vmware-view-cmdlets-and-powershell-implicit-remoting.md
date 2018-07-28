@@ -19,18 +19,21 @@ First, PowerShell Remoting needs to be enabled on the Connection Server. There a
 
 [<img src="/assets/img/AllowAutomaticConfigurationOfListeners_1.png" alt="Group Policy Setting for &quot;Allow Automatic Configuration of Listeners&quot;" title="AllowAutomaticConfigurationOfListeners" width="640" height="572" class="alignnone size-full wp-image-1273" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/AllowAutomaticConfigurationOfListeners_1.png 640w, https://www.hofferle.com/wp-content/uploads/2012/02/AllowAutomaticConfigurationOfListeners_1-300x268.png 300w" sizes="(max-width: 640px) 100vw, 640px" />](/assets/img/AllowAutomaticConfigurationOfListeners_1.png)
 
-<pre class="lang:powershell decode:true">$session = New-PSSession -ComputerName "NameOfConnectionServer"
-</pre>
+```powershell
+$session = New-PSSession -ComputerName "NameOfConnectionServer"
+```
 
 With remoting enabled, a session is opened to the connection server from a workstation. A session is a persistent connection that can be referenced when using subsequent remoting commands.
 
-<pre class="lang:powershell decode:true">Invoke-Command -Session $session -ScriptBlock {Add-PSSnapin VMware*}
-</pre>
+```powershell
+Invoke-Command -Session $session -ScriptBlock {Add-PSSnapin VMware*}
+```
 
 The VMware cmdlets aren&#8217;t loaded by default, so `Invoke-Command` is used to tell the PowerShell session on the remote server to load the VMware snapin.
 
-<pre class="lang:powershell decode:true">Import-PSSession -Session $session -Prefix VDI -Module VMware*
-</pre>
+```powershell
+Import-PSSession -Session $session -Prefix VDI -Module VMware*
+```
 
 The cmdlets are loaded in the server&#8217;s PowerShell session, but they must be imported in order to run them on the local workstation. The module parameter specifies to only import cmdlets from the VMware module, and the prefix parameter will prefix the noun in each cmdlet with &#8220;VDI&#8221; to avoid possible conflicts with local cmdlets. A cmdlet named Get-DesktopVM will become Get-VDIDesktopVM.
 
@@ -38,7 +41,8 @@ With the View cmdlets imported from the remote session, those commands can now b
 
 [<img src="/assets/img/VMwareViewImplicitRemoting_1.png" alt="Using PowerShell Implicit Remoting to use VMware View Cmdlets" title="VMwareViewImplicitRemoting" width="640" height="518" class="alignnone size-full wp-image-1272" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/VMwareViewImplicitRemoting_1.png 640w, https://www.hofferle.com/wp-content/uploads/2012/02/VMwareViewImplicitRemoting_1-300x242.png 300w" sizes="(max-width: 640px) 100vw, 640px" />](/assets/img/VMwareViewImplicitRemoting_1.png)
 
-<pre class="lang:powershell decode:true">Remove-PSSession $session
-</pre>
+```powershell
+Remove-PSSession $session
+```
 
 The session to the connection server must remain open for the View cmdlets to be available. When finished working, removing the session closes it out and will unload the commands.

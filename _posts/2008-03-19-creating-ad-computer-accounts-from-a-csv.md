@@ -15,7 +15,8 @@ tags:
 ---
 This is an updated script that creates computer accounts in Active Directory. This script uses a comma separated values file as an input instead of two text files.
 
-<pre class="lang:vbs decode:true">&#039;**************************************Heading*********************************
+```vb
+&#039;**************************************Heading*********************************
 &#039;create.vbs
 &#039;
 &#039;Jason Hofferle
@@ -89,4 +90,4 @@ set objFSO = nothing
 set objInputFile = nothing
 set objRootDSE = nothing
 &#039;**************************************************************************
-</pre>
+```

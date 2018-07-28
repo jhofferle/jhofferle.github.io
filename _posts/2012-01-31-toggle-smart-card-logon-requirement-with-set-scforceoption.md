@@ -32,11 +32,12 @@ Computer01                                                  Disabled
 
 
 PS>
-</pre>
+```
 
 [Set-ScForceOption.zip](/assets/img/Set-ScForceOption.zip)
 
-<pre class="lang:powershell decode:true">Function Set-ScForceOption
+```powershell
+Function Set-ScForceOption
 {
     [CmdletBinding(
     SupportsShouldProcess=$true,
@@ -124,4 +125,4 @@ PS>
         }
     }
 }
-</pre>
+```

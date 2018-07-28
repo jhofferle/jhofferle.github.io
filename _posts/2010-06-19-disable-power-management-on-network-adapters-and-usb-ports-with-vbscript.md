@@ -16,7 +16,8 @@ This VBscript automates a registry hack to turn off the power management on Netw
 
 Information on the registry changes can be found in Microsoft KB article [837058](http://support.microsoft.com/kb/837058).
 
-<pre class="lang:vbs decode:true">&#039;******************************************************************************
+```vb
+&#039;******************************************************************************
 &#039;  power_mgmt.vbs
 &#039;******************************************************************************
 &#039;
@@ -84,4 +85,4 @@ For Each subkey In arrSubKeys
 Next
 
 Set objReg = nothing
-</pre>
+```

@@ -15,7 +15,8 @@ This function gathers monitor [EDID](http://en.wikipedia.org/wiki/Extended_displ
 
 An update to this function that allows for more flexible input can be found [here](http://www.hofferle.com/archives/219).
 
-<pre class="lang:powershell decode:true">Function Get-MonitorInfo
+```powershell
+Function Get-MonitorInfo
 {
     [CmdletBinding()]
     Param
@@ -60,4 +61,4 @@ An update to this function that allows for more flexible input can be found [her
         $monitorInfo
     }
 }
-</pre>
+```

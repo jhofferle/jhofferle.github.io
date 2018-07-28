@@ -15,7 +15,8 @@ Checking boxes gets old quickly, and I&#8217;ve installed and checked those litt
 
 [Enable-RSATFeatures.zip](/assets/img/Enable-RSATFeatures.zip)
 
-<pre class="lang:powershell decode:true">dism /Online /Enable-Feature `
+```powershell
+dism /Online /Enable-Feature `
 /FeatureName:RemoteServerAdministrationTools `
 /FeatureName:RemoteServerAdministrationTools-ServerManager `
 /FeatureName:RemoteServerAdministrationTools-Roles `
@@ -45,4 +46,4 @@ Checking boxes gets old quickly, and I&#8217;ve installed and checked those litt
 /FeatureName:RemoteServerAdministrationTools-Features-StorageExplorer `
 /FeatureName:RemoteServerAdministrationTools-Features-StorageManager `
 /FeatureName:RemoteServerAdministrationTools-Features-Wsrm
-</pre>
+```

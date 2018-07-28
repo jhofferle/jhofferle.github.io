@@ -14,7 +14,8 @@ tags:
 ---
 This is an updated function for gathering monitor information. It uses the technique specified in this [Don Jones post](http://www.windowsitpro.com/blogs/PowerShellwithaPurpose/tabid/2248/entryid/12903/Default.aspx) to accept input from the pipeline or as a parameter.
 
-<pre class="lang:powershell decode:true">Function Get-MonitorInfo
+```powershell
+Function Get-MonitorInfo
 {
     [CmdletBinding()]
     Param
@@ -64,4 +65,4 @@ This is an updated function for gathering monitor information. It uses the techn
         }
     }
 }
-</pre>
+```

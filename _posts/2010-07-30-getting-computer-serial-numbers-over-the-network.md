@@ -67,7 +67,8 @@ Monitor B)
   
 &#8230;&#8230;&#8230;.EDID Version= 1.3
 
-<pre class="lang:vbs decode:true">&#039;**************************************Heading*********************************
+```vb
+&#039;**************************************Heading*********************************
 &#039; info.vbs
 &#039;
 &#039; Jason Hofferle
@@ -595,4 +596,4 @@ objTextFile.Close
 objFSO.DeleteFile (strTemp)
 
 End Function
-</pre>
+```

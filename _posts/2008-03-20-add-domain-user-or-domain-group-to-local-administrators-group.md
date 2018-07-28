@@ -14,7 +14,8 @@ tags:
 ---
 This script will add a domain user or group to the local administrators group of a remote computer. Make sure to change YourDomain to your WinNT domain name. Also change Administrators if you need to add the user or group to a different local group.
 
-<pre class="lang:vbs decode:true">&#039;**************************************Heading*********************************
+```vb
+&#039;**************************************Heading*********************************
 &#039;add_admin.vbs
 &#039;
 &#039;Jason Hofferle
@@ -43,7 +44,7 @@ objLocalAdminGroup.Add("WinNT://YourDomain/" & strUser)
 
 Set objArgs = Nothing
 Set objLocalAdminGroup = Nothing
-</pre>
+```
 
 To use at a command prompt:
   

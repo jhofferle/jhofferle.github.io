@@ -20,7 +20,8 @@ Many opted to use Sapien&#8217;s PrimalForms tool along with some community modu
 
 After everything was working the way I wanted it in Visual Studio, all of the code was pasted into a huge here-string in my script.
 
-<pre class="lang:powershell decode:true">$sourceCode = @&#039;
+```powershell
+$sourceCode = @&#039;
  
 using System;
 using System.Drawing;
@@ -39,21 +40,23 @@ public partial class Form1 : Form
 ...rest of source code copied out of Visual Studio.
 
 &#039;@
-</pre>
+```
 
 When using Windows Presentation Foundation classes, it&#8217;s important to make sure PowerShell is running in a Single Threaded Apartment (STA).
 
-<pre class="lang:powershell decode:true">If ($host.Runspace.ApartmentState -ne &#039;STA&#039;)
+```powershell
+If ($host.Runspace.ApartmentState -ne &#039;STA&#039;)
 {
     Write-Warning "STA Mode not detected."
     Write-Warning "Please run this script with -STA switch or inside ISE"
     Exit
 }
-</pre>
+```
 
 The Add-Type cmdlet is then used to import the source code. The ReferencedAssemblies parameter makes sure all of our using directives can find the assemblies they need. Then a new object is created, Form1 in this case, and we start it with the ShowDialog method.
 
-<pre class="lang:powershell decode:true">$assemblies = (&#039;System.Windows.Forms&#039;,&#039;System.Drawing&#039;,&#039;PresentationCore&#039;,&#039;WindowsBase&#039;,&#039;System.Xml&#039;)
+```powershell
+$assemblies = (&#039;System.Windows.Forms&#039;,&#039;System.Drawing&#039;,&#039;PresentationCore&#039;,&#039;WindowsBase&#039;,&#039;System.Xml&#039;)
  
 try
 {
@@ -66,7 +69,7 @@ catch
     Write-Warning "An error occurred attempting to add the .NET Framework class to the PowerShell session."
     Write-Warning "The error was: $($Error[0].Exception.Message)"
 }
-</pre>
+```
 
 [<img src="/assets/img/Convert-Image-300x213.png" alt="Convert Image" title="Convert-Image" width="300" height="213" class="aligncenter size-medium wp-image-518" srcset="https://www.hofferle.com/wp-content/uploads/2011/05/Convert-Image-300x213.png 300w, https://www.hofferle.com/wp-content/uploads/2011/05/Convert-Image.png 807w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/img/Convert-Image.png)
 
@@ -74,7 +77,8 @@ All of my entries for the 2011 Scripting Games can be found at [PoshCode](http:/
 
 Complete Script:
 
-<pre class="lang:powershell decode:true"># -----------------------------------------------------------------------------
+```powershell
+# -----------------------------------------------------------------------------
 # Script: Convert-Image
 # Author: Jason Hofferle
 # Date: 04/14/2011
@@ -794,4 +798,4 @@ catch
     Write-Warning "An error occurred attempting to add the .NET Framework class to the PowerShell session."
     Write-Warning "The error was: $($Error[0].Exception.Message)"
 }
-</pre>
+```

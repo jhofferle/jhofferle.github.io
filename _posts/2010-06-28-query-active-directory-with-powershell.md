@@ -14,7 +14,8 @@ tags:
 ---
 This function queries Active Directory for users matching the specified parameter and generates a PSObject with certain properties from the returned objects. The collection of returned objects can be piped to additional PowerShell cmdlets for sorting, formatting or exporting.
 
-<pre class="lang:powershell decode:true">Function QueryAD
+```powershell
+Function QueryAD
   {
     Param
       (
@@ -81,7 +82,7 @@ This function queries Active Directory for users matching the specified paramete
                 $user.properties.department
         }
   }
-</pre>
+```
 
 The script can be called, the function placed in a profile or the script can be dot-sourced, to allow the ExportGAL function to be called like another cmdlet:
   

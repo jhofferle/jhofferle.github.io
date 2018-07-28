@@ -16,7 +16,8 @@ This VBscript prompts for a computer name or IP Address, connects to that system
 
 Many organizations now require CAC cards or another type of smart card to logon to workstations. A common way to enforce this is to use the Interactive logon: Require smart card group policy setting. When there is a problem with smart card authentication, this setting makes it difficult for troubleshooting.
 
-<pre class="lang:vbs decode:true">&#039;******************************************************************************
+```vb
+&#039;******************************************************************************
 &#039;cac_bypass.vbs
 &#039;
 &#039;Changes registry key on remote computer to allow logon without CAC card
@@ -42,4 +43,4 @@ Else
 End if
 
 Set objReg = Nothing
-</pre>
+```

@@ -14,7 +14,8 @@ tags:
 ---
 This is a way to send email with an attachment using an SMTP server that requires authentication.
 
-<pre class="lang:vbs decode:true">Set email = CreateObject("CDO.Message")
+```vb
+Set email = CreateObject("CDO.Message")
 
 email.Subject = "Test Email"
 email.From = "me@mydomain.com"
@@ -33,4 +34,4 @@ email.Configuration.Fields.Item("http://schemas.microsoft.com/cdo/configuration/
 email.Configuration.Fields.Update
 email.Send
 set email = Nothing
-</pre>
+```

@@ -22,11 +22,13 @@ While this particular API can be accessed anonymously, it is also subject to mor
 
 First, I generated a path to the CSV file to be used for the local cache. I wanted to use a specific name for the file, so that it would be found on subsequent calls to the function.
 
-<pre class="lang:powershell decode:true">$cachePath = [System.IO.Path]::GetTempPath() + &#039;Get-TwitterUserCache.csv&#039;</pre>
+```powershell
+
 
 With the path to the cache file determined, its existence is checked and the file is imported if found.
 
-<pre class="lang:powershell decode:true">if (Test-Path $cachePath)
+```powershell
+if (Test-Path $cachePath)
       {
         try
         {
@@ -42,15 +44,17 @@ With the path to the cache file determined, its existence is checked and the fil
       {
         $twitterCache = @()
       }
-</pre>
+```
 
 With the cache loaded into the twitterCache variable, I check to see if it contains the screen name I&#8217;m looking for.
 
-<pre class="lang:powershell decode:true">$result = $twitterCache | Where-Object {$_.ScreenName -eq $screen_name}</pre>
+```powershell
+
 
 If the screen name wasn&#8217;t found in the cache, the Twitter API is queried and the returned information is added to twitterCache.
 
-<pre class="lang:powershell decode:true">if ($result -eq $null)
+```powershell
+if ($result -eq $null)
   {
     Write-Verbose "Screen Name $screen_name was NOT found in cache"
     $query = "screen_name=$screen_name"
@@ -79,11 +83,12 @@ If the screen name wasn&#8217;t found in the cache, the Twitter API is queried a
         Write-Warning "This may indicate the maximum number of API queries has been reached."
       }
     }
-</pre>
+```
 
 The updated cache is then written back to the CSV file.
 
-<pre class="lang:powershell decode:true">$twitterCache | Export-Csv -Path $cachePath -NoTypeInformation</pre>
+```powershell
+
 
 I wrapped this functionality into the Invoke-TwitterQuery function, so that the rest of my script wouldn&#8217;t care if the data was cached or not. It just calls the function and doesn&#8217;t have to worry about how the information is being retrieved. It also means I could make adjustments to Invoke-TwitterQuery, like storing information in a database instead of a CSV file, and the rest of the script wouldn&#8217;t need to be changed.
 
@@ -91,7 +96,8 @@ All of my entries for the 2011 Scripting Games can be found at [PoshCode](http:/
 
 Complete Script:
 
-<pre class="lang:powershell decode:true"># -----------------------------------------------------------------------------
+```powershell
+# -----------------------------------------------------------------------------
 # Script: Get-TwitterUser
 # Author: Jason Hofferle
 # Date: 04/13/2011
@@ -519,4 +525,4 @@ Function Get-TwitterUser
   
   #&gt;
 }
-</pre>
+```

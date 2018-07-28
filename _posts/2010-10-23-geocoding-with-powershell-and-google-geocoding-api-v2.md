@@ -16,7 +16,8 @@ tags:
 ---
 This function uses the [Google Maps Geocoding API Version 2](https://developers.google.com/maps/articles/geocodingupgrade). It accepts objects with address, city, state and zip parameters. It then uses that information to find the longitude and latitude of the location and adds additional properties to the object. I use it with [Import-CSV](http://technet.microsoft.com/en-us/library/dd347665.aspx) and [Export-CSV](http://technet.microsoft.com/en-us/library/dd347724.aspx) to add information to a spreadsheet.
 
-<pre class="lang:powershell decode:true">Function Add-Geocode
+```powershell
+Function Add-Geocode
 {
     Begin
     {
@@ -61,4 +62,4 @@ This function uses the [Google Maps Geocoding API Version 2](https://developers.
         Write-Output $_
     }
 }
-</pre>
+```

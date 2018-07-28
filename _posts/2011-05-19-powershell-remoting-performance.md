@@ -18,11 +18,13 @@ I&#8217;m fortunate enough to work in an environment where we have 64-bit Window
 
 Measure-Command was used to compare a foreach loop that might be used without remoting against Invoke-Command. The command is based on a true scenario where I needed to query event logs on Windows 7 clients during our beta to determine how often a particular event was occurring. For this test, I wanted to retrieve the last 20 successful logon events for each computer.
 
-<pre class="lang:powershell decode:true">Measure-Command {$results = $computers | % {Get-WinEvent -FilterHashtable @{logname="security";id=4624} -MaxEvents 20 -ComputerName $_}}
-</pre>
+```powershell
+Measure-Command {$results = $computers | % {Get-WinEvent -FilterHashtable @{logname="security";id=4624} -MaxEvents 20 -ComputerName $_}}
+```
 
-<pre class="lang:powershell decode:true">Measure-Command {$results = Invoke-Command -ComputerName $computers -ScriptBlock {Get-WinEvent -FilterHashtable @{logname="security";id=4624} -MaxEvents 20} -ThrottleLimit 50}
-</pre>
+```powershell
+Measure-Command {$results = Invoke-Command -ComputerName $computers -ScriptBlock {Get-WinEvent -FilterHashtable @{logname="security";id=4624} -MaxEvents 20} -ThrottleLimit 50}
+```
 
 [<img src="/assets/img/RemotingChart01-e1305755995603.png" alt="Chart displaying the performance gains when using PowerShell remoting to retrieve event logs." title="RemotingChart01" width="600" height="375" class="alignnone size-full wp-image-546" />](/assets/img/RemotingChart01-e1305755995603.png)
 

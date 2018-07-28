@@ -12,7 +12,8 @@ tags:
   - Google
   - PowerShell
 ---
-<pre class="lang:powershell decode:true">Function Get-Geocode
+```powershell
+Function Get-Geocode
 {
     [CmdletBinding()]
     Param
@@ -117,4 +118,4 @@ tags:
       LASTEDIT: 4/6/2011
     #&gt;
 }
-</pre>
+```

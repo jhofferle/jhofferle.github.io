@@ -14,7 +14,8 @@ tags:
 ---
 This script is a command-line utility for rebooting, logging off or shutting down remote computers. If no option parameter is specified, a force reboot is default.
 
-<pre class="lang:vbs decode:true">&#039;**************************************************************************
+```vb
+&#039;**************************************************************************
 &#039;reboot.vbs
 &#039;
 &#039;Script for remotely rebooting a computer
@@ -88,7 +89,7 @@ End Function
 &#039; 2 + 4 Forced Reboot
 &#039; 8 Power Off
 &#039; 8 + 4 Forced Power Off
-</pre>
+```
 
 At a command prompt:
   

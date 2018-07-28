@@ -19,8 +19,9 @@ I come from a different background than many heavy PowerShell users because I&#8
 
 Remote desktop and similar technologies are extremely helpful for supporting distant users, but there are some simple tasks that can be accomplished must faster with a PowerShell command or script. Copying a new version of a configuration file, restarting a service, or unlocking an account can all be done much faster from the command line.
 
-<pre class="lang:powershell decode:true">Invoke-Command -ComputerName Computer01 -ScriptBlock {Regsvr32.exe /s c:\Windows\SysWOW64\capicom.dll}
-</pre>
+```powershell
+Invoke-Command -ComputerName Computer01 -ScriptBlock {Regsvr32.exe /s c:\Windows\SysWOW64\capicom.dll}
+```
 
 It would take minutes to make a remote desktop connection, authenticate and register a dll on a remote workstation. It takes seconds to use PowerShell remoting to perform that same task, and it doesn&#8217;t even disrupt the end user.
 
@@ -28,8 +29,9 @@ It would take minutes to make a remote desktop connection, authenticate and regi
 
 &#8220;I don&#8217;t have time to learn something else&#8221; is one of the most common excuses I hear for not learning PowerShell. While it does initially take more time to learn how to perform a task without pointing and clicking, the first time that task needs to be performed on multiple computers, that time investment will be repaid tenfold. Any time the same task needs to be performed on more than one computer, it&#8217;s a candidate for automation. I automate network printer installations by using the PrintBrm utility to export printerExport files, and import them on other computers.
 
-<pre class="lang:powershell decode:true">Get-EventLog -ComputerName Computer01 -LogName Security -Newest 10
-</pre>
+```powershell
+Get-EventLog -ComputerName Computer01 -LogName Security -Newest 10
+```
 
 If you&#8217;ve ever used Event Viewer to look through the logs on a remote system, you know it can involve some waiting. Knowing how to collect information from workstations can save a massive amount of time, whether you&#8217;re checking for a certain event or generating a report of free disk space.
 
@@ -37,16 +39,18 @@ If you&#8217;ve ever used Event Viewer to look through the logs on a remote syst
 
 Many organizations utilize some sort of enterprise solution for deploying software, making changes to client systems and other automated tasks. One of the problems I still run into today is that while we have all these tools, I don&#8217;t have access to utilize them. Something as simple as creating a desktop shortcut for your local users gets put on the backburner by enterprise staff. Since most local IT admins have administrative access to the workstations they&#8217;re responsible for, something like creating shortcuts is an easy task for PowerShell.
 
-<pre class="lang:powershell decode:true"># CreateShortcut.ps1
+```powershell
+# CreateShortcut.ps1
 $Shell = New-Object -ComObject WScript.Shell
 $Shortcut = $Shell.CreateShortcut("$Env:Public\Desktop\hofferle.com.lnk")
 $Shortcut.TargetPath = "http://www.hofferle.com"
 $Shortcut.IconLocation = "shell32.dll,43"
 $Shortcut.Save()
-</pre>
+```
 
-<pre class="lang:powershell decode:true">Invoke-Command -ComputerName Computer01,Computer02,Computer03 -FilePath C:\CreateShortcut.ps1
-</pre>
+```powershell
+Invoke-Command -ComputerName Computer01,Computer02,Computer03 -FilePath C:\CreateShortcut.ps1
+```
 
 Many companies still brute force some IT tasks, where it&#8217;s easier to have desktop support touch desktops that develop an enterprise fix. PowerShell allows front-line support to develop automated fixes to save themselves time without relying on an enterprise solution. 
 

@@ -18,7 +18,8 @@ The new computers are already assigned to users in a spreadsheet. I just created
 
 If using two separate text files is too clunkly, there is an updated script that uses a csv file as input.
 
-<pre class="lang:vbs decode:true">strTextFile = "computers.txt" &#039;specifies name of txt file with computer names
+```vb
+strTextFile = "computers.txt" &#039;specifies name of txt file with computer names
 strUserFile = "users.txt"
 Const ADS_UF_PASSWD_NOTREQD            = &h0020
 Const ADS_UF_WORKSTATION_TRUST_ACCOUNT = &h1000
@@ -47,4 +48,4 @@ Function Create(strComputer)
                   ADS_UF_PASSWD_NOTREQD Or ADS_UF_WORKSTATION_TRUST_ACCOUNT
   objComputer.SetInfo
 End function
-</pre>
+```

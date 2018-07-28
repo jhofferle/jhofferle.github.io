@@ -14,7 +14,8 @@ tags:
 ---
 Version 3 of Google&#8217;s Geocoding API does not return information in CSV format. This updated code processes the XML returned by the [new API](http://code.google.com/apis/maps/documentation/geocoding/).
 
-<pre class="lang:powershell decode:true">Function Add-Geocode
+```powershell
+Function Add-Geocode
 {
     param(
     [Parameter(ValueFromPipeline=$True)]
@@ -55,4 +56,4 @@ Version 3 of Google&#8217;s Geocoding API does not return information in CSV for
         Write-Output $InputObject
     }
 }
-</pre>
+```

@@ -14,7 +14,8 @@ tags:
 ---
 Many organizations have workstations in common areas for various purposes. If a user walks off without logging out first, that workstation needs to be unlocked by an administrator or hard rebooted before another user can logon. This script is designed to be placed in the startup folder on these common workstations. It runs constantly in the background and checks to see if a screensaver is running. If it finds an active screensaver, it will force a logoff.
 
-<pre class="lang:vbs decode:true">&#039;**************************************************************************
+```vb
+&#039;**************************************************************************
 &#039;auto_logoff.vbs
 &#039;
 &#039;Script that automatically logs off a user when the screensaver activates.
@@ -46,4 +47,4 @@ Do While True
         Next
     End If
 Loop
-</pre>
+```

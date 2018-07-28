@@ -13,7 +13,8 @@ tags:
 ---
 This script uses the PowerShell bitwise operators to add or remove user account control flags on local user accounts. It currently generates a list of all local users accounts, adds the &#8220;Password Never Expires&#8221; flag to the account named &#8220;Administrator&#8221; and removes the flag from all other accounts. The two functions and list of flags can be used to produce any needed combination.
 
-<pre class="lang:powershell decode:true"># ADS_USER_FLAG_ENUM Enumeration
+```powershell
+# ADS_USER_FLAG_ENUM Enumeration
 # http://msdn.microsoft.com/en-us/library/aa772300(VS.85).aspx
 $ADS_UF_SCRIPT                                   = 1         # 0x1
 $ADS_UF_ACCOUNTDISABLE                           = 2         # 0x2
@@ -72,4 +73,4 @@ foreach ($user in $Users.psbase.syncroot)
         RemoveUserFlag $user.name $ADS_UF_DONT_EXPIRE_PASSWD
     }
 }
-</pre>
+```

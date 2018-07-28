@@ -16,7 +16,8 @@ Numlock status on a Windows computer is controlled from three places. The BIOS c
 
 This script prompts for a computer name and then changes the InitialKeyboardIndicators value so that the numlock is on at the Ctrl+Alt+Del logon screen.
 
-<pre class="lang:vbs decode:true">&#039;******************************************************************************
+```vb
+&#039;******************************************************************************
 &#039;numlock.vbs
 &#039;
 &#039;Changes registry key on remote computer to set numlock status on boot to on
@@ -43,7 +44,7 @@ Else
 End if
 
 Set objReg = Nothing
-</pre>
+```
 
 Additional options for the value of InitialKeyboardIndicators:
        

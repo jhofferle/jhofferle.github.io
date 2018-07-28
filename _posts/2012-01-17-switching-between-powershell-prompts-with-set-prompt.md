@@ -20,7 +20,8 @@ If I see a neat custom prompt like a [Domain Controller PowerShell Prompt](http:
 [Set-Prompt.zip](/assets/img/Set-Prompt.zip)
 
 ```powershell
-<pre class="lang:powershell decode:true">Function Set-Prompt
+```powershell
+Function Set-Prompt
 {
     Param
     (
@@ -88,5 +89,5 @@ If I see a neat custom prompt like a [Domain Controller PowerShell Prompt](http:
         }
     }
 }
-</pre>
+```
 ```

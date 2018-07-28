@@ -16,7 +16,8 @@ This vbscript exports an Exchange GAL to an Excel spreadsheet. The important lin
 
 An example of [querying Active Directory](http://www.hofferle.com/query-active-directory-with-powershell/ "Query Active Directory with PowerShell") using PowerShell custom objects is also available.
 
-<pre class="lang:vbs decode:true">&#039;******************************************************************************
+```vb
+&#039;******************************************************************************
 &#039;GAL_Export.vbs
 &#039;
 &#039;Exports Exchange Global Address List to Excel
@@ -83,25 +84,28 @@ Do Until objRecordSet.EOF
 Loop
 
 wscript.echo objRecordset.recordcount & " contacts found."
-</pre>
+```
 
 To use, modify the following line:
 
-<pre class="lang:vbs decode:true">objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname, name," _
+```vb
+objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname, name," _
 & "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM &#039;LDAP://dc=your,dc=domain,dc=here,dc=com&#039;" _
 & "WHERE objectCategory=&#039;user&#039; AND company=&#039;Your Company Field&#039;"
-</pre>
+```
 
 For example, if your Active Directory domain is internal.microsoft.com and you want a spreadsheet of everyone that had Operations for the company field, the line would be modified to this:
 
-<pre class="lang:vbs decode:true">objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname, name," _
+```vb
+objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname, name," _
 & "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM &#039;LDAP://dc=internal,dc=microsoft,dc=com&#039;" _
 & "WHERE objectCategory=&#039;user&#039; AND company=&#039;Operations&#039;"
-</pre>
+```
 
 If you wanted an Excel spreadsheet of everyone with Vice President in the title field, it should be changed to this:
 
-<pre class="lang:vbs decode:true">objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname,name," _
+```vb
+objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname,name," _
 & "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM &#039;LDAP://dc=internal,dc=microsoft,dc=com&#039;" _
 & "WHERE objectCategory=&#039;user&#039; AND title=&#039;Vice President&#039;"
-</pre>
+```

@@ -20,7 +20,8 @@ Any code that needs to reach out and touch other computers is going to benefit f
 
 I created a scriptblock that was essentially a self-contained script with parameters. All of the actual &#8220;work&#8221; is handled in this scriptblock. The rest of the function is figuring out how to launch that scriptblock.
 
-<pre class="lang:powershell decode:true">$ScriptBlock = {
+```powershell
+$ScriptBlock = {
         
       Param
       (
@@ -60,11 +61,12 @@ I created a scriptblock that was essentially a self-contained script with parame
         }
       }
     }
-</pre>
+```
 
 With the script-within-a-script ready, I just needed to launch it appropriately. The Get-LoggedEvent function has a UseRemoting switch. When this switch is specified, I want to use Invoke-Command to take advantage of PowerShell&#8217;s fan-out remoting capabilities. I pass Invoke-Command the array of names, the scriptblock and the arguments to be passed to the scriptblock. The scriptblock is given &#8216;localhost&#8217; for the computer name, and Invoke-Command takes care of running a copy of the scriptblock on each computer.
 
-<pre class="lang:powershell decode:true">if ($UseRemoting)
+```powershell
+if ($UseRemoting)
     {
       Invoke-Command -ComputerName $ComputerName `
                      -ScriptBlock $ScriptBlock `
@@ -74,11 +76,12 @@ With the script-within-a-script ready, I just needed to launch it appropriately.
                                    $EventID, `
                                    $LevelTable[$Severity]  
     }
-</pre>
+```
 
 If UseRemoting is _not_ specified, I need to unwrap the array of computer names and call the scriptblock once for each computer name. This time, I need to pass the actual computer name to the scriptblock, because the built-in remoting capabilities of Get-WinEvent will be used instead of letting Invoke-Command run the scriptblock locally on each system.
 
-<pre class="lang:powershell decode:true">else
+```powershell
+else
     {
         foreach ($Name in $ComputerName)
         {
@@ -89,21 +92,24 @@ If UseRemoting is _not_ specified, I need to unwrap the array of computer names 
                         -Level $LevelTable[$Severity]
         }
     }
-</pre>
+```
 
 With any script, there are always improvements that can be made. [Bartek Bielawski](http://becomelotr.wordpress.com/) (who ended up winning the 2011 Scripting Games) made a good suggestion that I use splatting for those long lists of parameters instead of backticks. He also pointed out that I don&#8217;t need to specify false as a default value for switch parameters because the value will already default to false.
 
-<pre class="lang:powershell decode:true">$UseRemoting = $false</pre>
+```powershell
+
 
 Has the same effect as:
 
-<pre class="lang:powershell decode:true">$UseRemoting</pre>
+```powershell
+
 
 All of my entries for the 2011 Scripting Games can be found at [PoshCode](http://2011sg.poshcode.org/Scripts/By/114.html).
 
 Complete Script:
 
-<pre class="lang:powershell decode:true"># -----------------------------------------------------------------------------
+```powershell
+# -----------------------------------------------------------------------------
 # Script: Get-LoggedEvent.ps1
 # Author: Jason Hofferle
 # Date: 04/06/2011
@@ -279,4 +285,4 @@ Function Get-LoggedEvent
       using PowerShell remoting.
   #&gt;
 }
-</pre>
+```

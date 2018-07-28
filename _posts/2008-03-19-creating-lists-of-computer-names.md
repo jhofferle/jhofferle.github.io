@@ -16,7 +16,8 @@ Very often you will want to run a script against a list of computers. I’ve fou
 
 I have also written about using PowerShell to [generate lists of computer names](http://www.hofferle.com/generating-lists-of-computer-names-with-powershell/ "Generating Lists of Computer Names with PowerShell").
 
-<pre class="lang:vbs decode:true">Const ADS_SCOPE_SUBTREE = 2
+```vb
+Const ADS_SCOPE_SUBTREE = 2
 Const ForAppending = 8
 Const ForWriting = 2
 
@@ -45,4 +46,4 @@ Do Until objRecordSet.EOF
 Loop
 objTextFile.Close
 WScript.Echo "Script Completed."
-</pre>
+```

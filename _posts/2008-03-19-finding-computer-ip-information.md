@@ -16,7 +16,8 @@ When we went through a subnet change, we found there were many systems with an i
 
 This a script I wrote to scan a subnet and dump the IP information to a .csv file.
 
-<pre class="lang:vbs decode:true">&#039;**************************************Heading*********************************
+```vb
+&#039;**************************************Heading*********************************
 &#039;find_gateway.vbs
 &#039;
 &#039;Jason Hofferle
@@ -77,4 +78,4 @@ For strIPNode = 1 To 254
                 objTextFile.WriteLine(strComputer & "," & "Host unreachable")
         End If
 Next
-</pre>
+```

@@ -16,5 +16,6 @@ A common way to add domain groups to the local administrators group on a compute
 
 So the traditional batch file startup script was replaced with a PowerShell startup script, and this is how I now add domain groups to the local administrators group on computers.
 
-<pre class="lang:powershell decode:true">([adsi]"WinNT://./Administrators,group").Add("WinNT://DOMAIN/My Extremely Long Group Name with Spaces,group")
-</pre>
+```powershell
+([adsi]"WinNT://./Administrators,group").Add("WinNT://DOMAIN/My Extremely Long Group Name with Spaces,group")
+```
