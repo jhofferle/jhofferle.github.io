@@ -39,7 +39,7 @@ defaults:
 
 # Build settings
 markdown: kramdown
-remote_theme: henrythemes/jekyll-book-theme
+theme: minimal
 plugins:
   - jekyll-feed
 
