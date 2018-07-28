@@ -17,14 +17,19 @@ permalink: /:title/
 title: Force Multiplication through IT Automation
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  “Force Multiplication through IT Automation” comes from the military, where
+  a force multiplier is an attribute such as technology or experience that
+  allows a small force to accomplish the same results of a force many times
+  larger. In information technology, automation tools such as PowerShell allow
+  an individual IT professional to be just as effective as a large staff
+  performing tasks manually.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.hofferle.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-highlighter: rouge
+timezone: America/New_York
+twitter_username: jhofferle
+github_username:  jhofferle
+linkedin_username: jhofferle
+#highlighter: rouge
 
 defaults:
   scope:
