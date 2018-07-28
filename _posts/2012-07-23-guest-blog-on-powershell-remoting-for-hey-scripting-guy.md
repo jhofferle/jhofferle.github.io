@@ -12,7 +12,7 @@ tags:
   - PowerShell
   - Remoting
 ---
-[<img src="/assets/img/Typewriter-203x300.jpg" alt="Typewriter" title="Typewriter" width="203" height="300" class="alignleft size-medium wp-image-1377" srcset="https://www.hofferle.com/wp-content/uploads/2012/07/Typewriter-203x300.jpg 203w, https://www.hofferle.com/wp-content/uploads/2012/07/Typewriter-101x150.jpg 101w, https://www.hofferle.com/wp-content/uploads/2012/07/Typewriter.jpg 285w" sizes="(max-width: 203px) 100vw, 203px" />](/assets/img/Typewriter.jpg)This week I&#8217;m the guest blogger for the Microsoft <a href="http://blogs.technet.com/b/heyscriptingguy/" title="Hey, Scripting Guy! Blog" target="_blank">Hey, Scripting Guy! blog</a>. The five-part series will focus on PowerShell Remoting.
+[<img src="/assets/img/Typewriter-203x300.jpg" alt="Typewriter" title="Typewriter" width="203" height="300" class="alignleft size-medium wp-image-1377" srcset="/assets/img/Typewriter-203x300.jpg 203w, /assets/img/Typewriter-101x150.jpg 101w, /assets/img/Typewriter.jpg 285w" sizes="(max-width: 203px) 100vw, 203px" />](/assets/img/Typewriter.jpg)This week I&#8217;m the guest blogger for the Microsoft <a href="http://blogs.technet.com/b/heyscriptingguy/" title="Hey, Scripting Guy! Blog" target="_blank">Hey, Scripting Guy! blog</a>. The five-part series will focus on PowerShell Remoting.
 
 <a href="http://blogs.technet.com/b/heyscriptingguy/archive/2012/07/23/an-introduction-to-powershell-remoting-part-one.aspx" title="An Introduction to PowerShell Remoting: Part One" target="_blank">An Introduction to PowerShell Remoting: Part One</a>
 

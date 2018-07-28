@@ -16,25 +16,25 @@ tags:
 ---
 When I needed to build a collection of PowerShell resources for our internal IT personnel, I had trouble finding a comprehensive list of all the freely available eBooks out there. I thought it would be worth spending a few minutes collecting these links in a single place. If you know of any that I&#8217;m missing, please let me know. I also have a list of paid [PowerShell books](http://www.hofferle.com/list-of-powershell-books/ "List of PowerShell Books").
 
-[<img src="/assets/img/BigBookofPowerShellGotchas.jpg" alt="The Big Book of PowerShell Gotchas" width="150" height="205" class="alignleft size-full wp-image-1433" srcset="https://www.hofferle.com/wp-content/uploads/2011/06/BigBookofPowerShellGotchas.jpg 150w, https://www.hofferle.com/wp-content/uploads/2011/06/BigBookofPowerShellGotchas-109x150.jpg 109w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/BigBookofPowerShellGotchas.jpg)<a href="http://powershell.org/wp/ebooks/" title="The Big Book of PowerShell Gotchas" target="_blank">The Big Book of PowerShell Gotchas</a>
+[<img src="/assets/img/BigBookofPowerShellGotchas.jpg" alt="The Big Book of PowerShell Gotchas" width="150" height="205" class="alignleft size-full wp-image-1433" srcset="/assets/img/BigBookofPowerShellGotchas.jpg 150w, /assets/img/BigBookofPowerShellGotchas-109x150.jpg 109w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/BigBookofPowerShellGotchas.jpg)<a href="http://powershell.org/wp/ebooks/" title="The Big Book of PowerShell Gotchas" target="_blank">The Big Book of PowerShell Gotchas</a>
   
 _Don Jones_
 
 <br style="clear: both;" />
 
-[<img src="/assets/img/MakingHistoricalAndTrendReportsInPowerShell.png" alt="Making Historical and Trend Reports in PowerShell" title="Making Historical and Trend Reports in PowerShell" width="150" height="204" class="alignleft size-full wp-image-1419" srcset="https://www.hofferle.com/wp-content/uploads/2011/06/MakingHistoricalAndTrendReportsInPowerShell.png 150w, https://www.hofferle.com/wp-content/uploads/2011/06/MakingHistoricalAndTrendReportsInPowerShell-110x150.png 110w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/MakingHistoricalAndTrendReportsInPowerShell.png)<a href="http://powershell.org/wp/ebooks/" title="Making Historical and Trend Reports in PowerShell" target="_blank">Making Historical and Trend Reports in PowerShell</a>
+[<img src="/assets/img/MakingHistoricalAndTrendReportsInPowerShell.png" alt="Making Historical and Trend Reports in PowerShell" title="Making Historical and Trend Reports in PowerShell" width="150" height="204" class="alignleft size-full wp-image-1419" srcset="/assets/img/MakingHistoricalAndTrendReportsInPowerShell.png 150w, /assets/img/MakingHistoricalAndTrendReportsInPowerShell-110x150.png 110w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/MakingHistoricalAndTrendReportsInPowerShell.png)<a href="http://powershell.org/wp/ebooks/" title="Making Historical and Trend Reports in PowerShell" target="_blank">Making Historical and Trend Reports in PowerShell</a>
   
 _Don Jones_
 
  <br style="clear: both;" />
 
-[<img src="/assets/img/CreatingHTMLReportsInPowerShell_150.png" alt="Creating HTML Reports in PowerShell" title="Creating HTML Reports in PowerShell" width="150" height="205" class="alignleft size-full wp-image-1394" srcset="https://www.hofferle.com/wp-content/uploads/2011/06/CreatingHTMLReportsInPowerShell_150.png 150w, https://www.hofferle.com/wp-content/uploads/2011/06/CreatingHTMLReportsInPowerShell_150-109x150.png 109w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/CreatingHTMLReportsInPowerShell_150.png)<a href="http://powershell.org/wp/ebooks/" target="_blank">Creating HTML Reports in PowerShell</a>
+[<img src="/assets/img/CreatingHTMLReportsInPowerShell_150.png" alt="Creating HTML Reports in PowerShell" title="Creating HTML Reports in PowerShell" width="150" height="205" class="alignleft size-full wp-image-1394" srcset="/assets/img/CreatingHTMLReportsInPowerShell_150.png 150w, /assets/img/CreatingHTMLReportsInPowerShell_150-109x150.png 109w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/CreatingHTMLReportsInPowerShell_150.png)<a href="http://powershell.org/wp/ebooks/" target="_blank">Creating HTML Reports in PowerShell</a>
   
 _Don Jones_
 
  <br style="clear: both;" />
 
-[<img src="/assets/img/SecretsOfPowerShellRemoting_1501.png" alt="Secrets Of PowerShell Remoting" title="Secrets Of PowerShell Remoting" width="150" height="205" class="alignleft size-full wp-image-1395" srcset="https://www.hofferle.com/wp-content/uploads/2011/06/SecretsOfPowerShellRemoting_1501.png 150w, https://www.hofferle.com/wp-content/uploads/2011/06/SecretsOfPowerShellRemoting_1501-109x150.png 109w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/SecretsOfPowerShellRemoting_1501.png)<a href="http://powershell.org/wp/ebooks/" target="_blank">Secrets of PowerShell Remoting</a>
+[<img src="/assets/img/SecretsOfPowerShellRemoting_1501.png" alt="Secrets Of PowerShell Remoting" title="Secrets Of PowerShell Remoting" width="150" height="205" class="alignleft size-full wp-image-1395" srcset="/assets/img/SecretsOfPowerShellRemoting_1501.png 150w, /assets/img/SecretsOfPowerShellRemoting_1501-109x150.png 109w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/SecretsOfPowerShellRemoting_1501.png)<a href="http://powershell.org/wp/ebooks/" target="_blank">Secrets of PowerShell Remoting</a>
   
 _Don Jones
   

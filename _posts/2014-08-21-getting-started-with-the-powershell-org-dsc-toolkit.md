@@ -6,7 +6,7 @@ author: Jason Hofferle
 layout: post
 guid: http://www.hofferle.com/?p=1451
 permalink: /getting-started-with-the-powershell-org-dsc-toolkit/
-image: https://www.hofferle.com/wp-content/uploads/2011/05/TrainingRoom.jpg
+image: /assets/img/TrainingRoom.jpg
 categories:
   - Community
   - PowerShell

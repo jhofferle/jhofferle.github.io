@@ -22,7 +22,7 @@ The one possible exception to &#8220;buy a book that covers version 3&#8221; is 
 
 ### Learn Windows PowerShell 3 in a Month of Lunches
 
-[<img src="/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg" alt="Learn Windows PowerShell 3 in a Month of Lunches Cover" title="Learn-Windows-PowerShell-3-in-a-Month-of-Lunches" width="150" height="189" class="alignleft size-full wp-image-1380" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg 150w, https://www.hofferle.com/wp-content/uploads/2012/02/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg)**Don Jones, Jeffery Hicks**
+[<img src="/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg" alt="Learn Windows PowerShell 3 in a Month of Lunches Cover" title="Learn-Windows-PowerShell-3-in-a-Month-of-Lunches" width="150" height="189" class="alignleft size-full wp-image-1380" srcset="/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg 150w, /assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg)**Don Jones, Jeffery Hicks**
   
 Paperback: 300 pages
   
@@ -38,7 +38,7 @@ ISBN-13: 978-1617291081
 
 ### Windows PowerShell Cookbook, Third Edition
 
-[<img src="/assets/img/WindowsPowerShellCookbook_3rd_150.png" alt="Windows PowerShell Cookbook Third Edition" title="Windows PowerShell Cookbook Third Edition Cover" width="150" height="197" class="alignleft size-full wp-image-1392" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/WindowsPowerShellCookbook_3rd_150.png 150w, https://www.hofferle.com/wp-content/uploads/2012/02/WindowsPowerShellCookbook_3rd_150-114x150.png 114w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShellCookbook_3rd_150.png)**Lee Holmes**
+[<img src="/assets/img/WindowsPowerShellCookbook_3rd_150.png" alt="Windows PowerShell Cookbook Third Edition" title="Windows PowerShell Cookbook Third Edition Cover" width="150" height="197" class="alignleft size-full wp-image-1392" srcset="/assets/img/WindowsPowerShellCookbook_3rd_150.png 150w, /assets/img/WindowsPowerShellCookbook_3rd_150-114x150.png 114w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShellCookbook_3rd_150.png)**Lee Holmes**
   
 Paperback: 1000 pages
   
@@ -54,7 +54,7 @@ ISBN-13: 978-1449320683
 
 ### PowerShell in Depth
 
-[<img src="/assets/img/PowerShell-in-Depth.jpg" alt="PowerShell in Depth Cover" title="PowerShell-in-Depth" width="150" height="189" class="alignleft size-full wp-image-1382" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/PowerShell-in-Depth.jpg 150w, https://www.hofferle.com/wp-content/uploads/2012/02/PowerShell-in-Depth-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/PowerShell-in-Depth.jpg)**Don Jones, Richard Siddaway, Jeffery Hicks**
+[<img src="/assets/img/PowerShell-in-Depth.jpg" alt="PowerShell in Depth Cover" title="PowerShell-in-Depth" width="150" height="189" class="alignleft size-full wp-image-1382" srcset="/assets/img/PowerShell-in-Depth.jpg 150w, /assets/img/PowerShell-in-Depth-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/PowerShell-in-Depth.jpg)**Don Jones, Richard Siddaway, Jeffery Hicks**
   
 Paperback: 525 pages
   
@@ -70,7 +70,7 @@ ISBN-13: 978-1617290558
 
 ### Windows PowerShell 3.0 Step By Step
 
-[<img src="/assets/img/WindowsPowerShell3StepByStep_150.png" alt="Windows PowerShell 3.0 Step By Step" title="Windows PowerShell 3.0 Step By Step" width="150" height="183" class="alignleft size-full wp-image-1368" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/WindowsPowerShell3StepByStep_150.png 150w, https://www.hofferle.com/wp-content/uploads/2012/02/WindowsPowerShell3StepByStep_150-122x150.png 122w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShell3StepByStep_150.png)**Ed Wilson**
+[<img src="/assets/img/WindowsPowerShell3StepByStep_150.png" alt="Windows PowerShell 3.0 Step By Step" title="Windows PowerShell 3.0 Step By Step" width="150" height="183" class="alignleft size-full wp-image-1368" srcset="/assets/img/WindowsPowerShell3StepByStep_150.png 150w, /assets/img/WindowsPowerShell3StepByStep_150-122x150.png 122w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShell3StepByStep_150.png)**Ed Wilson**
   
 Paperback: 560 pages
   
@@ -88,7 +88,7 @@ ISBN-13: 978-0735663398
 
 ### PowerShell 3.0 Advanced Administration Handbook
 
-[<img src="/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg" alt="PowerShell 3.0 Advanced Administration Handbook" width="150" height="187" class="alignleft size-full wp-image-1432" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/PowerShell3AdvancedAdministrationHandbook.jpg 150w, https://www.hofferle.com/wp-content/uploads/2012/02/PowerShell3AdvancedAdministrationHandbook-120x150.jpg 120w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg)**Sherif Talaat, Haijun Fu**
+[<img src="/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg" alt="PowerShell 3.0 Advanced Administration Handbook" width="150" height="187" class="alignleft size-full wp-image-1432" srcset="/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg 150w, /assets/img/PowerShell3AdvancedAdministrationHandbook-120x150.jpg 120w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg)**Sherif Talaat, Haijun Fu**
   
 Paperback: 370 pages
   
@@ -104,7 +104,7 @@ ISBN-13: 978-1849686426
 
 ### Microsoft Windows PowerShell 3.0 First Look
 
-[<img src="/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png" alt="Microsoft Windows PowerShell 3 First Look" title="Microsoft Windows PowerShell 3 First Look" width="150" height="184" class="alignleft size-full wp-image-1396" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/MicrosoftWindowsPowerShell3FirstLook_150.png 150w, https://www.hofferle.com/wp-content/uploads/2012/02/MicrosoftWindowsPowerShell3FirstLook_150-122x150.png 122w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png)**Adam Driscoll**
+[<img src="/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png" alt="Microsoft Windows PowerShell 3 First Look" title="Microsoft Windows PowerShell 3 First Look" width="150" height="184" class="alignleft size-full wp-image-1396" srcset="/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png 150w, /assets/img/MicrosoftWindowsPowerShell3FirstLook_150-122x150.png 122w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png)**Adam Driscoll**
   
 Paperback: 200 pages
   
@@ -120,7 +120,7 @@ ISBN-13: 978-1849686440
 
 ### Learn PowerShell Toolmaking in a Month of Lunches
 
-[<img src="/assets/img/jones4_cover150.jpg" alt="Learn PowerShell Toolmaking in a Month of Lunches MEAP Cover" title="PowerShell_Toolmaking_Meap_Cover" width="150" height="188" class="alignleft size-full wp-image-1388" srcset="https://www.hofferle.com/wp-content/uploads/2012/02/jones4_cover150.jpg 150w, https://www.hofferle.com/wp-content/uploads/2012/02/jones4_cover150-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/jones4_cover150.jpg)**Don Jones, Jeffery Hicks**
+[<img src="/assets/img/jones4_cover150.jpg" alt="Learn PowerShell Toolmaking in a Month of Lunches MEAP Cover" title="PowerShell_Toolmaking_Meap_Cover" width="150" height="188" class="alignleft size-full wp-image-1388" srcset="/assets/img/jones4_cover150.jpg 150w, /assets/img/jones4_cover150-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/jones4_cover150.jpg)**Don Jones, Jeffery Hicks**
   
 Paperback: 300 pages
   
@@ -134,7 +134,7 @@ ISBN-13: 978-1617291166
 
 ### Windows PowerShell for Developers
 
-[<img src="/assets/img/WindowsPowerShellForDevelopers_150.png" alt="Windows PowerShell For Developers" title="Windows PowerShell For Developers" width="150" height="197" class="alignleft size-full wp-image-1361" srcset="https://www.hofferle.com/wp-content/uploads/2012/04/WindowsPowerShellForDevelopers_150.png 150w, https://www.hofferle.com/wp-content/uploads/2012/04/WindowsPowerShellForDevelopers_150-114x150.png 114w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShellForDevelopers_150.png)**Douglas Finke**
+[<img src="/assets/img/WindowsPowerShellForDevelopers_150.png" alt="Windows PowerShell For Developers" title="Windows PowerShell For Developers" width="150" height="197" class="alignleft size-full wp-image-1361" srcset="/assets/img/WindowsPowerShellForDevelopers_150.png 150w, /assets/img/WindowsPowerShellForDevelopers_150-114x150.png 114w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShellForDevelopers_150.png)**Douglas Finke**
   
 Paperback: 125 pages
   

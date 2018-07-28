@@ -71,7 +71,7 @@ catch
 }
 ```
 
-[<img src="/assets/img/Convert-Image-300x213.png" alt="Convert Image" title="Convert-Image" width="300" height="213" class="aligncenter size-medium wp-image-518" srcset="https://www.hofferle.com/wp-content/uploads/2011/05/Convert-Image-300x213.png 300w, https://www.hofferle.com/wp-content/uploads/2011/05/Convert-Image.png 807w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/img/Convert-Image.png)
+[<img src="/assets/img/Convert-Image-300x213.png" alt="Convert Image" title="Convert-Image" width="300" height="213" class="aligncenter size-medium wp-image-518" srcset="/assets/img/Convert-Image-300x213.png 300w, /assets/img/Convert-Image.png 807w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/img/Convert-Image.png)
 
 All of my entries for the 2011 Scripting Games can be found at [PoshCode](http://2011sg.poshcode.org/Scripts/By/114.html).
 

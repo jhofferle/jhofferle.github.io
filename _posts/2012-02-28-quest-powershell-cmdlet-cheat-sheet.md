@@ -6,7 +6,7 @@ author: Jason Hofferle
 layout: post
 guid: http://www.hofferle.com/?p=1294
 permalink: /quest-powershell-cmdlet-cheat-sheet/
-image: https://www.hofferle.com/wp-content/uploads/2012/02/Cheat_Sheet.jpg
+image: /assets/img/Cheat_Sheet.jpg
 categories:
   - PowerShell
 tags:

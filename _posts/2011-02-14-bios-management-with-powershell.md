@@ -30,7 +30,7 @@ Sort-Object BootOrder |
 Format-Table -AutoSize
 ```
 
-[<img class="alignnone size-medium wp-image-167" title="Dell_BootOrder" src="https://hofferle.com/wordpress/wp-content/uploads/2011/02/Dell_BootOrder3-300x110.png" alt="Dell BootOrder" width="300" height="110" srcset="https://www.hofferle.com/wp-content/uploads/2011/02/Dell_BootOrder3-300x110.png 300w, https://www.hofferle.com/wp-content/uploads/2011/02/Dell_BootOrder3.png 868w" sizes="(max-width: 300px) 100vw, 300px" />](http://hofferle.com/wordpress/wp-content/uploads/2011/02/Dell_BootOrder3.png)
+[<img class="alignnone size-medium wp-image-167" title="Dell_BootOrder" src="https://hofferle.com/wordpress/wp-content/uploads/2011/02/Dell_BootOrder3-300x110.png" alt="Dell BootOrder" width="300" height="110" srcset="/assets/img/Dell_BootOrder3-300x110.png 300w, /assets/img/Dell_BootOrder3.png 868w" sizes="(max-width: 300px) 100vw, 300px" />](http://hofferle.com/wordpress/wp-content/uploads/2011/02/Dell_BootOrder3.png)
 
 **HP BIOS Settings**
 
@@ -46,4 +46,4 @@ $bios = Get-WmiObject -Namespace root/hp/instrumentedBIOS -Class HP_BIOSSettingI
 $bios.SetBIOSSetting(&#039;After Power Loss&#039;, &#039;On&#039;)
 ```
 
-[<img class="alignnone size-medium wp-image-171" title="HP_SetAfterPowerLoss" src="https://hofferle.com/wordpress/wp-content/uploads/2011/02/HP_SetAfterPowerLoss-300x170.png" alt="HP Set After Power Loss" width="300" height="170" srcset="https://www.hofferle.com/wp-content/uploads/2011/02/HP_SetAfterPowerLoss-300x170.png 300w, https://www.hofferle.com/wp-content/uploads/2011/02/HP_SetAfterPowerLoss.png 988w" sizes="(max-width: 300px) 100vw, 300px" />](http://hofferle.com/wordpress/wp-content/uploads/2011/02/HP_SetAfterPowerLoss.png)
+[<img class="alignnone size-medium wp-image-171" title="HP_SetAfterPowerLoss" src="https://hofferle.com/wordpress/wp-content/uploads/2011/02/HP_SetAfterPowerLoss-300x170.png" alt="HP Set After Power Loss" width="300" height="170" srcset="/assets/img/HP_SetAfterPowerLoss-300x170.png 300w, /assets/img/HP_SetAfterPowerLoss.png 988w" sizes="(max-width: 300px) 100vw, 300px" />](http://hofferle.com/wordpress/wp-content/uploads/2011/02/HP_SetAfterPowerLoss.png)
