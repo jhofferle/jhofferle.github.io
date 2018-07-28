@@ -3,7 +3,7 @@ id: 510
 title: 'Embed a C# Program in a PowerShell Script'
 date: 2011-05-09T09:00:22+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=510
 permalink: /embed-a-c-program-in-a-powershell-script/
 ninja_forms_form:
@@ -71,7 +71,7 @@ catch
 }
 ```
 
-[<img src="/assets/img/Convert-Image-300x213.png" alt="Convert Image" title="Convert-Image" width="300" height="213" class="aligncenter size-medium wp-image-518" srcset="/assets/img/Convert-Image-300x213.png 300w, /assets/img/Convert-Image.png 807w" sizes="(max-width: 300px) 100vw, 300px" />](/assets/img/Convert-Image.png)
+![image-left](/assets/img/Convert-Image.png){: .align-left}
 
 All of my entries for the 2011 Scripting Games can be found at [PoshCode](http://2011sg.poshcode.org/Scripts/By/114.html).
 
@@ -557,7 +557,7 @@ partial class Form1
         // 
         // groupBoxFormat
         // 
-        this.groupBoxFormat.Controls.Add(this.radioPNG);
+        this.groupBoxFormat.Controls.Add(this.radi.png){: .align-left};
         this.groupBoxFormat.Controls.Add(this.radioJPEG);
         this.groupBoxFormat.Controls.Add(this.radioGIF);
         this.groupBoxFormat.Location = new System.Drawing.Point(11, 159);

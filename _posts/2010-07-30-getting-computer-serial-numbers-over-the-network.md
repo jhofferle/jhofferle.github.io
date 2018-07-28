@@ -3,7 +3,7 @@ id: 333
 title: Getting computer serial numbers over the network
 date: 2010-07-30T14:24:13+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=333
 permalink: /getting-computer-serial-numbers-over-the-network/
 categories:

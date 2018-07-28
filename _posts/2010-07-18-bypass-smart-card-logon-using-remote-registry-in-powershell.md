@@ -3,7 +3,7 @@ id: 347
 title: Bypass Smart Card Logon using Remote Registry in PowerShell
 date: 2010-07-18T14:34:46+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=347
 permalink: /bypass-smart-card-logon-using-remote-registry-in-powershell/
 categories:

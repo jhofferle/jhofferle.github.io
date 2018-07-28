@@ -3,7 +3,7 @@ id: 579
 title: Fan-Out Performance Without Remoting
 date: 2011-06-02T09:00:31+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=579
 permalink: /fan-out-performance-without-remoting/
 categories:
@@ -18,4 +18,4 @@ After my last post on PowerShell Remoting performance, I received an email askin
 $computers | Split-Job -MaxPipelines 20 { % {Get-WinEvent -FilterHashtable @{logname="security";id=4624} -MaxEvents 20 -ComputerName $_} }
 ```
 
-[<img src="/assets/img/Split-Job_Chart-e1306973532969.png" alt="Chart displaying performance of Split-Job function." title="Split-Job_Chart" width="600" height="375" class="alignnone size-full wp-image-582" />](/assets/img/Split-Job_Chart-e1306973532969.png)
+![image-left](/assets/img/Split-Job_Chart-e1306973532969.png){: .align-left}

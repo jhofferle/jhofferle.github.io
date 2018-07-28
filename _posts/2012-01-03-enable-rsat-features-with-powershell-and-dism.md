@@ -3,7 +3,7 @@ id: 790
 title: Enable RSAT Features with PowerShell and Dism
 date: 2012-01-03T09:00:53+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=790
 permalink: /enable-rsat-features-with-powershell-and-dism/
 categories:

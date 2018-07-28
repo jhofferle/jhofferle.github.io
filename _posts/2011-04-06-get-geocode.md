@@ -3,7 +3,7 @@ id: 298
 title: Get-Geocode
 date: 2011-04-06T22:53:06+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=298
 permalink: /get-geocode/
 categories:

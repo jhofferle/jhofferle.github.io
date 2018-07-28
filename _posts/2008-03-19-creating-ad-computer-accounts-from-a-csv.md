@@ -3,7 +3,7 @@ id: 324
 title: Creating AD computer accounts from a CSV
 date: 2008-03-19T14:20:44+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=324
 permalink: /creating-ad-computer-accounts-from-a-csv/
 categories:

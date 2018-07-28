@@ -3,7 +3,7 @@ id: 821
 title: Switching Between PowerShell Prompts with Set-Prompt
 date: 2012-01-17T09:00:11+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=821
 permalink: /switching-between-powershell-prompts-with-set-prompt/
 categories:
@@ -15,7 +15,7 @@ I&#8217;m usually pretty happy with the default PowerShell prompt that displays 
 
 If I see a neat custom prompt like a [Domain Controller PowerShell Prompt](http://jdhitsolutions.com/blog/2011/11/domain-controller-powershell-prompt/ "Domain Controller Prompt") or a [Christmas Prompt](http://jdhitsolutions.com/blog/2011/11/friday-fun-a-christmas-prompt/ "A Christmas Prompt"), I just add an additional switch block to Set-Prompt.
 
-[<img src="/assets/img/Set-Prompt-e1326389362668.png" alt="Screenshot of the Set-Prompt function in use" title="Set-Prompt" width="600" height="254" class="alignnone size-full wp-image-827" />](/assets/img/Set-Prompt-e1326389362668.png)
+![image-left](/assets/img/Set-Prompt-e1326389362668.png){: .align-left}
 
 [Set-Prompt.zip](/assets/img/Set-Prompt.zip)
 

@@ -3,7 +3,7 @@ id: 367
 title: 2011 Microsoft Scripting Games After Action Report
 date: 2011-04-25T14:19:39+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=367
 permalink: /2011-microsoft-scripting-games-after-action-report/
 ninja_forms_form:

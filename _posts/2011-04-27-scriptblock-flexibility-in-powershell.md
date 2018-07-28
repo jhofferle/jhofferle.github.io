@@ -3,7 +3,7 @@ id: 409
 title: ScriptBlock Flexibility in PowerShell
 date: 2011-04-27T09:00:23+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=409
 permalink: /scriptblock-flexibility-in-powershell/
 ninja_forms_form:

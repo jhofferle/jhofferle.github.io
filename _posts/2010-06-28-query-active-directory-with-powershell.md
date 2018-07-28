@@ -3,7 +3,7 @@ id: 342
 title: Query Active Directory with PowerShell
 date: 2010-06-28T14:31:03+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=342
 permalink: /query-active-directory-with-powershell/
 categories:

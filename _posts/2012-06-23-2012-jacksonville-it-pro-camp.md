@@ -3,7 +3,7 @@ id: 1369
 title: 2012 Jacksonville IT Pro Camp
 date: 2012-06-23T13:33:52+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=1369
 permalink: /2012-jacksonville-it-pro-camp/
 categories:

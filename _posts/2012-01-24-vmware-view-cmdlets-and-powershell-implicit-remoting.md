@@ -3,7 +3,7 @@ id: 838
 title: VMware View Cmdlets and PowerShell Implicit Remoting
 date: 2012-01-24T09:00:26+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=838
 permalink: /vmware-view-cmdlets-and-powershell-implicit-remoting/
 categories:
@@ -17,7 +17,7 @@ One of the differences between the VMware View cmdlets and PowerCLI is that the 
 
 First, PowerShell Remoting needs to be enabled on the Connection Server. There are several ways to configure remoting, but in a domain environment I like to turn it on with group policy. Enabling the automatic configuration of listeners is usually all the configuration necessary to enable remoting on a domain server, but lots of information is available for different situations. The <a href="http://go.microsoft.com/fwlink/?LinkID=135188" title="about_remote_troubleshooting" target="_blank">about_remote_troubleshooting</a> help file is handy, and there are books specific to remoting on my <a href="https://www.hofferle.com/archives/624" title="List of Free PowerShell eBooks" target="_blank">list of free PowerShell ebooks</a>.
 
-[<img src="/assets/img/AllowAutomaticConfigurationOfListeners_1.png" alt="Group Policy Setting for &quot;Allow Automatic Configuration of Listeners&quot;" title="AllowAutomaticConfigurationOfListeners" width="640" height="572" class="alignnone size-full wp-image-1273" srcset="/assets/img/AllowAutomaticConfigurationOfListeners_1.png 640w, /assets/img/AllowAutomaticConfigurationOfListeners_1-300x268.png 300w" sizes="(max-width: 640px) 100vw, 640px" />](/assets/img/AllowAutomaticConfigurationOfListeners_1.png)
+![image-left](/assets/img/AllowAutomaticConfigurationOfListeners_1.png){: .align-left}
 
 ```powershell
 $session = New-PSSession -ComputerName "NameOfConnectionServer"
@@ -39,7 +39,7 @@ The cmdlets are loaded in the server&#8217;s PowerShell session, but they must b
 
 With the View cmdlets imported from the remote session, those commands can now be executed as if they were installed locally. PowerShell is doing all the work behind the scenes to _implicitly_ run the commands on the remote server and return the results to the local workstation.
 
-[<img src="/assets/img/VMwareViewImplicitRemoting_1.png" alt="Using PowerShell Implicit Remoting to use VMware View Cmdlets" title="VMwareViewImplicitRemoting" width="640" height="518" class="alignnone size-full wp-image-1272" srcset="/assets/img/VMwareViewImplicitRemoting_1.png 640w, /assets/img/VMwareViewImplicitRemoting_1-300x242.png 300w" sizes="(max-width: 640px) 100vw, 640px" />](/assets/img/VMwareViewImplicitRemoting_1.png)
+![image-left](/assets/img/VMwareViewImplicitRemoting_1.png){: .align-left}
 
 ```powershell
 Remove-PSSession $session

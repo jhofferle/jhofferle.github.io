@@ -3,7 +3,7 @@ id: 875
 title: Toggle Smart Card Logon Requirement with Set-ScForceOption
 date: 2012-01-31T09:00:48+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=875
 permalink: /toggle-smart-card-logon-requirement-with-set-scforceoption/
 categories:

@@ -3,7 +3,7 @@ id: 1424
 title: 'Chicken Soup for the PowerShell Soul: The 2013 PowerShell Summit'
 date: 2013-04-28T13:43:49+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=1424
 permalink: /chicken-soup-for-the-powershell-soul-the-2013-powershell-summit/
 categories:
@@ -13,7 +13,7 @@ tags:
   - PowerShell
   - PowerShell Summit
 ---
-[<img src="/assets/img/Geek-Xing-225x300.jpg" alt="Geek Xing" width="225" height="300" class="alignleft size-medium wp-image-1425" srcset="/assets/img/Geek-Xing-225x300.jpg 225w, /assets/img/Geek-Xing-112x150.jpg 112w, /assets/img/Geek-Xing-360x480.jpg 360w, /assets/img/Geek-Xing.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" />](/assets/img/Geek-Xing.jpg)Last week I attended the 2013 <a href="http://powershell.org/wp/powershell-summit-north-america/" title="PowerShell Summit North America" target="_blank">PowerShell Summit</a> in Redmond, and it exceeded my expectations in every way. This was an event that felt like a three day user group meeting where PowerShell enthusiasts from all over the world decided to show up.
+![image-left](/assets/img/Geek-Xing.jpg){: .align-left}Last week I attended the 2013 <a href="http://powershell.org/wp/powershell-summit-north-america/" title="PowerShell Summit North America" target="_blank">PowerShell Summit</a> in Redmond, and it exceeded my expectations in every way. This was an event that felt like a three day user group meeting where PowerShell enthusiasts from all over the world decided to show up.
 
 I’ve never been to Seattle, and I have to thank <a href="http://sqlvariant.com/" title="SQLvariations: SQL Server, a little PowerShell, maybe some Hyper-V" target="_blank">Aaron Nelson</a> and <a href="http://www.jasonhelmick.com/" title=""Knowledge is PowerShell" Jason Helmick's Blog" target="_blank">Jason Helmick</a> for being my de-facto tour guides Sunday afternoon. Walking around downtown and getting a taste of the stereotypical Seattle weather was a great start to the week, and after that first day the sun decided to come out, which seemed to be a bigger deal for the locals than someone from Florida. Sunday evening there was a community mixer that immediately clarified how different this was going to be than a typical IT conference. At any other venue, I don’t get to chat with <a href="http://www.jsnover.com/blog/" title="Jeffrey Snover's blog" target="_blank">Jeffrey Snover</a> about DevOps, or talk to <a href="http://concentratedtech.com/" title="Concentrated Technology" target="_blank">Don Jones</a> about PowerShell content for desktop administration. This was truly a Most Valuable Professional (MVP) experience for non-MVPs.
 

@@ -3,7 +3,7 @@ id: 1340
 title: Windows 8 Consumer Preview and PowerShell 3.0
 date: 2012-03-01T14:04:13+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=1340
 permalink: /windows-8-consumer-preview-and-powershell-3-0/
 ninja_forms_form:

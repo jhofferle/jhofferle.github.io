@@ -3,7 +3,7 @@ id: 1339
 title: Generating Lists of Computer Names with PowerShell
 date: 2012-03-06T09:00:26+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=1339
 permalink: /generating-lists-of-computer-names-with-powershell/
 categories:
@@ -80,9 +80,9 @@ When the spreadsheet has been narrowed down to the required names, it can then b
 
 The capability of PowerShell to import Csv files is also useful when a list of computers is provided in an Excel spreadsheet from another IT department. It&#8217;s common for reporting software to generate spreadsheets of computer names along with all kinds of other data. By saving these Excel spreadsheets as Csv files, they can easily be imported directly into PowerShell.
 
-[<img src="/assets/img/Excel_ComputerList.png" alt="Excel Computer List" title="Excel_ComputerList" width="640" height="551" class="alignnone size-full wp-image-1344" srcset="/assets/img/Excel_ComputerList.png 640w, /assets/img/Excel_ComputerList-150x129.png 150w, /assets/img/Excel_ComputerList-300x258.png 300w, /assets/img/Excel_ComputerList-557x480.png 557w" sizes="(max-width: 640px) 100vw, 640px" />](/assets/img/Excel_ComputerList.png)
+![image-left](/assets/img/Excel_ComputerList.png){: .align-left}
 
-[<img src="/assets/img/Excel_SaveAsCsv.png" alt="Excel Save as Csv" title="Excel_SaveAsCsv" width="640" height="472" class="alignnone size-full wp-image-1345" srcset="/assets/img/Excel_SaveAsCsv.png 640w, /assets/img/Excel_SaveAsCsv-150x110.png 150w, /assets/img/Excel_SaveAsCsv-300x221.png 300w" sizes="(max-width: 640px) 100vw, 640px" />](/assets/img/Excel_SaveAsCsv.png)
+![image-left](/assets/img/Excel_SaveAsCsv.png){: .align-left}
 
 ```powershell
 $Computers = Import-Csv -Path Computers.csv | Foreach-Object {$_.NetBIOSName.Trim()}

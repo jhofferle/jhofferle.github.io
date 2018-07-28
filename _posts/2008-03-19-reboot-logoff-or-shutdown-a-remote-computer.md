@@ -3,7 +3,7 @@ id: 315
 title: Reboot, Logoff or Shutdown a Remote Computer
 date: 2008-03-19T14:17:13+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=315
 permalink: /reboot-logoff-or-shutdown-a-remote-computer/
 categories:

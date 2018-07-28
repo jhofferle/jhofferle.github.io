@@ -3,7 +3,7 @@ id: 327
 title: Creating computer accounts in Active Directory
 date: 2008-07-30T14:22:02+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=327
 permalink: /creating-computer-accounts-in-active-directory/
 categories:

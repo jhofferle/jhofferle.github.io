@@ -3,7 +3,7 @@ id: 339
 title: Send Email with Attachment using VBScript
 date: 2010-06-19T14:28:56+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=339
 permalink: /send-email-with-attachment-using-vbscript/
 categories:

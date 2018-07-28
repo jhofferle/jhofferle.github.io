@@ -3,7 +3,7 @@ id: 48
 title: Geocoding with PowerShell and Google Geocoding API V2
 date: 2010-10-23T10:48:34+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=48
 permalink: /geocoding-with-powershell-and-google-geocoding-api-v2/
 ninja_forms_form:

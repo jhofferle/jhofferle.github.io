@@ -3,7 +3,7 @@ id: 318
 title: Automatic Logoff when Screensaver Activates
 date: 2008-03-19T14:18:43+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=318
 permalink: /automatic-logoff-when-screensaver-activates/
 categories:

@@ -3,7 +3,7 @@ id: 1390
 title: Learn PowerShell at the 2012 Tampa IT Pro Camp
 date: 2012-08-30T20:22:49+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=1390
 permalink: /learn-powershell-at-the-2012-tampa-it-pro-camp/
 categories:

@@ -3,7 +3,7 @@ id: 548
 title: PowerShell Remoting Performance
 date: 2011-05-19T09:00:39+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=548
 permalink: /powershell-remoting-performance/
 categories:
@@ -26,10 +26,10 @@ Measure-Command {$results = $computers | % {Get-WinEvent -FilterHashtable @{logn
 Measure-Command {$results = Invoke-Command -ComputerName $computers -ScriptBlock {Get-WinEvent -FilterHashtable @{logname="security";id=4624} -MaxEvents 20} -ThrottleLimit 50}
 ```
 
-[<img src="/assets/img/RemotingChart01-e1305755995603.png" alt="Chart displaying the performance gains when using PowerShell remoting to retrieve event logs." title="RemotingChart01" width="600" height="375" class="alignnone size-full wp-image-546" />](/assets/img/RemotingChart01-e1305755995603.png)
+![image-left](/assets/img/RemotingChart01-e1305755995603.png){: .align-left}
 
 I also ran the same remoting command against larger numbers of computers to see how well things scaled.
 
-[<img src="/assets/img/RemotingChart02-e1305758086684.png" alt="Chart displaying performance gains when using PowerShell remoting to retrieve event logs." title="RemotingChart02" width="600" height="375" class="alignnone size-full wp-image-547" />](/assets/img/RemotingChart02-e1305758086684.png)
+![image-left](/assets/img/RemotingChart02-e1305758086684.png){: .align-left}
 
 These commands were run from my workstation against clients all over the United States and most were multiple WAN hops away. This method was used in a real production environment to gather statistics for convincing management that a problem had been solved. PowerShell remoting is a truly powerful feature that really starts shining when you throw hundreds or thousands of computers at it.

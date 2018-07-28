@@ -3,7 +3,7 @@ id: 302
 title: Disable Power Management on Network Adapters and USB Ports with VBScript
 date: 2010-06-19T14:04:34+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=302
 permalink: /disable-power-management-on-network-adapters-and-usb-ports-with-vbscript/
 categories:

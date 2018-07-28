@@ -3,7 +3,7 @@ id: 757
 title: Version Control for PowerShell
 date: 2011-10-14T10:42:59+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=757
 permalink: /version-control-presentation/
 categories:
@@ -11,7 +11,7 @@ categories:
 tags:
   - PowerShell
 ---
-[<img src="/assets/img/TrainingRoom.jpg" alt="Training Room" title="TrainingRoom" width="200" height="300" class="alignleft size-full wp-image-539" />](/assets/img/TrainingRoom.jpg)Last night I gave a presentation on using version control for the [Tampa PowerShell User Group](http://powershellgroup.org/tampa.fl). This presentation was mostly a demo of using TortoiseHg, and how it can be useful for IT Pros that need to manage production scripts. Here is the slide deck and links to more information.
+![image-left](http://powershellgroup.org/tampa.fl). This presentation was mostly a demo of using TortoiseHg, and how it can be useful for IT Pros that need to manage production scripts. Here is the slide deck and links to more information.
 
 [Version Control for PowerShell Slide Deck](/assets/img/VersionControlPowerShell.pdf)
 

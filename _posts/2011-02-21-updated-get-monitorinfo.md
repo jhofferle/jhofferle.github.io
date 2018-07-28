@@ -3,7 +3,7 @@ id: 219
 title: Updated Get-MonitorInfo
 date: 2011-02-21T23:41:24+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=219
 permalink: /updated-get-monitorinfo/
 categories:

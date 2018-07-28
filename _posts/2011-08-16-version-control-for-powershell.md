@@ -3,7 +3,7 @@ id: 666
 title: Using Version Control for PowerShell
 date: 2011-08-16T19:00:29+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=666
 permalink: /version-control-for-powershell/
 categories:
@@ -21,17 +21,17 @@ Have you ever frantically searched for an old backup of a script because you can
 
 Are your scripts filling up with comments that provide a history of changes? Comments are supposed to help make a script easier to understand. I&#8217;ve seen scripts where half the code was commented out in order to maintain a history of changes. Version control is an infinitely better way to keep a record of changes made to a script over time.
 
-[<img src="/assets/img/VersionHistoryInScript.png" alt="Script comments that describe the change history" title="VersionHistoryInScript" width="600" height="124" class="alignnone size-full wp-image-675" srcset="/assets/img/VersionHistoryInScript.png 600w, /assets/img/VersionHistoryInScript-300x62.png 300w" sizes="(max-width: 600px) 100vw, 600px" />](/assets/img/VersionHistoryInScript.png)
+![image-left](/assets/img/VersionHistoryInScript.png){: .align-left}
 
 Are your directories full of various versions of a single script? This is something I&#8217;ve been guilty of in the past. It seemed like a perfectly resonable way to maintain a history, but then I realized there was freely available software designed to do all the work for me.
 
-[<img src="/assets/img/ScriptVersions.png" alt="Directory with different versions of same script" title="ScriptVersions" width="400" height="315" class="alignnone size-full wp-image-678" srcset="/assets/img/ScriptVersions.png 400w, /assets/img/ScriptVersions-300x236.png 300w" sizes="(max-width: 400px) 100vw, 400px" />](/assets/img/ScriptVersions.png)
+![image-left](/assets/img/ScriptVersions.png){: .align-left}
 
 Have you ever had to manually merge different versions of a script because someone else made changes the same time you did? Merging the changes multiple people make to the same file is one of the primary reasons version control exists. For a single person it&#8217;s helpful, but when there are multiple people it becomes essential.
 
 Using version control software provides an easy way to keep track of every change made to your scripts, and it allows multiple people to collaborate on scripts easily. 
 
-[<img src="/assets/img/VersionControlHistory.png" alt="Version History in TortoiseHg Workbench" title="VersionControlHistory" width="600" height="467" class="alignnone size-full wp-image-706" srcset="/assets/img/VersionControlHistory.png 600w, /assets/img/VersionControlHistory-300x233.png 300w" sizes="(max-width: 600px) 100vw, 600px" />](/assets/img/VersionControlHistory.png)
+![image-left](/assets/img/VersionControlHistory.png){: .align-left}
 
 There is a ton of information on version control software, with some very strong opinions in favor of a certain package or against another. One thing to keep in mind when reading some of these discussions is that a large software project with hundreds of developers has different needs than a team of two or three network administrators that just want a simple way to keep track of their scripts. Developers can afford to agonize over minor details because the software they select is so central to their work. IT Pros primarily need something that&#8217;s simple to setup and easy to use.
 

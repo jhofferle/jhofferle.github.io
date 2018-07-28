@@ -3,7 +3,7 @@ id: 800
 title: PowerShell for Desktop Support and Helpdesk Staff
 date: 2012-02-14T09:00:17+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=800
 permalink: /powershell-for-desktop-support-and-helpdesk-staff/
 categories:
@@ -11,7 +11,7 @@ categories:
 tags:
   - PowerShell
 ---
-[<img src="/assets/img/HelpDesk.jpg" alt="Helpdesk Support Staff" title="HelpDesk" width="347" height="346" class="alignleft size-full wp-image-1045" srcset="/assets/img/HelpDesk.jpg 347w, /assets/img/HelpDesk-150x150.jpg 150w, /assets/img/HelpDesk-300x300.jpg 300w" sizes="(max-width: 347px) 100vw, 347px" />](/assets/img/HelpDesk.jpg)Many of the resources and discussions about PowerShell are geared towards enterprise IT staff responsible for supporting servers. With entire books written about using PowerShell to manage Exchange, vSphere, and other enterprise technologies, it&#8217;s easy for end-user support personnel to get the impression that PowerShell isn&#8217;t something they need to know. I&#8217;m here to tell you that desktop support and helpdesk staff have just as many reasons to learn PowerShell as a server administrator.
+![image-left](/assets/img/HelpDesk.jpg){: .align-left}Many of the resources and discussions about PowerShell are geared towards enterprise IT staff responsible for supporting servers. With entire books written about using PowerShell to manage Exchange, vSphere, and other enterprise technologies, it&#8217;s easy for end-user support personnel to get the impression that PowerShell isn&#8217;t something they need to know. I&#8217;m here to tell you that desktop support and helpdesk staff have just as many reasons to learn PowerShell as a server administrator.
 
 I come from a different background than many heavy PowerShell users because I&#8217;ve spent the majority of my IT career on the client side of things. I&#8217;ve assisted end users in person and over the phone, I&#8217;ve performed several desktop deployments, and I&#8217;m working on virtual desktop infrastructure. Even though I&#8217;m not responsible for managing Active Directory or SQL Servers, PowerShell has become a daily tool for me, and I thought I would throw out some reasons why someone that rarely touches a server should make PowerShell a priority.
 

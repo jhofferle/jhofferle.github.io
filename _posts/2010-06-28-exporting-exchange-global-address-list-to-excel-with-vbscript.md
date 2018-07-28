@@ -3,7 +3,7 @@ id: 309
 title: Exporting Exchange Global Address List to Excel with VBScript
 date: 2010-06-28T14:11:01+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=309
 permalink: /exporting-exchange-global-address-list-to-excel-with-vbscript/
 categories:

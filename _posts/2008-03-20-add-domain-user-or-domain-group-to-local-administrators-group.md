@@ -3,7 +3,7 @@ id: 312
 title: Add Domain User or Domain Group to Local Administrators Group
 date: 2008-03-20T14:14:18+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=312
 permalink: /add-domain-user-or-domain-group-to-local-administrators-group/
 categories:

@@ -3,7 +3,7 @@ id: 321
 title: Bypassing Smart Card Logon using Remote Registry
 date: 2010-07-18T14:19:41+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=321
 permalink: /bypassing-smart-card-logon-using-remote-registry/
 categories:

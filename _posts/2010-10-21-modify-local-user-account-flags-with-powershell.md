@@ -3,7 +3,7 @@ id: 17
 title: Modify Local User Account Flags with PowerShell
 date: 2010-10-21T20:25:19+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=17
 permalink: /modify-local-user-account-flags-with-powershell/
 categories:

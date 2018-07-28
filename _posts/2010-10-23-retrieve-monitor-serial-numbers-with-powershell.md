@@ -3,7 +3,7 @@ id: 45
 title: Retrieve Monitor Serial Numbers with PowerShell
 date: 2010-10-23T10:46:40+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=45
 permalink: /retrieve-monitor-serial-numbers-with-powershell/
 categories:

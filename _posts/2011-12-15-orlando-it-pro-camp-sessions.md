@@ -3,7 +3,7 @@ id: 781
 title: Orlando IT Pro Camp Sessions
 date: 2011-12-15T00:00:00+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=781
 permalink: /orlando-it-pro-camp-sessions/
 categories:

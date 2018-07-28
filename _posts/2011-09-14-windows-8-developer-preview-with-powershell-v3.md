@@ -3,7 +3,7 @@ id: 745
 title: Windows 8 Developer Preview with PowerShell v3
 date: 2011-09-14T07:22:09+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=745
 permalink: /windows-8-developer-preview-with-powershell-v3/
 categories:

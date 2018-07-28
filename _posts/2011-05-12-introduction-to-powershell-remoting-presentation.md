@@ -3,7 +3,7 @@ id: 531
 title: Introduction to PowerShell Remoting
 date: 2011-05-12T21:34:10+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=531
 permalink: /introduction-to-powershell-remoting-presentation/
 categories:
@@ -11,7 +11,7 @@ categories:
 tags:
   - PowerShell
 ---
-[<img src="https://github.hofferle.com/assets/img/TrainingRoom.jpg" alt="" title="TrainingRoom" width="200" height="300" class="alignleft size-full wp-image-539" />](/assets/img/TrainingRoom.jpg)Tonight I gave a presentation on PowerShell remoting for the [Tampa PowerShell User Group](http://powershellgroup.org/tampa.fl). Here is the slide deck and links to the resources I referenced. 
+![image-left](http://powershellgroup.org/tampa.fl). Here is the slide deck and links to the resources I referenced. 
 
 [Introduction to PowerShell Remoting Slide Deck](/assets/img/IntroductionPowerShellRemoting.pdf)
 

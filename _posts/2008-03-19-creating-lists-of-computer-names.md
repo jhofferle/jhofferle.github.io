@@ -3,7 +3,7 @@ id: 336
 title: Creating Lists of Computer Names
 date: 2008-03-19T14:27:49+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=336
 permalink: /creating-lists-of-computer-names/
 categories:

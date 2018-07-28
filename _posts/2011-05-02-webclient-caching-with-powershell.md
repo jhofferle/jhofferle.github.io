@@ -3,7 +3,7 @@ id: 474
 title: Webclient Caching with PowerShell
 date: 2011-05-02T09:00:44+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=474
 permalink: /webclient-caching-with-powershell/
 ninja_forms_form:

@@ -3,7 +3,7 @@ id: 330
 title: Finding computer IP information
 date: 2008-03-19T14:23:00+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=330
 permalink: /finding-computer-ip-information/
 categories:

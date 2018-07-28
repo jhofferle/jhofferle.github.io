@@ -3,7 +3,7 @@ id: 82
 title: Geocoding with PowerShell
 date: 2010-10-23T20:06:12+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=82
 permalink: /geocoding-with-powershell-2/
 categories:

@@ -3,7 +3,7 @@ id: 892
 title: Adding Domain Groups to Local Administrators Group with PowerShell
 date: 2012-02-07T09:00:41+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=892
 permalink: /adding-domain-groups-to-local-administrators-group-with-powershell/
 categories:

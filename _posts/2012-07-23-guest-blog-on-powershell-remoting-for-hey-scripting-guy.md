@@ -3,7 +3,7 @@ id: 1376
 title: Guest Blog on PowerShell Remoting for Hey, Scripting Guy!
 date: 2012-07-23T07:24:22+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=1376
 permalink: /guest-blog-on-powershell-remoting-for-hey-scripting-guy/
 categories:
@@ -12,7 +12,7 @@ tags:
   - PowerShell
   - Remoting
 ---
-[<img src="/assets/img/Typewriter-203x300.jpg" alt="Typewriter" title="Typewriter" width="203" height="300" class="alignleft size-medium wp-image-1377" srcset="/assets/img/Typewriter-203x300.jpg 203w, /assets/img/Typewriter-101x150.jpg 101w, /assets/img/Typewriter.jpg 285w" sizes="(max-width: 203px) 100vw, 203px" />](/assets/img/Typewriter.jpg)This week I&#8217;m the guest blogger for the Microsoft <a href="http://blogs.technet.com/b/heyscriptingguy/" title="Hey, Scripting Guy! Blog" target="_blank">Hey, Scripting Guy! blog</a>. The five-part series will focus on PowerShell Remoting.
+![image-left](/assets/img/Typewriter.jpg){: .align-left}This week I&#8217;m the guest blogger for the Microsoft <a href="http://blogs.technet.com/b/heyscriptingguy/" title="Hey, Scripting Guy! Blog" target="_blank">Hey, Scripting Guy! blog</a>. The five-part series will focus on PowerShell Remoting.
 
 <a href="http://blogs.technet.com/b/heyscriptingguy/archive/2012/07/23/an-introduction-to-powershell-remoting-part-one.aspx" title="An Introduction to PowerShell Remoting: Part One" target="_blank">An Introduction to PowerShell Remoting: Part One</a>
 

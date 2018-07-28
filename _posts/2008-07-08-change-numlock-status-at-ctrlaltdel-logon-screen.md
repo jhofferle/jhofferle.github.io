@@ -3,7 +3,7 @@ id: 306
 title: Change Numlock Status at Ctrl+Alt+Del Logon screen
 date: 2008-07-08T14:08:56+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=306
 permalink: /change-numlock-status-at-ctrlaltdel-logon-screen/
 categories:

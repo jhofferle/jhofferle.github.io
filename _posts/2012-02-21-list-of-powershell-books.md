@@ -3,7 +3,7 @@ id: 1106
 title: List of PowerShell Books
 date: 2012-02-21T09:00:40+00:00
 author: Jason Hofferle
-layout: post
+#layout: post
 guid: http://www.hofferle.com/?p=1106
 permalink: /list-of-powershell-books/
 ninja_forms_form:
@@ -22,7 +22,7 @@ The one possible exception to &#8220;buy a book that covers version 3&#8221; is 
 
 ### Learn Windows PowerShell 3 in a Month of Lunches
 
-[<img src="/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg" alt="Learn Windows PowerShell 3 in a Month of Lunches Cover" title="Learn-Windows-PowerShell-3-in-a-Month-of-Lunches" width="150" height="189" class="alignleft size-full wp-image-1380" srcset="/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg 150w, /assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg)**Don Jones, Jeffery Hicks**
+![image-left](/assets/img/Learn-Windows-PowerShell-3-in-a-Month-of-Lunches.jpg){: .align-left}**Don Jones, Jeffery Hicks**
   
 Paperback: 300 pages
   
@@ -38,7 +38,7 @@ ISBN-13: 978-1617291081
 
 ### Windows PowerShell Cookbook, Third Edition
 
-[<img src="/assets/img/WindowsPowerShellCookbook_3rd_150.png" alt="Windows PowerShell Cookbook Third Edition" title="Windows PowerShell Cookbook Third Edition Cover" width="150" height="197" class="alignleft size-full wp-image-1392" srcset="/assets/img/WindowsPowerShellCookbook_3rd_150.png 150w, /assets/img/WindowsPowerShellCookbook_3rd_150-114x150.png 114w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShellCookbook_3rd_150.png)**Lee Holmes**
+![image-left](/assets/img/WindowsPowerShellCookbook_3rd_150.png){: .align-left}**Lee Holmes**
   
 Paperback: 1000 pages
   
@@ -54,7 +54,7 @@ ISBN-13: 978-1449320683
 
 ### PowerShell in Depth
 
-[<img src="/assets/img/PowerShell-in-Depth.jpg" alt="PowerShell in Depth Cover" title="PowerShell-in-Depth" width="150" height="189" class="alignleft size-full wp-image-1382" srcset="/assets/img/PowerShell-in-Depth.jpg 150w, /assets/img/PowerShell-in-Depth-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/PowerShell-in-Depth.jpg)**Don Jones, Richard Siddaway, Jeffery Hicks**
+![image-left](/assets/img/PowerShell-in-Depth.jpg){: .align-left}**Don Jones, Richard Siddaway, Jeffery Hicks**
   
 Paperback: 525 pages
   
@@ -70,7 +70,7 @@ ISBN-13: 978-1617290558
 
 ### Windows PowerShell 3.0 Step By Step
 
-[<img src="/assets/img/WindowsPowerShell3StepByStep_150.png" alt="Windows PowerShell 3.0 Step By Step" title="Windows PowerShell 3.0 Step By Step" width="150" height="183" class="alignleft size-full wp-image-1368" srcset="/assets/img/WindowsPowerShell3StepByStep_150.png 150w, /assets/img/WindowsPowerShell3StepByStep_150-122x150.png 122w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShell3StepByStep_150.png)**Ed Wilson**
+![image-left](/assets/img/WindowsPowerShell3StepByStep_150.png){: .align-left}**Ed Wilson**
   
 Paperback: 560 pages
   
@@ -88,7 +88,7 @@ ISBN-13: 978-0735663398
 
 ### PowerShell 3.0 Advanced Administration Handbook
 
-[<img src="/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg" alt="PowerShell 3.0 Advanced Administration Handbook" width="150" height="187" class="alignleft size-full wp-image-1432" srcset="/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg 150w, /assets/img/PowerShell3AdvancedAdministrationHandbook-120x150.jpg 120w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg)**Sherif Talaat, Haijun Fu**
+![image-left](/assets/img/PowerShell3AdvancedAdministrationHandbook.jpg){: .align-left}**Sherif Talaat, Haijun Fu**
   
 Paperback: 370 pages
   
@@ -104,7 +104,7 @@ ISBN-13: 978-1849686426
 
 ### Microsoft Windows PowerShell 3.0 First Look
 
-[<img src="/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png" alt="Microsoft Windows PowerShell 3 First Look" title="Microsoft Windows PowerShell 3 First Look" width="150" height="184" class="alignleft size-full wp-image-1396" srcset="/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png 150w, /assets/img/MicrosoftWindowsPowerShell3FirstLook_150-122x150.png 122w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png)**Adam Driscoll**
+![image-left](/assets/img/MicrosoftWindowsPowerShell3FirstLook_150.png){: .align-left}**Adam Driscoll**
   
 Paperback: 200 pages
   
@@ -120,7 +120,7 @@ ISBN-13: 978-1849686440
 
 ### Learn PowerShell Toolmaking in a Month of Lunches
 
-[<img src="/assets/img/jones4_cover150.jpg" alt="Learn PowerShell Toolmaking in a Month of Lunches MEAP Cover" title="PowerShell_Toolmaking_Meap_Cover" width="150" height="188" class="alignleft size-full wp-image-1388" srcset="/assets/img/jones4_cover150.jpg 150w, /assets/img/jones4_cover150-119x150.jpg 119w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/jones4_cover150.jpg)**Don Jones, Jeffery Hicks**
+![image-left](/assets/img/jones4_cover150.jpg){: .align-left}**Don Jones, Jeffery Hicks**
   
 Paperback: 300 pages
   
@@ -134,7 +134,7 @@ ISBN-13: 978-1617291166
 
 ### Windows PowerShell for Developers
 
-[<img src="/assets/img/WindowsPowerShellForDevelopers_150.png" alt="Windows PowerShell For Developers" title="Windows PowerShell For Developers" width="150" height="197" class="alignleft size-full wp-image-1361" srcset="/assets/img/WindowsPowerShellForDevelopers_150.png 150w, /assets/img/WindowsPowerShellForDevelopers_150-114x150.png 114w" sizes="(max-width: 150px) 100vw, 150px" />](/assets/img/WindowsPowerShellForDevelopers_150.png)**Douglas Finke**
+![image-left](/assets/img/WindowsPowerShellForDevelopers_150.png){: .align-left}**Douglas Finke**
   
 Paperback: 125 pages
   
@@ -150,7 +150,7 @@ ISBN-13: 978-1449322700
 
 ### PowerShell and WMI
 
-[<img src="/assets/img/PowerShellandWMI_150.png" alt="PowerShell and WMI" title="PowerShellandWMI" width="150" height="188" class="alignleft size-full wp-image-1192" />](/assets/img/PowerShellandWMI_150.png)**Richard Siddaway**
+![image-left](/assets/img/PowerShellandWMI_150.png){: .align-left}**Richard Siddaway**
   
 Paperback: 450 pages
   
@@ -166,7 +166,7 @@ ISBN-13: 978-1617290114
 
 ### Microsoft SharePoint 2010 and Windows PowerShell 2.0: Expert Cookbook
 
-[<img src="/assets/img/MicrosoftSharePoint2010andWindowsPowerShell2ExpertCookbook_150.png" alt="Microsoft SharePoint 2010 and Windows PowerShell 2 Expert Cookbook" title="MicrosoftSharePoint2010andWindowsPowerShell2ExpertCookbook" width="150" height="185" class="alignleft size-full wp-image-1195" />](/assets/img/MicrosoftSharePoint2010andWindowsPowerShell2ExpertCookbook_150.png)**Yaroslav Pentsarskyy**
+![image-left](/assets/img/MicrosoftSharePoint2010andWindowsPowerShell2ExpertCookbook_150.png){: .align-left}**Yaroslav Pentsarskyy**
   
 Paperback: 310 pages
   
@@ -182,7 +182,7 @@ ISBN-13: 978-1849684101
 
 ### Windows PowerShell 2.0 Bible
 
-[<img src="/assets/img/PowerShellBible_150.png" alt="Windows PowerShell 2.0 Bible" title="PowerShellBible" width="150" height="190" class="alignleft size-full wp-image-1169" />](/assets/img/PowerShellBible_150.png)**Thomas Lee, Karl Mitschke, Mark E. Schill, Tome Tanasovski**
+![image-left](/assets/img/PowerShellBible_150.png){: .align-left}**Thomas Lee, Karl Mitschke, Mark E. Schill, Tome Tanasovski**
   
 Paperback: 696 pages
   
@@ -198,7 +198,7 @@ ISBN-13: 978-1118021989
 
 ### Microsoft Exchange 2010 PowerShell Cookbook
 
-[<img src="/assets/img/MicrosoftExchange2010PowerShellCookbook_150.png" alt="Microsoft Exchange 2010 PowerShell Cookbook" title="MicrosoftExchange2010PowerShellCookbook" width="150" height="184" class="alignleft size-full wp-image-1198" />](/assets/img/MicrosoftExchange2010PowerShellCookbook_150.png)**Mike Pfeiffer**
+![image-left](/assets/img/MicrosoftExchange2010PowerShellCookbook_150.png){: .align-left}**Mike Pfeiffer**
   
 Paperback: 480 pages
   
@@ -214,7 +214,7 @@ ISBN-13: 978-1849682466
 
 ### PowerShell for SharePoint 2010 How-To
 
-[<img src="/assets/img/PowerShellforSharePoint2010HowTo_150.png" alt="PowerShell for SharePoint 2010 HowTo" title="PowerShellforSharePoint2010HowTo" width="150" height="243" class="alignleft size-full wp-image-1223" />](/assets/img/PowerShellforSharePoint2010HowTo_150.png)**Steven Mann**
+![image-left](/assets/img/PowerShellforSharePoint2010HowTo_150.png){: .align-left}**Steven Mann**
   
 Paperback: 272 pages
   
@@ -230,7 +230,7 @@ ISBN-13: 978-0672335594
 
 ### Automating Active Directory Administration with Windows PowerShell 2.0
 
-[<img src="/assets/img/AutomatingActiveDirectoryAdministration_150.png" alt="Automating Active Directory Administration with Windows PowerShell 2.0" title="AutomatingActiveDirectoryAdministration" width="150" height="189" class="alignleft size-full wp-image-1172" />](/assets/img/AutomatingActiveDirectoryAdministration_150.png)**Ken St. Cyr, Laura E. Hunter**
+![image-left](/assets/img/AutomatingActiveDirectoryAdministration_150.png){: .align-left}**Ken St. Cyr, Laura E. Hunter**
   
 Paperback: 504 pages
   
@@ -246,7 +246,7 @@ ISBN-13: 978-1118027318
 
 ### Automating SharePoint 2010 with Windows PowerShell 2.0
 
-[<img src="/assets/img/AutomatingSharePoint2010AdministrationWithWindowsPowerShell_150.png" alt="Automating SharePoint 2010 Administration with Windows PowerShell 2.0" title="AutomatingSharePoint2010AdministrationWithWindowsPowerShell" width="150" height="189" class="alignleft size-full wp-image-1203" />](/assets/img/AutomatingSharePoint2010AdministrationWithWindowsPowerShell_150.png)**Gary Lapointe, Shannon Bray**
+![image-left](/assets/img/AutomatingSharePoint2010AdministrationWithWindowsPowerShell_150.png){: .align-left}**Gary Lapointe, Shannon Bray**
   
 Paperback: 768 pages
   
@@ -262,7 +262,7 @@ ISBN-13: 978-0470939208
 
 ### Automating Microsoft Windows Server 2008 R2 with Windows PowerShell 2.0
 
-[<img src="/assets/img/AutomatingMicrosoftWindowsServer2008R2withWindowsPowerShell_150.png" alt="Automating Microsoft Windows Server 2008 R2 with Windows PowerShell" title="AutomatingMicrosoftWindowsServer2008R2withWindowsPowerShell" width="150" height="189" class="alignleft size-full wp-image-1162" />](/assets/img/AutomatingMicrosoftWindowsServer2008R2withWindowsPowerShell_150.png)**Matthew Hester, Sarah Dutkiewicz**
+![image-left](/assets/img/AutomatingMicrosoftWindowsServer2008R2withWindowsPowerShell_150.png){: .align-left}**Matthew Hester, Sarah Dutkiewicz**
   
 Paperback: 432 pages
   
@@ -278,7 +278,7 @@ ISBN-13: 978-1118013861
 
 ### Windows PowerShell in Action, Second Edition
 
-[<img src="/assets/img/WindowsPowerShellInAction_150.png" alt="Windows PowerShell In Action, Second Edition" title="Windows PowerShell In Action" width="150" height="188" class="alignleft size-full wp-image-1121" />](/assets/img/WindowsPowerShellInAction_150.png)**Bruce Payette**
+![image-left](/assets/img/WindowsPowerShellInAction_150.png){: .align-left}**Bruce Payette**
   
 Paperback: 1016 pages
   
@@ -294,7 +294,7 @@ ISBN-13: 978-1935182139
 
 ### Learn Windows PowerShell in a Month of Lunches
 
-[<img src="/assets/img/Learn-Windows-PowerShell-in-a-Month-of-Lunches_150.png" alt="Learn Windows PowerShell in a Month of Lunches" title="Learn-Windows-PowerShell-in-a-Month-of-Lunches" width="150" height="190" class="alignleft size-full wp-image-1134" />](/assets/img/Learn-Windows-PowerShell-in-a-Month-of-Lunches_150.png)**Don Jones**
+![image-left](/assets/img/Learn-Windows-PowerShell-in-a-Month-of-Lunches_150.png){: .align-left}**Don Jones**
   
 Paperback: 425 pages
   
@@ -310,7 +310,7 @@ ISBN-13: 978-1617290213
 
 ### VMware vSphere PowerCLI Reference: Automating vSphere Administration
 
-[<img src="/assets/img/VMwarevSpherePowerCLIReference_150.png" alt="VMware vSphere PowerCLI Reference" title="VMwarevSpherePowerCLIReference" width="150" height="190" class="alignleft size-full wp-image-1206" />](/assets/img/VMwarevSpherePowerCLIReference_150.png)**Luc Dekens, Alan Renouf, Glenn Sizemore, Arnim van Lieshout, Jonathan Medd**
+![image-left](/assets/img/VMwarevSpherePowerCLIReference_150.png){: .align-left}**Luc Dekens, Alan Renouf, Glenn Sizemore, Arnim van Lieshout, Jonathan Medd**
   
 Paperback: 768 pages
   
@@ -326,7 +326,7 @@ ISBN-13: 978-0470890790
 
 ### Managing Active Directory with Windows PowerShell: TFM, 2nd Edition
 
-[<img src="/assets/img/ManagingActiveDirectoryWithWindowsPowerShell_150.png" alt="Managing Active Directory with Windows PowerShell" title="ManagingActiveDirectoryWithWindowsPowerShell" width="150" height="213" class="alignleft size-full wp-image-1211" />](/assets/img/ManagingActiveDirectoryWithWindowsPowerShell_150.png)**Jeffery Hicks**
+![image-left](/assets/img/ManagingActiveDirectoryWithWindowsPowerShell_150.png){: .align-left}**Jeffery Hicks**
   
 Paperback: 402 pages
   
@@ -342,7 +342,7 @@ ISBN-13: 978-0982131442
 
 ### Windows PowerShell 2.0 Best Practices
 
-[<img src="/assets/img/WindowsPowerShellBestPractices_150.png" alt="Windows PowerShell Best Practices" title="WindowsPowerShellBestPractices" width="150" height="183" class="alignleft size-full wp-image-1166" />](/assets/img/WindowsPowerShellBestPractices_150.png)**Ed Wilson**
+![image-left](/assets/img/WindowsPowerShellBestPractices_150.png){: .align-left}**Ed Wilson**
   
 Paperback: 752 pages
   
@@ -358,7 +358,7 @@ ISBN-13: 978-0735626461
 
 ### PowerShell for Microsoft SharePoint 2010 Administrators
 
-[<img src="/assets/img/PowerShellforMicrosoftSharePoint2010Administrators_150.png" alt="PowerShell for Microsoft SharePoint 2010 Administrators" title="PowerShellforMicrosoftSharePoint2010Administrators" width="150" height="185" class="alignleft size-full wp-image-1226" />](/assets/img/PowerShellforMicrosoftSharePoint2010Administrators_150.png)**Niklas Goude, Mattias Karlsson**
+![image-left](/assets/img/PowerShellforMicrosoftSharePoint2010Administrators_150.png){: .align-left}**Niklas Goude, Mattias Karlsson**
   
 Paperback: 368 pages
   
@@ -374,7 +374,7 @@ ISBN-13: 978-0071747974
 
 ### Windows PowerShell Cookbook, Second Edition
 
-[<img src="/assets/img/WindowsPowerShellCookbook_150.png" alt="Windows PowerShell Cookbook" title="WindowsPowerShellCookbook" width="150" height="192" class="alignleft size-full wp-image-1137" />](/assets/img/WindowsPowerShellCookbook_150.png)**Lee Holmes**
+![image-left](/assets/img/WindowsPowerShellCookbook_150.png){: .align-left}**Lee Holmes**
   
 Paperback: 888 page
   
@@ -390,7 +390,7 @@ ISBN-13: 978-0596801502
 
 ### PowerShell in Practice
 
-[<img src="/assets/img/PowerShellinPractice_150.png" alt="PowerShell in Practice" title="PowerShellinPractice" width="150" height="188" class="alignleft size-full wp-image-1229" />](/assets/img/PowerShellinPractice_150.png)**Richard Siddaway**
+![image-left](/assets/img/PowerShellinPractice_150.png){: .align-left}**Richard Siddaway**
   
 Paperback: 500 pages
   
@@ -406,7 +406,7 @@ ISBN-13: 978-1935182009
 
 ### Windows PowerShell 2.0 TFM
 
-[<img src="/assets/img/WindowsPowerShellTFM_150.png" alt="Windows PowerShell TFM" title="WindowsPowerShellTFM" width="150" height="215" class="alignleft size-full wp-image-1157" />](/assets/img/WindowsPowerShellTFM_150.png)**Don Jones, Jeffery Hicks**
+![image-left](/assets/img/WindowsPowerShellTFM_150.png){: .align-left}**Don Jones, Jeffery Hicks**
   
 Paperback: 714 pages
   
@@ -422,7 +422,7 @@ ISBN-13: 978-0982131428
 
 ### Windows PowerShell 2 For Dummies
 
-[<img src="/assets/img/WindowsPowerShellforDummies_150.png" alt="Windows PowerShell 2 for Dummies" title="WindowsPowerShell2forDummies" width="150" height="188" class="alignleft size-full wp-image-1189" />](/assets/img/WindowsPowerShellforDummies_150.png)**Steve Seguis**
+![image-left](/assets/img/WindowsPowerShellforDummies_150.png){: .align-left}**Steve Seguis**
   
 Paperback: 412 pages
   
@@ -438,7 +438,7 @@ ISBN-13: 978-0470371985
 
 ### Microsoft SQL Server 2008 Administration with Windows PowerShell
 
-[<img src="/assets/img/SQLServer2008AdministrationwithWindowsPowerShell_150.png" alt="SQL Server 2008 Administration with Windows PowerShell" title="SQLServer2008AdministrationwithWindowsPowerShell" width="150" height="191" class="alignleft size-full wp-image-1214" />](/assets/img/SQLServer2008AdministrationwithWindowsPowerShell_150.png)**Ananthakumar Muthusamy, Yan Pan**
+![image-left](/assets/img/SQLServer2008AdministrationwithWindowsPowerShell_150.png){: .align-left}**Ananthakumar Muthusamy, Yan Pan**
   
 Paperback: 576 pages
   
@@ -454,7 +454,7 @@ ISBN-13: 978-0470477281
 
 ### Windows PowerShell 2.0 Administrator&#8217;s Pocket Consultant
 
-[<img src="/assets/img/WindowsPowerShellAdministratorsPocketConsultant_150.png" alt="Windows PowerShell Administrators Pocket Consultant" title="WindowsPowerShellAdministratorsPocketConsultant" width="150" height="219" class="alignleft size-full wp-image-1152" />](/assets/img/WindowsPowerShellAdministratorsPocketConsultant_150.png)**William R. Stanek**
+![image-left](/assets/img/WindowsPowerShellAdministratorsPocketConsultant_150.png){: .align-left}**William R. Stanek**
   
 Paperback: 464 pages
   
@@ -470,7 +470,7 @@ ISBN-13: 978-0735625952
 
 ### Managing VMware Infrastructure with Windows PowerShell TFM
 
-[<img src="/assets/img/ManagingVMwareInfrastructurewithWindowsPowerShell_150.png" alt="Managing VMware Infrastructure with Windows PowerShell" title="ManagingVMwareInfrastructurewithWindowsPowerShell" width="150" height="214" class="alignleft size-full wp-image-1220" />](/assets/img/ManagingVMwareInfrastructurewithWindowsPowerShell_150.png)**Hal Rottenberg**
+![image-left](/assets/img/ManagingVMwareInfrastructurewithWindowsPowerShell_150.png){: .align-left}**Hal Rottenberg**
   
 Paperback: 388 pages
   
@@ -486,7 +486,7 @@ ISBN-13: 978-0982131404
 
 ### Microsoft Windows PowerShell 2.0 Programming for the Absolute Beginner, 2nd Edition
 
-[<img src="/assets/img/WindowsPowerShellProgrammingAbsoluteBeginner_150.png" alt="Windows PowerShell Programming for the Absolute Beginner" title="WindowsPowerShellProgrammingAbsoluteBeginner" width="150" height="186" class="alignleft size-full wp-image-1182" />](/assets/img/WindowsPowerShellProgrammingAbsoluteBeginner_150.png)**Jerry Lee Ford Jr.**
+![image-left](/assets/img/WindowsPowerShellProgrammingAbsoluteBeginner_150.png){: .align-left}**Jerry Lee Ford Jr.**
   
 Paperback: 423 pages
   
@@ -502,7 +502,7 @@ ISBN-13: 978-1598638998
 
 ### Windows PowerShell Unleashed (2nd Edition)
 
-[<img src="/assets/img/WindowsPowerShellUnleashed_150.png" alt="Windows PowerShell Unleashed" title="WindowsPowerShellUnleashed" width="150" height="196" class="alignleft size-full wp-image-1217" />](/assets/img/WindowsPowerShellUnleashed_150.png)**Tyson Kopczynski, Pete Handley, Marco Shaw**
+![image-left](/assets/img/WindowsPowerShellUnleashed_150.png){: .align-left}**Tyson Kopczynski, Pete Handley, Marco Shaw**
   
 Paperback: 528 pages
   
