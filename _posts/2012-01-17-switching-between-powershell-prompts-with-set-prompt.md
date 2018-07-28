@@ -15,9 +15,9 @@ I&#8217;m usually pretty happy with the default PowerShell prompt that displays 
 
 If I see a neat custom prompt like a [Domain Controller PowerShell Prompt](http://jdhitsolutions.com/blog/2011/11/domain-controller-powershell-prompt/ "Domain Controller Prompt") or a [Christmas Prompt](http://jdhitsolutions.com/blog/2011/11/friday-fun-a-christmas-prompt/ "A Christmas Prompt"), I just add an additional switch block to Set-Prompt.
 
-[<img src="https://github.hofferle.com/assets/img/Set-Prompt-e1326389362668.png" alt="Screenshot of the Set-Prompt function in use" title="Set-Prompt" width="600" height="254" class="alignnone size-full wp-image-827" />](http://www.hofferle.com/wordpress/wp-content/uploads/2012/01/Set-Prompt-e1326389362668.png)
+[<img src="/assets/img/Set-Prompt-e1326389362668.png" alt="Screenshot of the Set-Prompt function in use" title="Set-Prompt" width="600" height="254" class="alignnone size-full wp-image-827" />](/assets/img/Set-Prompt-e1326389362668.png)
 
-[Set-Prompt.zip](http://www.hofferle.com/wordpress/wp-content/uploads/2012/01/Set-Prompt.zip)
+[Set-Prompt.zip](/assets/img/Set-Prompt.zip)
 
 ```powershell
 <pre class="lang:powershell decode:true">Function Set-Prompt

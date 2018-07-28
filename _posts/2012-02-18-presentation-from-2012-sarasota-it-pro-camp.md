@@ -1,0 +1,44 @@
+---
+id: 1326
+title: Presentation from 2012 Sarasota IT Pro Camp
+date: 2012-02-18T23:31:10+00:00
+author: Jason Hofferle
+layout: post
+guid: http://www.hofferle.com/?p=1326
+permalink: /presentation-from-2012-sarasota-it-pro-camp/
+categories:
+  - Community
+tags:
+  - IT Pro Camp
+  - PowerShell
+  - Remoting
+---
+The 2012 Sarasota IT Pro Camp at Keiser University was a great success, mainly due to the hard work from the organizers and volunteers. I want to thank all the attendees for coming out, and especially those that came to my remoting session.
+
+## Introduction to PowerShell Remoting
+
+[<img src="/assets/img/IntroductionPowerShellRemoting.png" alt="Title Slide for Introduction to PowerShell Remoting" title="Introduction to PowerShell Remoting" width="200" height="150" class="alignleft size-full wp-image-928" />](/assets/img/IntroductionPowerShellRemoting.pdf)[Slide deck for Introduction to PowerShell Remoting](/assets/img/IntroductionPowerShellRemoting.pdf)
+
+<br style="clear: both;" />
+
+[<img src="/assets/img/laymansguidePowerShellremoting.png" alt="Cover image of the Layman&#039;s Guide to PowerShell Remoting" title="laymansguidePowerShellremoting" width="150" height="207" class="alignleft size-full wp-image-626" />](/assets/img/laymansguidePowerShellremoting.png)[Layman&#8217;s Guide to PowerShell 2.0 Remoting](http://www.ravichaganti.com/blog/?page_id=1301)
+  
+_Ravikanth Chaganti_
+
+ <br style="clear: both;" />
+
+[<img src="/assets/img/Remoting.png" alt="Cover image for Administrator&#039;s Guide to Windows PowerShell Remoting" title="Remoting" width="150" height="194" class="alignleft size-full wp-image-631" />](/assets/img/Remoting.png)[Administrator&#8217;s Guide to Windows PowerShell Remoting](http://powershell.com/cs/media/p/4908.aspx)
+  
+_Dr. Tobias Weltner
+  
+Aleksandar Nikolic
+  
+Richard Giles_
+
+<br style="clear: both;" />
+
+[<img src="/assets/img/payette2_cover150.jpg" alt="Cover of Windows PowerShell in Action by Bruce Payette" title="Windows PowerShell in Action, Second Edition" width="150" height="187" class="alignleft size-full wp-image-912" />](http://www.manning.com/payette2/)[Windows PowerShell in Action, Second Edition](http://www.manning.com/payette2/)
+  
+_Bruce Payette_
+
+<br style="clear: both;" />
