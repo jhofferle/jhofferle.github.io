@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -23,7 +23,7 @@ description              : “Force Multiplication through IT Automation” come
 url                      : "https://github.hofferle.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhofferle/jhofferle.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/img/CoffeeLaptop.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -101,12 +101,12 @@ analytics:
 # Site Author
 author:
   name             : "Jason Hofferle"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "/assets/img/250x250.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Experienced Information Technology Specialist with a history of working in federal defense. Skilled in PowerShell, Conference Speaking, DevOps, System Deployment, and IT Service Management."
+  location         : "Richmond, VA"
   email            :
   uri              :
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : "https://www.hofferle.com" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :

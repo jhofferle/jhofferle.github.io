@@ -13,4 +13,16 @@ Jason Hofferle has been an IT professional since 1997. His experience includes e
 
 &#8220;Force Multiplication through IT Automation&#8221; comes from the military, where a force multiplier is an attribute such as technology or experience that allows a small force to accomplish the same results of a force many times larger. In information technology, automation tools such as PowerShell allow an individual IT professional to be just as effective as a large staff performing tasks manually.
 
-![image-left](/assets/img/Foundation_webversion.gif){: .align-left}
+![image-left](/assets/img/MCITPrgb.gif)
+![image-left](/assets/img/MCSE1rgb.gif)
+![image-left](/assets/img/MCSArgb.gif)
+![image-left](/assets/img/MCPIrgb.gif)
+![image-left](/assets/img/MCPrgb.gif)
+![image-left](/assets/img/MCDSTrgb.gif)
+![image-left](/assets/img/MCTSrgb.gif)
+![image-left](/assets/img/A+_Certified.jpg)
+![image-left](/assets/img/Security+_Certified.jpg)
+![image-left](/assets/img/Network+Certified.jpg)
+![image-left](/assets/img/Honorary-Scripting-Guy_medium.png)
+![image-left](/assets/img/Lifecycle_webversion.gif)
+![image-left](/assets/img/Foundation_webversion.gif)
