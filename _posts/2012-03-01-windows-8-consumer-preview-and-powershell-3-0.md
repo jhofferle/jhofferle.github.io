@@ -21,7 +21,7 @@ Yesterday, the Consumer Preview of Windows 8 was released along with the beta of
 
 <a href="http://preview.windows.com" title="Windows 8 Consumer Preview" target="_blank">Windows 8 Consumer Preview</a>
 
-<a href="https://support.microsoft.com/windows" title="Direct Link to ISO Images" target="_blank">Direct Link to ISO Images</a>
+<a href="https://www.microsoft.com/en-us/software-download/windows8ISO" title="Direct Link to ISO Images" target="_blank">Direct Link to ISO Images</a>
 
 <a href="https://developer.microsoft.com/en-us/windows" title="Developer Tools" target="_blank">Developer Tools</a>
 

@@ -11,7 +11,7 @@ categories:
 tags:
   - PowerShell
 ---
-![image-left](http://powershellgroup.org/tampa.fl). Here is the slide deck and links to the resources I referenced. 
+![image-left](https://www.meetup.com/Tampa-PowerShell-UserGroup/). Here is the slide deck and links to the resources I referenced. 
 
 [Introduction to PowerShell Remoting Slide Deck](https://drive.google.com/open?id=1FchxCcehGyR5O6LIQd-KbTHmsgouOeIO)
 

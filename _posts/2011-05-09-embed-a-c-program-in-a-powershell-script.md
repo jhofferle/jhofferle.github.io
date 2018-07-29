@@ -73,7 +73,7 @@ catch
 
 ![image-left](/assets/img/Convert-Image.png){: .align-left}
 
-All of my entries for the 2011 Scripting Games can be found at [PoshCode](http://2011sg.poshcode.org/Scripts/By/114.html).
+All of my entries for the 2011 Scripting Games can be found at [PoshCode](https://github.com/PoshCode).
 
 Complete Script:
 

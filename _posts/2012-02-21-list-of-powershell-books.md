@@ -14,7 +14,7 @@ tags:
   - Books
   - PowerShell
 ---
-My <a href="http://www.hofferle.com/list-of-free-powershell-ebooks/" title="List of Free PowerShell eBooks" target="_blank">list of free PowerShell eBooks</a> has been very popular, so I decided to compile a list of paid PowerShell books. I own several of these books myself, and I thought it would be helpful to have links to the publisher page for code examples, bonus chapters and errata.
+My <a href="https://www.hofferle.com/list-of-free-powershell-ebooks/" title="List of Free PowerShell eBooks" target="_blank">list of free PowerShell eBooks</a> has been very popular, so I decided to compile a list of paid PowerShell books. I own several of these books myself, and I thought it would be helpful to have links to the publisher page for code examples, bonus chapters and errata.
 
 With the release of PowerShell 3 with Windows 8 and Windows Server 2012, it&#8217;s difficult to suggest books that don&#8217;t cover the additional features in the new version. For newcomers to PowerShell, take a look at the updated edition of _Learn Windows PowerShell 3 in a Month of Lunches_ or _Windows PowerShell 3.0 Step By Step_. For someone that has been using PowerShell and is looking for a more advanced book, I recommend _PowerShell in Depth_.
 
@@ -98,7 +98,7 @@ ISBN-10: 1849686424
   
 ISBN-13: 978-1849686426
   
-[Amazon](http://www.amazon.com/gp/product/1849686424/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849686424&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686424" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/powershell-3-0-advanced-administration-handbook/book" title="PowerShell 3.0 Advanced Administration Handbook" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1849686424/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849686424&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686424" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/powershell-30-advanced-administration-handbook" title="PowerShell 3.0 Advanced Administration Handbook" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -160,7 +160,7 @@ ISBN-10: 1617290114
   
 ISBN-13: 978-1617290114
   
-[Amazon](http://www.amazon.com/gp/product/1617290114/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1617290114) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290114" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.manning.com/siddaway2/" title="PowerShell and WMI" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1617290114/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1617290114) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290114" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-and-wmi" title="PowerShell and WMI" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -400,7 +400,7 @@ ISBN-10: 1935182005
   
 ISBN-13: 978-1935182009
   
-[Amazon](http://www.amazon.com/gp/product/1935182005/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1935182005) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182005" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.manning.com/siddaway/" title="PowerShell in Practice" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1935182005/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1935182005) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182005" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-in-practice" title="PowerShell in Practice" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 

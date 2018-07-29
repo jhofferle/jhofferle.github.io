@@ -12,7 +12,7 @@ tags:
   - PowerShell
   - WMI
 ---
-Hewlett-Packard&#8217;s [Client Management Interface](http://h20331.www2.hp.com/Hpsub/cache/284014-0-0-225-121.html) and Dell&#8217;s [OpenManage Client Instrumentation](http://www.delltechcenter.com/page/OpenManage+Client+Instrumentation+(OMCI)) allow their hardware to be managed through various enterprise management tools. After installing the CMI or OMCI client, the BIOS on these computers can be accessed using Windows Management Instrumentation.
+Hewlett-Packard&#8217;s [Client Management Interface](https://www8.hp.com/us/en/ads/clientmanagement/overview.html) and Dell&#8217;s [OpenManage Client Instrumentation](http://www.delltechcenter.com/page/OpenManage+Client+Instrumentation+(OMCI)) allow their hardware to be managed through various enterprise management tools. After installing the CMI or OMCI client, the BIOS on these computers can be accessed using Windows Management Instrumentation.
 
 **HP Boot Order**
 

@@ -11,7 +11,7 @@ categories:
 tags:
   - PowerShell
 ---
-![image-left](http://powershellgroup.org/tampa.fl). This presentation was mostly a demo of using TortoiseHg, and how it can be useful for IT Pros that need to manage production scripts. Here is the slide deck and links to more information.
+![image-left](https://www.meetup.com/Tampa-PowerShell-UserGroup/). This presentation was mostly a demo of using TortoiseHg, and how it can be useful for IT Pros that need to manage production scripts. Here is the slide deck and links to more information.
 
 [Version Control for PowerShell Slide Deck](https://drive.google.com/open?id=1ESDVbrji0Fy-gaL5mXJ80FmeoTxCKRjA)
 

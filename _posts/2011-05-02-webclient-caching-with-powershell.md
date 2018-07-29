@@ -92,7 +92,7 @@ The updated cache is then written back to the CSV file.
 
 I wrapped this functionality into the Invoke-TwitterQuery function, so that the rest of my script wouldn&#8217;t care if the data was cached or not. It just calls the function and doesn&#8217;t have to worry about how the information is being retrieved. It also means I could make adjustments to Invoke-TwitterQuery, like storing information in a database instead of a CSV file, and the rest of the script wouldn&#8217;t need to be changed.
 
-All of my entries for the 2011 Scripting Games can be found at [PoshCode](http://2011sg.poshcode.org/Scripts/By/114.html).
+All of my entries for the 2011 Scripting Games can be found at [PoshCode](https://github.com/PoshCode).
 
 Complete Script:
 
