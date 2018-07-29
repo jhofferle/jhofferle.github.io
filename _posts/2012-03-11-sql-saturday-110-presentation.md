@@ -16,7 +16,7 @@ This weekend was my first SQL Saturday, and I was very happy to have my session 
 
 ## Introduction to PowerShell Remoting
 
-![image-left](/assets/img/IntroductionPowerShellRemoting.pdf)
+![image-left](https://drive.google.com/open?id=1FchxCcehGyR5O6LIQd-KbTHmsgouOeIO)
 
 <br style="clear: both;" />
 

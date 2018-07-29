@@ -13,7 +13,7 @@ tags:
 ---
 Checking boxes gets old quickly, and I&#8217;ve installed and checked those little boxes for the Remote Server Administration Tools (RSAT) on Windows 7 enough times for it to be annoying. I just wanted a static script with the names of the features to enable, but [Xenophane&#8217;s Blog](http://www.xipher.dk/WordPress/?p=338 "Xenophane's Blog") has some examples of extracting the output of the /Get-Features switch to dynamically generate the command to enable everything in RSAT.
 
-[Enable-RSATFeatures.zip](/assets/img/Enable-RSATFeatures.zip)
+[Enable-RSATFeatures.zip](https://drive.google.com/open?id=10PaePKBGzf9oXjtcrwMs3kZRs8V4lHkt)
 
 ```powershell
 dism /Online /Enable-Feature `

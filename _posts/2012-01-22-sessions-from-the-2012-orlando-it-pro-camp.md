@@ -16,7 +16,7 @@ Thank you to everyone that attended the <a href="http://itprocamp.com/orlando/" 
 
 ## Introduction to PowerShell Remoting
 
-![image-left](/assets/img/IntroductionPowerShellRemoting.pdf)
+![image-left](https://drive.google.com/open?id=1FchxCcehGyR5O6LIQd-KbTHmsgouOeIO)
 
 <br style="clear: both;" />
 
@@ -44,7 +44,7 @@ _Bruce Payette_
 
 ## Version Control for IT Professionals
 
-![image-left](/assets/img/VersionControlITPros.pdf)
+![image-left](https://drive.google.com/open?id=1vSQ1cNJsVDqfTru4-SlALLwjHAgnI3Ot)
 
 <br style="clear: both;" />
 

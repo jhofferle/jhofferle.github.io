@@ -17,7 +17,7 @@ The 2012 Sarasota IT Pro Camp at Keiser University was a great success, mainly d
 
 ## Introduction to PowerShell Remoting
 
-![image-left](/assets/img/IntroductionPowerShellRemoting.pdf)
+![image-left](https://drive.google.com/open?id=1FchxCcehGyR5O6LIQd-KbTHmsgouOeIO)
 
 <br style="clear: both;" />
 

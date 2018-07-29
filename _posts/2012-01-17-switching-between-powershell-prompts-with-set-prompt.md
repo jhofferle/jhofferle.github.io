@@ -17,7 +17,7 @@ If I see a neat custom prompt like a [Domain Controller PowerShell Prompt](http:
 
 ![image-left](/assets/img/Set-Prompt-e1326389362668.png){: .align-left}
 
-[Set-Prompt.zip](/assets/img/Set-Prompt.zip)
+[Set-Prompt.zip](https://drive.google.com/open?id=15-A18awd1g9tEsxTtjUGgVr7cTCJs7oB)
 
 ```powershell
 ```powershell

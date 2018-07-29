@@ -13,7 +13,7 @@ tags:
 ---
 ![image-left](http://powershellgroup.org/tampa.fl). Here is the slide deck and links to the resources I referenced. 
 
-[Introduction to PowerShell Remoting Slide Deck](/assets/img/IntroductionPowerShellRemoting.pdf)
+[Introduction to PowerShell Remoting Slide Deck](https://drive.google.com/open?id=1FchxCcehGyR5O6LIQd-KbTHmsgouOeIO)
 
 [A layman’s guide to PowerShell 2.0 remoting](http://www.ravichaganti.com/blog/?p=1305)
   

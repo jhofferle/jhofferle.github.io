@@ -34,7 +34,7 @@ Computer01                                                  Disabled
 PS>
 ```
 
-[Set-ScForceOption.zip](/assets/img/Set-ScForceOption.zip)
+[Set-ScForceOption.zip](https://drive.google.com/open?id=1pMWdKAUll1U5fNSUcCLdyvfcmUbfOmFq)
 
 ```powershell
 Function Set-ScForceOption
