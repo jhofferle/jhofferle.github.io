@@ -19,10 +19,10 @@ tags:
   
 _Ravikanth Chaganti_
 
-[Administrator’s Guide to Windows PowerShell Remoting](http://powershell.com/cs/media/p/4908.aspx)
+[Administrator’s Guide to Windows PowerShell Remoting](http://community.idera.com/)
   
 _Dr. Tobias Weltner, Aleksandar Nikolic & Richard Giles_
 
-[Windows PowerShell in Action, Second Edition](http://www.manning.com/payette2/)
+[Windows PowerShell in Action, Second Edition](https://www.manning.com/books/windows-powershell-in-action-second-edition)
   
 _Bruce Payette_

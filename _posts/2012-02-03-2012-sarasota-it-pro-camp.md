@@ -13,4 +13,4 @@ tags:
 ---
 I will be presenting my PowerShell Remoting session at the Sarasota IT Pro Camp on February 18th. These events are free, one-day learning conferences for IT Professionals of all backgrounds and experience. This is a great opportunity to learn and network with others.
 
-<a href="http://itprocamp.com/sarasota/" title="Sarasota IT Pro Camp" target="_blank">Sarasota IT Pro Camp</a>
+<a href="https://itpro.camp/" title="Sarasota IT Pro Camp" target="_blank">Sarasota IT Pro Camp</a>

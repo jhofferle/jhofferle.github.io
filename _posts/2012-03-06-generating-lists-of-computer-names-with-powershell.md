@@ -47,7 +47,7 @@ $Computers = Get-ADComputer -Filter * | ForEach-Object {$_.Name}
 $Computers = Get-ADComputer -Filter * | ForEach-Object {$_.DNSHostName}
 ```
 
-When there&#8217;s more than a few computers to deal with, it&#8217;s much easier to get those names from the computer accounts in Active Directory. In a correctly configured domain environment, the <a href="http://technet.microsoft.com/en-us/library/dd378937(v=ws.10).aspx" title="Active Directory Administration with Windows PowerShell" target="_blank">Microsoft Active Directory cmdlets</a> can be used to generate lists of computers.
+When there&#8217;s more than a few computers to deal with, it&#8217;s much easier to get those names from the computer accounts in Active Directory. In a correctly configured domain environment, the <a href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd378937(v=ws.10)" title="Active Directory Administration with Windows PowerShell" target="_blank">Microsoft Active Directory cmdlets</a> can be used to generate lists of computers.
 
 ```powershell
 # Load the Quest Active Directory cmdlets
@@ -63,7 +63,7 @@ $Computers = Get-QADComputer -MemberOf &#039;Database Servers&#039; | ForEach-Ob
 $Computers = Get-QADComputer -SearchRoot "testlab.local/Domain Controllers" | ForEach-Object {$_.Name}
 ```
 
-Not everyone has the infrastructure in place to use the Microsoft cmdlets. Fortunately, Quest has <a href="http://www.quest.com/powershell/activeroles-server.aspx" title="ActiveRoles Management Shell for Active Directory" target="_blank">freely available</a> cmdlets for interacting with Active Directory.
+Not everyone has the infrastructure in place to use the Microsoft cmdlets. Fortunately, Quest has <a href="https://www.oneidentity.com/products/active-roles/" title="ActiveRoles Management Shell for Active Directory" target="_blank">freely available</a> cmdlets for interacting with Active Directory.
 
 ```powershell
 Get-ADComputer -Filter * | Export-Csv computerList.csv -NoTypeInformation

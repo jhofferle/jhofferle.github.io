@@ -13,7 +13,7 @@ tags:
 ---
 I will be presenting two sessions at the Orlando IT Pro Camp on January 21st. IT Pro Camp is a free, one-day learning event for IT Professionals. There will be a wide range of topics presented by speakers of all backgrounds and experience. I highly recommend stopping by if you&#8217;re in the Orlando area that Saturday.
 
-[Orlando IT Pro Camp](http://itprocamp.com/orlando/ "Orlando IT Pro Camp")
+[Orlando IT Pro Camp](https://itpro.camp/ "Orlando IT Pro Camp")
 
 **Introduction to PowerShell Remoting**
   

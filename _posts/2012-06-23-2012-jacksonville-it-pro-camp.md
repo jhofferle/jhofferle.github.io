@@ -12,7 +12,7 @@ tags:
   - IT Pro Camp
   - PowerShell
 ---
-It was great meeting so many new people interested in PowerShell at the <a href="http://itprocamp.com/jacksonville/" target="_blank">Jacksonville IT Pro Camp</a> last weekend. All of the presenters at these events are volunteers, so it&#8217;s an awesome feeling to have people come up and say &#8220;thank you for your session, it was really useful!&#8221; The IT Pro Camps are an opportunity to connect with other IT Professionals and hear people talk about what they&#8217;re passionate about. It&#8217;s also a wonderful opportunity for beginning speakers to develop sessions and gain confidence communicating technical information to others.
+It was great meeting so many new people interested in PowerShell at the <a href="https://itpro.camp/" target="_blank">Jacksonville IT Pro Camp</a> last weekend. All of the presenters at these events are volunteers, so it&#8217;s an awesome feeling to have people come up and say &#8220;thank you for your session, it was really useful!&#8221; The IT Pro Camps are an opportunity to connect with other IT Professionals and hear people talk about what they&#8217;re passionate about. It&#8217;s also a wonderful opportunity for beginning speakers to develop sessions and gain confidence communicating technical information to others.
 
 I&#8217;ve uploaded the [transcript](https://drive.google.com/open?id=1YtyYbey7wpOGKmqIYeZRIseB1RN1acqE) from my PowerShell for Beginners session, and the [slide deck](https://drive.google.com/open?id=1FchxCcehGyR5O6LIQd-KbTHmsgouOeIO) from my Introduction to PowerShell Remoting session. 
 

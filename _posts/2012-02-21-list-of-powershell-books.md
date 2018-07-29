@@ -32,7 +32,7 @@ ISBN-10: 1617291080
   
 ISBN-13: 978-1617291081
   
-[Amazon](http://www.amazon.com/gp/product/1617291080/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617291080&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617291080" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://manning.com/jones3/" title="Learn Windows PowerShell 3 in a Month of Lunches" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1617291080/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617291080&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617291080" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-second-edition" title="Learn Windows PowerShell 3 in a Month of Lunches" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -64,7 +64,7 @@ ISBN-10: 1617290556
   
 ISBN-13: 978-1617290558
   
-[Amazon](http://www.amazon.com/gp/product/1617290556/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290556&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290556" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.manning.com/jones2/" title="PowerShell in Depth" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1617290556/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290556&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290556" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-in-depth" title="PowerShell in Depth" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -114,7 +114,7 @@ ISBN-10: 1849686440
   
 ISBN-13: 978-1849686440
   
-[Amazon](http://www.amazon.com/gp/product/1849686440/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849686440&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686440" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/microsoft-windows-powershell-3-0-firstlook/book" title="Microsoft Windows PowerShell 3.0 First Look" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1849686440/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849686440&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686440" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/microsoft-windows-powershell-30-first-look" title="Microsoft Windows PowerShell 3.0 First Look" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -128,7 +128,7 @@ Publisher: Manning Publications (Early 2013)
   
 ISBN-13: 978-1617291166
   
-<a href="http://www.manning.com/jones4/" title="Learn PowerShell Toolmaking in a Month of Lunches" target="_blank">Publisher</a>
+<a href="https://www.manning.com/books/learn-powershell-toolmaking-in-a-month-of-lunches" title="Learn PowerShell Toolmaking in a Month of Lunches" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -176,7 +176,7 @@ ISBN-10: 1849684103
   
 ISBN-13: 978-1849684101
   
-[Amazon](http://www.amazon.com/gp/product/1849684103/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849684103) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849684103" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/microsoft-sharepoint-2010-and-windows-powershell-2-0-expert-cookbook/book" title="Microsoft SharePoint 2010 and Windows PowerShell 2.0: Expert Cookbook" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1849684103/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849684103) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849684103" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/microsoft-sharepoint-2010-and-windows-powershell-20-expert-cookbook" title="Microsoft SharePoint 2010 and Windows PowerShell 2.0: Expert Cookbook" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -208,7 +208,7 @@ ISBN-10: 1849682461
   
 ISBN-13: 978-1849682466
   
-[Amazon](http://www.amazon.com/gp/product/1849682461/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849682461) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849682461" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/microsoft-exchange-server-2010-with-windows-powershell-cookbook/book" title="Microsoft Exchange 2010 PowerShell Cookbook" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1849682461/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849682461) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849682461" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/microsoft-exchange-2010-powershell-cookbook" title="Microsoft Exchange 2010 PowerShell Cookbook" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -288,7 +288,7 @@ ISBN-10: 1935182137
   
 ISBN-13: 978-1935182139
   
-[Amazon](http://www.amazon.com/gp/product/1935182137/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1935182137) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182137" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.manning.com/payette2/" title="Publisher" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/1935182137/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1935182137) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182137" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/windows-powershell-in-action-second-edition" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -304,7 +304,7 @@ ISBN-10: 1617290211
   
 ISBN-13: 978-1617290213
   
-[Amazon](http://www.amazon.com/gp/product/1617290211/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1617290211) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.manning.com/jones/" title="Publisher" target="_blank">Publisher</a> | <a href="http://morelunches.com/2011/04/01/learn-windows-powershell-in-a-month-of-lunches-1st-ed/" title="Bonus Materials" target="_blank">Bonus Materials</a>
+[Amazon](http://www.amazon.com/gp/product/1617290211/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1617290211) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://wwhttps://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunchesw.manning.com/jones/" title="Publisher" target="_blank">Publisher</a> | <a href="https://morelunches.com/2011/04/01/learn-windows-powershell-in-a-month-of-lunches-1st-ed/" title="Bonus Materials" target="_blank">Bonus Materials</a>
 
  <br style="clear: both;" />
 
@@ -432,7 +432,7 @@ ISBN-10: 0470371986
   
 ISBN-13: 978-0470371985
   
-[Amazon](http://www.amazon.com/gp/product/0470371986/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470371986) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470371986" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.dummies.com/store/product/Windows-PowerShell-2-For-Dummies.productCd-0470371986,navId-322470,descCd-description.html" title="Windows PowerShell 2 for Dummies" target="_blank">Publisher</a>
+[Amazon](http://www.amazon.com/gp/product/0470371986/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470371986) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470371986" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.dummies.com/store/product/Windows-PowerShell-2-For-Dummies.productCd-0470371986,navId-322470,descCd-description.html" title="Windows PowerShell 2 for Dummies" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 

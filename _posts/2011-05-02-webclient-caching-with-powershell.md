@@ -251,7 +251,7 @@ Function Get-TwitterUser
       'QuerySQLSat'
       {
         $userCollection = @()
-        $url = "http://www.sqlsaturday.com/$EventNumber/networking.aspx"
+        $url = "https://www.sqlsaturday.com/$EventNumber/networking.aspx"
         $pattern = '&lt;a href="http://www.twitter.com/'
         
         # Download the text for the Networking page, and split by

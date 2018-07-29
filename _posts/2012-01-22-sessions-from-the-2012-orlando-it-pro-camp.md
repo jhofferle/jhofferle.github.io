@@ -12,7 +12,7 @@ tags:
   - IT Pro Camp
   - PowerShell
 ---
-Thank you to everyone that attended the <a href="http://itprocamp.com/orlando/" title="2012 Orlando IT Pro Camp" target="_blank">Orlando IT Pro Camp</a>. It was a great opportunity to learn and network with other IT Professionals. Here are the slides and resources from my sessions.
+Thank you to everyone that attended the <a href="https://itpro.camp/" title="2012 Orlando IT Pro Camp" target="_blank">Orlando IT Pro Camp</a>. It was a great opportunity to learn and network with other IT Professionals. Here are the slides and resources from my sessions.
 
 ## Introduction to PowerShell Remoting
 
@@ -20,13 +20,13 @@ Thank you to everyone that attended the <a href="http://itprocamp.com/orlando/" 
 
 <br style="clear: both;" />
 
-![image-left](http://www.ravichaganti.com/blog/?page_id=1301)
+![image-left](https://www.ravichaganti.com/blog/laymans-guide-to-powershell-2-0-remoting/)
   
 _Ravikanth Chaganti_
 
  <br style="clear: both;" />
 
-![image-left](http://powershell.com/cs/media/p/4908.aspx)
+![image-left](http://community.idera.com/)
   
 _Dr. Tobias Weltner
   
@@ -36,7 +36,7 @@ Richard Giles_
 
 <br style="clear: both;" />
 
-![image-left](http://www.manning.com/payette2/)
+![image-left](https://www.manning.com/books/windows-powershell-in-action-second-edition)
   
 _Bruce Payette_
 

@@ -21,13 +21,13 @@ The 2012 Sarasota IT Pro Camp at Keiser University was a great success, mainly d
 
 <br style="clear: both;" />
 
-![image-left](http://www.ravichaganti.com/blog/?page_id=1301)
+![image-left](https://www.ravichaganti.com/blog/laymans-guide-to-powershell-2-0-remoting/)
   
 _Ravikanth Chaganti_
 
  <br style="clear: both;" />
 
-![image-left](http://powershell.com/cs/media/p/4908.aspx)
+![image-left](http://community.idera.com/)
   
 _Dr. Tobias Weltner
   
@@ -37,7 +37,7 @@ Richard Giles_
 
 <br style="clear: both;" />
 
-![image-left](http://www.manning.com/payette2/)
+![image-left](https://www.manning.com/books/windows-powershell-in-action-second-edition)
   
 _Bruce Payette_
 

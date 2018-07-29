@@ -13,4 +13,4 @@ tags:
   - PowerShell
   - SQL Saturday
 ---
-I will be presenting at <a href="http://www.sqlsaturday.com/110/eventhome.aspx" title="SQL Saturday #110" target="_blank">SQL Saturday #110</a> in Tampa, Florida on March 10th. This is a free event for SQL Server professionals and anyone that&#8217;s interested in learning about SQL Server.
+I will be presenting at <a href="https://www.sqlsaturday.com/110/eventhome.aspx" title="SQL Saturday #110" target="_blank">SQL Saturday #110</a> in Tampa, Florida on March 10th. This is a free event for SQL Server professionals and anyone that&#8217;s interested in learning about SQL Server.
