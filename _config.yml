@@ -20,7 +20,7 @@ title                    : "Force Multiplication through IT Automation"
 title_separator          : "-"
 name                     : "Jason Hofferle"
 description              : “Force Multiplication through IT Automation” comes from the military, where a force multiplier is an attribute such as technology or experience that allows a small force to accomplish the same results of a force many times larger. In information technology, automation tools such as PowerShell allow an individual IT professional to be just as effective as a large staff performing tasks manually.
-url                      : "https://github.hofferle.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.hofferle.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhofferle/jhofferle.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/img/CoffeeLaptop.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
