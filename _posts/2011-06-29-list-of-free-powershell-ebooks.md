@@ -48,7 +48,7 @@ _Don Jones_
 
  <br style="clear: both;" />
 
-![image-left](http://powershell.com/Mastering-PowerShell.pdf)
+![image-left](http://community.idera.com/powershell/ask_the_experts/f/powershell_for_windows-12/10310/best-way-to-download-your-ebook-mastering-powershell)
   
 _Dr. Tobias Weltner_
 

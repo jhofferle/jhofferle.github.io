@@ -304,7 +304,7 @@ ISBN-10: 1617290211
   
 ISBN-13: 978-1617290213
   
-[Amazon](http://www.amazon.com/gp/product/1617290211/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1617290211) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://wwhttps://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunchesw.manning.com/jones/" title="Publisher" target="_blank">Publisher</a> | <a href="https://morelunches.com/2011/04/01/learn-windows-powershell-in-a-month-of-lunches-1st-ed/" title="Bonus Materials" target="_blank">Bonus Materials</a>
+[Amazon](http://www.amazon.com/gp/product/1617290211/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1617290211) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunchesw.manning.com/jones/" title="Publisher" target="_blank">Publisher</a> | <a href="https://morelunches.com/2011/04/01/learn-windows-powershell-in-a-month-of-lunches-1st-ed/" title="Bonus Materials" target="_blank">Bonus Materials</a>
 
  <br style="clear: both;" />
 

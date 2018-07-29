@@ -23,7 +23,7 @@ This is more of a demonstration script. I’ve used the code in other scripts th
 
 I used to have a link to the original code, but unfortunately Clarence Washington’s Win32Scripting site has closed it doors.
 
-Microsoft introduced the WmiMonitorID class with Windows Vista and Server 2008. This class does the work of extracting monitor EDID data automatically. An example of using this WMI class with PowerShell is [here](http://www.hofferle.com/archives/45).
+Microsoft introduced the WmiMonitorID class with Windows Vista and Server 2008. This class does the work of extracting monitor EDID data automatically. An example of using this WMI class with PowerShell is [here](https://www.hofferle.com/retrieve-monitor-serial-numbers-with-powershell/).
 
 Sample info.vbs output:
 

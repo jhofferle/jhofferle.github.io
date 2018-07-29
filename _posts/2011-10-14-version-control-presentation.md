@@ -23,7 +23,7 @@ Mercurial is a modern, open source, distributed version control system, and a co
   
 TortoiseHg is a Windows shell extension and a series of applications for the Mercurial distributed revision control system.
 
-[Mercurial](http://mercurial.selenic.com/)
+[Mercurial](https://www.mercurial-scm.org/)
   
 Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface.
 

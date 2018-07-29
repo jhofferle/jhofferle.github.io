@@ -60,7 +60,7 @@ TortoiseHg is a Windows shell extension and a series of applications for the Mer
 
 <br style="clear: both;" />
 
-![image-left](http://mercurial.selenic.com/)
+![image-left](https://www.mercurial-scm.org/)
   
 Mercurial is a free, distributed source control management tool. It efficiently handles projects of any size and offers an easy and intuitive interface.
 
