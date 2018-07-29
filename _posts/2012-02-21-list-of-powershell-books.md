@@ -32,7 +32,7 @@ ISBN-10: 1617291080
   
 ISBN-13: 978-1617291081
   
-[Amazon](http://www.amazon.com/gp/product/1617291080/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617291080&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617291080" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-second-edition" title="Learn Windows PowerShell 3 in a Month of Lunches" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1617291080/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1617291080&linkId=b50d4dbc32a92b68a385b18e419db4ea) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617291080" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunches-second-edition" title="Learn Windows PowerShell 3 in a Month of Lunches" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -48,7 +48,7 @@ ISBN-10: 1449320686
   
 ISBN-13: 978-1449320683
   
-[Amazon](http://www.amazon.com/gp/product/1449320686/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1449320686&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1449320686" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/0636920024132.do" title="Windows PowerShell Cookbook, Third Edition" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1449320686/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1449320686&linkId=2accb1710fa30468838bc5b956e50f8f) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1449320686" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/0636920024132.do" title="Windows PowerShell Cookbook, Third Edition" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -64,7 +64,7 @@ ISBN-10: 1617290556
   
 ISBN-13: 978-1617290558
   
-[Amazon](http://www.amazon.com/gp/product/1617290556/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290556&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290556" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-in-depth" title="PowerShell in Depth" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1617290556/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1617290556&linkId=b1bca1c8ded5a23c5554213b1e8b5db1) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290556" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-in-depth" title="PowerShell in Depth" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -80,7 +80,7 @@ ISBN-10: 0735663394
   
 ISBN-13: 978-0735663398
   
-[Amazon](http://www.amazon.com/gp/product/0735663394/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735663394) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0735663394" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/0790145337382.do" title="Windows PowerShell 3.0 Step By Step" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0735663394/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0735663394&linkId=3da455758fc53ee79d47cbd7a10d9132) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0735663394" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://blogs.msdn.microsoft.com/microsoft_press/2013/04/10/new-book-windows-powershell-3-0-step-by-step/" title="Windows PowerShell 3.0 Step By Step" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -98,7 +98,7 @@ ISBN-10: 1849686424
   
 ISBN-13: 978-1849686426
   
-[Amazon](http://www.amazon.com/gp/product/1849686424/ref=as_li_qf_sp_asin_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849686424&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686424" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/powershell-30-advanced-administration-handbook" title="PowerShell 3.0 Advanced Administration Handbook" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1849686424/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1849686424&linkId=2e92e758caafcb65da753374f5c92913) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686424" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.packtpub.com/networking-and-servers/powershell-30-advanced-administration-handbook" title="PowerShell 3.0 Advanced Administration Handbook" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -114,7 +114,7 @@ ISBN-10: 1849686440
   
 ISBN-13: 978-1849686440
   
-[Amazon](http://www.amazon.com/gp/product/1849686440/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1849686440&linkCode=as2&tag=forcmultthroi-20) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686440" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/microsoft-windows-powershell-30-first-look" title="Microsoft Windows PowerShell 3.0 First Look" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1849686440/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1849686440&linkId=540f2a50da6cae78f08ed18b69200304) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849686440" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.packtpub.com/networking-and-servers/microsoft-windows-powershell-30-first-look" title="Microsoft Windows PowerShell 3.0 First Look" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -127,8 +127,8 @@ Paperback: 300 pages
 Publisher: Manning Publications (Early 2013)
   
 ISBN-13: 978-1617291166
-  
-<a href="https://www.manning.com/books/learn-powershell-toolmaking-in-a-month-of-lunches" title="Learn PowerShell Toolmaking in a Month of Lunches" target="_blank">Publisher</a>
+
+[Amazon](https://www.amazon.com/gp/product/1617291161/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1617291161&linkId=d804f5d962a59eb4584386401b6da8d6) | <a href="https://www.manning.com/books/learn-powershell-toolmaking-in-a-month-of-lunches" title="Learn PowerShell Toolmaking in a Month of Lunches" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -144,7 +144,7 @@ ISBN-10: 1449322700
   
 ISBN-13: 978-1449322700
   
-[Amazon](http://www.amazon.com/gp/product/1449322700/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1449322700) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1449322700" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/0636920024491.do" title="PowerShell for Developers" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1449322700/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1449322700&linkId=6eab711fd906070017df683ec93c4c1c) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1449322700" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/0636920024491.do" title="PowerShell for Developers" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -160,7 +160,7 @@ ISBN-10: 1617290114
   
 ISBN-13: 978-1617290114
   
-[Amazon](http://www.amazon.com/gp/product/1617290114/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1617290114) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290114" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-and-wmi" title="PowerShell and WMI" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1617290114/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1617290114&linkId=c8d283ce1256e77c34db405000eced2d) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290114" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-and-wmi" title="PowerShell and WMI" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -176,7 +176,7 @@ ISBN-10: 1849684103
   
 ISBN-13: 978-1849684101
   
-[Amazon](http://www.amazon.com/gp/product/1849684103/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849684103) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849684103" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/microsoft-sharepoint-2010-and-windows-powershell-20-expert-cookbook" title="Microsoft SharePoint 2010 and Windows PowerShell 2.0: Expert Cookbook" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1849684103/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1849684103&linkId=4ddb5a276ae438358e36d29aceec36b7) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849684103" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.packtpub.com/networking-and-servers/microsoft-sharepoint-2010-and-windows-powershell-20-expert-cookbook" title="Microsoft SharePoint 2010 and Windows PowerShell 2.0: Expert Cookbook" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -192,7 +192,7 @@ ISBN-10: 1118021983
   
 ISBN-13: 978-1118021989
   
-[Amazon](http://www.amazon.com/gp/product/1118021983/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1118021983) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1118021983" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118021983.html" title="Windows PowerShell 2.0 Bible" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1118021983/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1118021983&linkId=4f1bf93f1a07189b494254b9c947e536) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1118021983" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.wiley.com/en-us/Windows+PowerShell+2+0+Bible-p-9781118021989" title="Windows PowerShell 2.0 Bible" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -208,7 +208,7 @@ ISBN-10: 1849682461
   
 ISBN-13: 978-1849682466
   
-[Amazon](http://www.amazon.com/gp/product/1849682461/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1849682461) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849682461" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.packtpub.com/networking-and-servers/microsoft-exchange-2010-powershell-cookbook" title="Microsoft Exchange 2010 PowerShell Cookbook" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1849682461/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1849682461&linkId=0cc428154fc4ee84b5c116ecce748dda) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1849682461" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.packtpub.com/networking-and-servers/microsoft-exchange-2010-powershell-cookbook" title="Microsoft Exchange 2010 PowerShell Cookbook" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -224,7 +224,7 @@ ISBN-10: 067233559X
   
 ISBN-13: 978-0672335594
   
-[Amazon](http://www.amazon.com/gp/product/067233559X/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=067233559X) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=067233559X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.informit.com/store/product.aspx?isbn=067233559X" title="PowerShell for SharePoint 2010" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/067233559X/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=067233559X&linkId=c6c3bcb50b8851fdd720881a52199644) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=067233559X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.informit.com/store/powershell-for-sharepoint-2010-how-to-9780672335594" title="PowerShell for SharePoint 2010" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -240,7 +240,7 @@ ISBN-10: 1118027310
   
 ISBN-13: 978-1118027318
   
-[Amazon](http://www.amazon.com/gp/product/1118027310/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1118027310) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1118027310" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118118561.html" title="Publisher" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1118027310/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1118027310&linkId=5b783786dd6739ae4b86dfd545f540c7) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1118027310" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.wiley.com/en-us/Automating+Active+Directory+Administration+with+Windows+PowerShell+2+0-p-9781118118566" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -256,7 +256,7 @@ ISBN-10: 0470939206
   
 ISBN-13: 978-0470939208
   
-[Amazon](http://www.amazon.com/gp/product/0470939206/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470939206) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470939206" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470939206.html" title="Automating SharePoint 2010 with Windows PowerShell 2.0" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0470939206/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0470939206&linkId=8fd8460e8a72a21454fcad5052a1b0a5) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470939206" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.wiley.com/en-us/Automating+SharePoint+2010+with+Windows+PowerShell+2+0-p-9780470939208" title="Automating SharePoint 2010 with Windows PowerShell 2.0" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -272,7 +272,7 @@ ISBN-10: 1118013867
   
 ISBN-13: 978-1118013861
   
-[Amazon](http://www.amazon.com/gp/product/1118013867/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1118013867) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1118013867" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118013867.html" title="Publisher" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1118013867/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1118013867&linkId=a0a6c84f624c74953bdd6e5e465c9d12) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1118013867" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.wiley.com/en-us/Automating+Microsoft+Windows+Server+2008+R2+with+Windows+PowerShell+2+0-p-9781118013861" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -288,7 +288,7 @@ ISBN-10: 1935182137
   
 ISBN-13: 978-1935182139
   
-[Amazon](http://www.amazon.com/gp/product/1935182137/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1935182137) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182137" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/windows-powershell-in-action-second-edition" title="Publisher" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1935182137/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1935182137&linkId=d12c3fd74498b65c2ffd254c05dba733) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182137" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/windows-powershell-in-action-second-edition" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -304,7 +304,7 @@ ISBN-10: 1617290211
   
 ISBN-13: 978-1617290213
   
-[Amazon](http://www.amazon.com/gp/product/1617290211/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1617290211) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunchesw.manning.com/jones/" title="Publisher" target="_blank">Publisher</a> | <a href="https://morelunches.com/2011/04/01/learn-windows-powershell-in-a-month-of-lunches-1st-ed/" title="Bonus Materials" target="_blank">Bonus Materials</a>
+[Amazon](https://www.amazon.com/gp/product/1617290211/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1617290211&linkId=3f260c3413d20bd455abb2b45260af9d) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1617290211" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/learn-windows-powershell-in-a-month-of-lunchesw.manning.com/jones/" title="Publisher" target="_blank">Publisher</a> | <a href="https://morelunches.com/2011/04/01/learn-windows-powershell-in-a-month-of-lunches-1st-ed/" title="Bonus Materials" target="_blank">Bonus Materials</a>
 
  <br style="clear: both;" />
 
@@ -320,7 +320,7 @@ ISBN-10: 0470890797
   
 ISBN-13: 978-0470890790
   
-[Amazon](http://www.amazon.com/gp/product/0470890797/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470890797) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470890797" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470890797.html" title="VMware vSphere PowerCLI Reference" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0470890797/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0470890797&linkId=d20a9e097f349763b6781a7a7de8b69d) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470890797" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.wiley.com/en-us/VMware+vSphere+PowerCLI+Reference%3A+Automating+vSphere+Administration-p-9780470890790" title="VMware vSphere PowerCLI Reference" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -336,7 +336,7 @@ ISBN-10: 0982131445
   
 ISBN-13: 978-0982131442
   
-[Amazon](http://www.amazon.com/gp/product/0982131445/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0982131445) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0982131445" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.sapien.com/books/Managing-Active-Directory" title="Managing Active Directory with Windows PowerShell" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0982131445/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0982131445&linkId=182dd2a1df67675ba5b85ebfcd86fb54) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0982131445" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.sapien.com/blog/2008/09/22/managing-active-directory-with-windows-powershell-in-print/" title="Managing Active Directory with Windows PowerShell" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -352,7 +352,7 @@ ISBN-10: 0735626464
   
 ISBN-13: 978-0735626461
   
-[Amazon](http://www.amazon.com/gp/product/0735626464/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735626464) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0735626464" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/9780735626461.do" title="Publisher" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0735626464/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0735626464&linkId=d3c6903993ea8ae0c87c5d234a029867) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0735626464" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.microsoftpressstore.com/store/windows-powershell-2.0-best-practices-9780735640832" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -368,7 +368,7 @@ ISBN-10: 0071747974
   
 ISBN-13: 978-0071747974
   
-[Amazon](http://www.amazon.com/gp/product/0071747974/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0071747974) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0071747974" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.mhprofessional.com/product.php?cat=39&#038;isbn=0071747982" title="PowerShell for Microsoft SharePoint 2010 Administrators" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0071747974/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0071747974&linkId=dd0c1db7682906a137a5ee30922b28b5) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0071747974" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.mhprofessional.com/9780071747974-usa-powershell-for-microsoft-sharepoint-2010-administrators-group" title="PowerShell for Microsoft SharePoint 2010 Administrators" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -384,7 +384,7 @@ ISBN-10: 0596801505
   
 ISBN-13: 978-0596801502
   
-[Amazon](http://www.amazon.com/gp/product/0596801505/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0596801505) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0596801505" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/9780596801519.do" title="Publisher" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0596801505/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0596801505&linkId=0bf10a5eebbfd989a21d70952f7ac39a) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0596801505" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/9780596801519.do" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -400,7 +400,7 @@ ISBN-10: 1935182005
   
 ISBN-13: 978-1935182009
   
-[Amazon](http://www.amazon.com/gp/product/1935182005/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1935182005) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182005" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-in-practice" title="PowerShell in Practice" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1935182005/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1935182005&linkId=934b8b253a67d53db5b0f53fb9e782fc) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1935182005" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.manning.com/books/powershell-in-practice" title="PowerShell in Practice" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -416,7 +416,7 @@ ISBN-10: 0982131429
   
 ISBN-13: 978-0982131428
   
-[Amazon](http://www.amazon.com/gp/product/0982131429/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0982131429) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0982131429" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.sapien.com/books/Windows-PowerShell-2" title="Publisher" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0982131429/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0982131429&linkId=3d897a02d37fb6a58ccf5de2164fa436) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0982131429" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.sapien.com/blog/2010/01/28/windows-powershell-2-0-ebook-ready-for-purchase-and-download/" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -432,7 +432,7 @@ ISBN-10: 0470371986
   
 ISBN-13: 978-0470371985
   
-[Amazon](http://www.amazon.com/gp/product/0470371986/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470371986) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470371986" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.dummies.com/store/product/Windows-PowerShell-2-For-Dummies.productCd-0470371986,navId-322470,descCd-description.html" title="Windows PowerShell 2 for Dummies" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0470371986/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0470371986&linkId=9c8d843afc2aafa52dfc9dfeb5aca72f) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470371986" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.dummies.com/store/product/Windows-PowerShell-2-For-Dummies.productCd-0470371986,navId-322470,descCd-description.html" title="Windows PowerShell 2 for Dummies" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -448,7 +448,7 @@ ISBN-10: 0470477288
   
 ISBN-13: 978-0470477281
   
-[Amazon](http://www.amazon.com/gp/product/0470477288/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0470477288) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470477288" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470477288.html" title="Microsoft SQL Server 2008 Administration with Windows PowerShell" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0470477288/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0470477288&linkId=010e48e94c542a38e0843480df708f4b) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0470477288" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.wiley.com/en-us/Microsoft+SQL+Server+2008+Administration+with+Windows+PowerShell-p-9780470477281" title="Microsoft SQL Server 2008 Administration with Windows PowerShell" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -464,7 +464,7 @@ ISBN-10: 0735625956
   
 ISBN-13: 978-0735625952
   
-[Amazon](http://www.amazon.com/gp/product/0735625956/ref=as_li_tf_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0735625956) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0735625956" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://shop.oreilly.com/product/9780735625952.do" title="Publisher" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0735625956/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0735625956&linkId=c540114863fe5681aad852c6ce48f639) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0735625956" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.microsoftpressstore.com/store/windows-powershell-2.0-administrators-pocket-consultant-9780735630642" title="Publisher" target="_blank">Publisher</a>
 
  <br style="clear: both;" />
 
@@ -480,7 +480,7 @@ ISBN-10: 0982131402
   
 ISBN-13: 978-0982131404
   
-[Amazon](http://www.amazon.com/gp/product/0982131402/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0982131402) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0982131402" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.sapien.com/books/Managing-VMWare" title="Managing VMware Infrastructure with Windows PowerShell" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0982131402/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0982131402&linkId=62dea3ab5e0d42c4fcf6dae80f982f8a) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0982131402" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="https://www.sapien.com/blog/2009/04/23/managing-vmware-infrastructure-with-windows-powershelltfm-sample/" title="Managing VMware Infrastructure with Windows PowerShell" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -496,7 +496,7 @@ ISBN-10: 1598638998
   
 ISBN-13: 978-1598638998
   
-[Amazon](http://www.amazon.com/gp/product/1598638998/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=1598638998) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1598638998" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.delmarlearning.com/companions/index.asp?isbn=1598638998" title="Microsoft Windows PowerShell 2.0 Programming for the Absolute Beginner, 2nd Edition" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/1598638998/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=1598638998&linkId=dcba34b8b2b26c4da3edef84dc4148c4) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=1598638998" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.delmarlearning.com/companions/index.asp?isbn=1598638998" title="Microsoft Windows PowerShell 2.0 Programming for the Absolute Beginner, 2nd Edition" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
 
@@ -512,6 +512,6 @@ ISBN-10: 0672329883
   
 ISBN-13: 978-0672329883
   
-[Amazon](http://www.amazon.com/gp/product/0672329883/ref=as_li_ss_tl?ie=UTF8&tag=forcmultthroi-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0672329883) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0672329883" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.informit.com/store/product.aspx?isbn=0672329883" title="Windows PowerShell Unleashed" target="_blank">Publisher</a>
+[Amazon](https://www.amazon.com/gp/product/0672329883/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=forcmultthroi-20&creative=9325&linkCode=as2&creativeASIN=0672329883&linkId=f281a40fdbfbd9884c64f66b04ba4317) <img src="https://www.assoc-amazon.com/e/ir?t=forcmultthroi-20&#038;l=as2&#038;o=1&#038;a=0672329883" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />| <a href="http://www.informit.com/store/product.aspx?isbn=0672329883" title="Windows PowerShell Unleashed" target="_blank">Publisher</a>
 
 <br style="clear: both;" />
