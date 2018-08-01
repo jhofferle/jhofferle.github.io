@@ -1,10 +1,7 @@
 ---
-id: 309
 title: Exporting Exchange Global Address List to Excel with VBScript
 date: 2010-06-28T14:11:01+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=309
 permalink: /exporting-exchange-global-address-list-to-excel-with-vbscript/
 categories:
   - VBScript
@@ -14,19 +11,19 @@ tags:
 ---
 This vbscript exports an Exchange GAL to an Excel spreadsheet. The important line to change is objCommand.CommandText which must be modified to reflect your Active Directory domain and the address book field you want to search for. Any information about the user object can be retrieved by additional modification of the script.
 
-An example of [querying Active Directory](http://www.hofferle.com/query-active-directory-with-powershell/ "Query Active Directory with PowerShell") using PowerShell custom objects is also available.
+An example of [querying Active Directory](http://www.hofferle.com/query-active-directory-with-powershell/) using PowerShell custom objects is also available.
 
 ```vb
-&#039;******************************************************************************
-&#039;GAL_Export.vbs
-&#039;
-&#039;Exports Exchange Global Address List to Excel
-&#039;
-&#039;Jason Hofferle
-&#039;21 June 2007
-&#039;
-&#039;Be sure to modify the objCommand.CommandText line to reflect your domain and fields
-&#039;******************************************************************************
+'******************************************************************************
+'GAL_Export.vbs
+'
+'Exports Exchange Global Address List to Excel
+'
+'Jason Hofferle
+'21 June 2007
+'
+'Be sure to modify the objCommand.CommandText line to reflect your domain and fields
+'******************************************************************************
 
 Set objConnection = CreateObject("ADODB.Connection")
 Set objCommand =   CreateObject("ADODB.Command")
@@ -37,8 +34,8 @@ Set objCommand.ActiveConnection = objConnection
 objCommand.Properties("Page Size") = 1000
 
 objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname, name," _
-& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM &#039;LDAP://dc=your,dc=domain,dc=here,dc=com&#039;" _
-& "WHERE objectCategory=&#039;user&#039; AND company=&#039;Your Company Field&#039;"
+& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM 'LDAP://dc=your,dc=domain,dc=here,dc=com'" _
+& "WHERE objectCategory='user' AND company='Your Company Field'"
 
 Set objRecordSet = objCommand.Execute
 objRecordSet.MoveFirst
@@ -90,22 +87,22 @@ To use, modify the following line:
 
 ```vb
 objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname, name," _
-& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM &#039;LDAP://dc=your,dc=domain,dc=here,dc=com&#039;" _
-& "WHERE objectCategory=&#039;user&#039; AND company=&#039;Your Company Field&#039;"
+& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM 'LDAP://dc=your,dc=domain,dc=here,dc=com'" _
+& "WHERE objectCategory='user' AND company='Your Company Field'"
 ```
 
 For example, if your Active Directory domain is internal.microsoft.com and you want a spreadsheet of everyone that had Operations for the company field, the line would be modified to this:
 
 ```vb
 objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname, name," _
-& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM &#039;LDAP://dc=internal,dc=microsoft,dc=com&#039;" _
-& "WHERE objectCategory=&#039;user&#039; AND company=&#039;Operations&#039;"
+& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM 'LDAP://dc=internal,dc=microsoft,dc=com'" _
+& "WHERE objectCategory='user' AND company='Operations'"
 ```
 
 If you wanted an Excel spreadsheet of everyone with Vice President in the title field, it should be changed to this:
 
 ```vb
 objCommand.CommandText = "Select department, l, title, telephonenumber, givenname, sn, initials, displayname,name," _
-& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM &#039;LDAP://dc=internal,dc=microsoft,dc=com&#039;" _
-& "WHERE objectCategory=&#039;user&#039; AND title=&#039;Vice President&#039;"
+& "physicalDeliveryOfficeName, streetAddress, st, postalCode, c, company FROM 'LDAP://dc=internal,dc=microsoft,dc=com'" _
+& "WHERE objectCategory='user' AND title='Vice President'"
 ```

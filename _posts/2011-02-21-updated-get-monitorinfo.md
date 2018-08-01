@@ -1,10 +1,7 @@
 ---
-id: 219
 title: Updated Get-MonitorInfo
 date: 2011-02-21T23:41:24+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=219
 permalink: /updated-get-monitorinfo/
 categories:
   - PowerShell
@@ -12,7 +9,7 @@ tags:
   - PowerShell
   - WMI
 ---
-This is an updated function for gathering monitor information. It uses the technique specified in this [Don Jones post](http://www.windowsitpro.com/blogs/PowerShellwithaPurpose/tabid/2248/entryid/12903/Default.aspx) to accept input from the pipeline or as a parameter.
+This is an updated function for gathering monitor information that accepts input from the pipeline or as a parameter.
 
 ```powershell
 Function Get-MonitorInfo

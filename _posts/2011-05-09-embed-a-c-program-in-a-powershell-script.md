@@ -1,13 +1,8 @@
 ---
-id: 510
 title: 'Embed a C# Program in a PowerShell Script'
 date: 2011-05-09T09:00:22+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=510
 permalink: /embed-a-c-program-in-a-powershell-script/
-ninja_forms_form:
-  - "0"
 categories:
   - PowerShell
 tags:
@@ -16,12 +11,12 @@ tags:
 ---
 [Advanced Event 8](http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/13/the-2011-scripting-games-advanced-event-8-use-powershell-to-remove-metadata-and-resize-images.aspx) of the 2011 Scripting Games was a beast. It was complex even before the requirement of writing a graphical user interface, and this event had the lowest number of submissions out of all the events.
 
-Many opted to use Sapien&#8217;s PrimalForms tool along with some community modules to handle the image manipulation. I decided to go a different route and code the entire program in C# and then embed that program in a PowerShell script. PowerShell can do just about anything, but when it comes to writing a complex GUI, I prefer to fire up Visual Studio. It also helps to be able to directly use examples of C# code to solve some of the problems without having to convert it to PowerShell code.
+Many opted to use Sapien's PrimalForms tool along with some community modules to handle the image manipulation. I decided to go a different route and code the entire program in C# and then embed that program in a PowerShell script. PowerShell can do just about anything, but when it comes to writing a complex GUI, I prefer to fire up Visual Studio. It also helps to be able to directly use examples of C# code to solve some of the problems without having to convert it to PowerShell code.
 
 After everything was working the way I wanted it in Visual Studio, all of the code was pasted into a huge here-string in my script.
 
 ```powershell
-$sourceCode = @&#039;
+$sourceCode = @'
  
 using System;
 using System.Drawing;
@@ -39,13 +34,13 @@ public partial class Form1 : Form
 
 ...rest of source code copied out of Visual Studio.
 
-&#039;@
+'@
 ```
 
-When using Windows Presentation Foundation classes, it&#8217;s important to make sure PowerShell is running in a Single Threaded Apartment (STA).
+When using Windows Presentation Foundation classes, it's important to make sure PowerShell is running in a Single Threaded Apartment (STA).
 
 ```powershell
-If ($host.Runspace.ApartmentState -ne &#039;STA&#039;)
+If ($host.Runspace.ApartmentState -ne 'STA')
 {
     Write-Warning "STA Mode not detected."
     Write-Warning "Please run this script with -STA switch or inside ISE"
@@ -56,7 +51,7 @@ If ($host.Runspace.ApartmentState -ne &#039;STA&#039;)
 The Add-Type cmdlet is then used to import the source code. The ReferencedAssemblies parameter makes sure all of our using directives can find the assemblies they need. Then a new object is created, Form1 in this case, and we start it with the ShowDialog method.
 
 ```powershell
-$assemblies = (&#039;System.Windows.Forms&#039;,&#039;System.Drawing&#039;,&#039;PresentationCore&#039;,&#039;WindowsBase&#039;,&#039;System.Xml&#039;)
+$assemblies = ('System.Windows.Forms','System.Drawing','PresentationCore','WindowsBase','System.Xml')
  
 try
 {
@@ -71,7 +66,7 @@ catch
 }
 ```
 
-![image-left](/assets/img/Convert-Image.png){: .align-left}
+![image-center](/assets/img/Convert-Image.png)
 
 All of my entries for the 2011 Scripting Games can be found at [PoshCode](https://github.com/PoshCode).
 
@@ -97,7 +92,7 @@ Complete Script:
 #  
 # -----------------------------------------------------------------------------
 
-$sourceCode = @&#039;
+$sourceCode = @'
 
 using System;
 using System.Drawing;
@@ -120,7 +115,7 @@ public partial class Form1 : Form
         InitializeComponent();
 
         try { xmlDocument.Load(documentPath); }
-        catch { xmlDocument.LoadXml("&lt;settings&gt;&lt;/settings&gt;"); }
+        catch { xmlDocument.LoadXml("<settings></settings>"); }
         
         txtSourceDir.Text = GetSetting("Form1/sourceDir", Environment.GetFolderPath(Environment.SpecialFolder.MyPictures));
         txtDestDir.Text = GetSetting("Form1/destDir", Environment.GetFolderPath(Environment.SpecialFolder.MyPictures));
@@ -162,7 +157,7 @@ public partial class Form1 : Form
         nPercentW = ((float)size.Width / (float)sourceWidth);
         nPercentH = ((float)size.Height / (float)sourceHeight);
 
-        if (nPercentH &lt; nPercentW)
+        if (nPercentH < nPercentW)
             nPercent = nPercentH;
         else
             nPercent = nPercentW;
@@ -233,7 +228,7 @@ public partial class Form1 : Form
         ImageCodecInfo[] codecs = ImageCodecInfo.GetImageEncoders();
 
         // Find the correct image codec
-        for (int i = 0; i &lt; codecs.Length; i++)
+        for (int i = 0; i < codecs.Length; i++)
             if (codecs[i].MimeType == mimeType)
                 return codecs[i];
         return null;
@@ -319,7 +314,7 @@ public partial class Form1 : Form
 
             foreach (FileInfo fi in file)
             {
-                if (".jpg|.jpeg|.bmp|.png|.gif".IndexOf(Path.GetExtension(fi.Name).ToLower()) &gt;= 0)
+                if (".jpg|.jpeg|.bmp|.png|.gif".IndexOf(Path.GetExtension(fi.Name).ToLower()) >= 0)
                 {
                     listBoxImages.Items.Add(fi.FullName);
                 }
@@ -437,7 +432,7 @@ public partial class Form1 : Form
 
     private XmlNode createMissingNode(string xPath)
     {
-        string[] xPathSections = xPath.Split(&#039;/&#039;);
+        string[] xPathSections = xPath.Split('/');
         string currentXPath = "";
         XmlNode testNode = null;
         XmlNode currentNode = xmlDocument.SelectSingleNode("settings");
@@ -447,9 +442,9 @@ public partial class Form1 : Form
             testNode = xmlDocument.SelectSingleNode(currentXPath);
             if (testNode == null)
             {
-                currentNode.InnerXml += "&lt;" +
-                            xPathSection + "&gt;&lt;/" +
-                            xPathSection + "&gt;";
+                currentNode.InnerXml += "<" +
+                            xPathSection + "></" +
+                            xPathSection + ">";
             }
             currentNode = xmlDocument.SelectSingleNode(currentXPath);
             currentXPath += "/";
@@ -460,15 +455,15 @@ public partial class Form1 : Form
 
 partial class Form1
 {
-    /// &lt;summary&gt;
+    /// <summary>
     /// Required designer variable.
-    /// &lt;/summary&gt;
+    /// </summary>
     private System.ComponentModel.IContainer components = null;
 
-    /// &lt;summary&gt;
+    /// <summary>
     /// Clean up any resources being used.
-    /// &lt;/summary&gt;
-    /// &lt;param name="disposing"&gt;true if managed resources should be disposed; otherwise, false.&lt;/param&gt;
+    /// </summary>
+    /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
     protected override void Dispose(bool disposing)
     {
         if (disposing && (components != null))
@@ -480,10 +475,10 @@ partial class Form1
 
     #region Windows Form Designer generated code
 
-    /// &lt;summary&gt;
+    /// <summary>
     /// Required method for Designer support - do not modify
     /// the contents of this method with the code editor.
-    /// &lt;/summary&gt;
+    /// </summary>
     private void InitializeComponent()
     {
         this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
@@ -752,7 +747,7 @@ partial class Form1
     private System.Windows.Forms.Button btnBrowseDest;
     private System.Windows.Forms.Button btnPrepareAll;
 }
-&#039;@
+'@
 
 # Function to check the registry for .NET Framework v3.0
 Function Test-Framework
@@ -778,14 +773,14 @@ if (-NOT (Test-Framework))
 
 # Single Threaded Apartment mode is required for WPF.
 # Check to make sure PowerShell is running in STA mode.
-If ($host.Runspace.ApartmentState -ne &#039;STA&#039;)
+If ($host.Runspace.ApartmentState -ne 'STA')
 {
     Write-Warning "STA Mode not detected."
     Write-Warning "Please run this script with -STA switch or inside ISE"
     Exit
 }
 
-$assemblies = (&#039;System.Windows.Forms&#039;,&#039;System.Drawing&#039;,&#039;PresentationCore&#039;,&#039;WindowsBase&#039;,&#039;System.Xml&#039;)
+$assemblies = ('System.Windows.Forms','System.Drawing','PresentationCore','WindowsBase','System.Xml')
 
 try
 {

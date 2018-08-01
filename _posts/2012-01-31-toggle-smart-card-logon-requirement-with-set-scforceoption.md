@@ -1,10 +1,7 @@
 ---
-id: 875
 title: Toggle Smart Card Logon Requirement with Set-ScForceOption
 date: 2012-01-31T09:00:48+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=875
 permalink: /toggle-smart-card-logon-requirement-with-set-scforceoption/
 categories:
   - PowerShell
@@ -14,9 +11,10 @@ tags:
 ---
 Two-factor authentication with smart cards is becoming more common, but it can be a real pain when the computer is broken and Windows is refusing to allow a local account to logon for troubleshooting. The security setting `Interactive logon: Require smart card` may prevent console logons, but if the registry can still be accessed over the network, this requirement can be toggled.
 
-I&#8217;ve covered this same method in the past with a <a href="http://www.hofferle.com/?p=321" title="Bypassing Smart Card Logon using Remote Registry" target="_blank">vbscript</a>, and a <a href="http://www.hofferle.com/?p=347" title="Bypass Smart Card Logon using Remote Registry in PowerShell" target="_blank">PowerShell GUI</a>, but this function is designed to work more like a traditional PowerShell cmdlet. The problem of bypassing a smart card requirement also comes up often enough for me that I decided it warranted an update.
+I've covered this same method in the past with a [vbscript](/bypassing-smart-card-logon-using-remote-registry/), and a [PowerShell GUI](/bypass-smart-card-logon-using-remote-registry-in-powershell/), but this function is designed to work more like a traditional PowerShell cmdlet. The problem of bypassing a smart card requirement also comes up often enough for me that I decided it warranted an update.
 
-<pre>PS>Set-ScForceOption -ComputerName Computer01 -Status
+```powershell
+PS>Set-ScForceOption -ComputerName Computer01 -Status
 
 ComputerName                                                Status
 ------------                                                ------

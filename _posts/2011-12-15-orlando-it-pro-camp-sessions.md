@@ -1,17 +1,14 @@
 ---
-id: 781
 title: Orlando IT Pro Camp Sessions
 date: 2011-12-15T00:00:00+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=781
 permalink: /orlando-it-pro-camp-sessions/
 categories:
   - Community
 tags:
   - IT Pro Camp
 ---
-I will be presenting two sessions at the Orlando IT Pro Camp on January 21st. IT Pro Camp is a free, one-day learning event for IT Professionals. There will be a wide range of topics presented by speakers of all backgrounds and experience. I highly recommend stopping by if you&#8217;re in the Orlando area that Saturday.
+I will be presenting two sessions at the Orlando IT Pro Camp on January 21st. IT Pro Camp is a free, one-day learning event for IT Professionals. There will be a wide range of topics presented by speakers of all backgrounds and experience. I highly recommend stopping by if you're in the Orlando area that Saturday.
 
 [Orlando IT Pro Camp](https://itpro.camp/ "Orlando IT Pro Camp")
 

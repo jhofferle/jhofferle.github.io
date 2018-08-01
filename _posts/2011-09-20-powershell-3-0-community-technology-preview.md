@@ -1,13 +1,8 @@
 ---
-id: 750
 title: PowerShell 3.0 Community Technology Preview
 date: 2011-09-20T08:11:49+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=750
 permalink: /powershell-3-0-community-technology-preview/
-ninja_forms_form:
-  - "0"
 categories:
   - PowerShell
 tags:

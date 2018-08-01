@@ -1,17 +1,14 @@
 ---
-id: 17
 title: Modify Local User Account Flags with PowerShell
 date: 2010-10-21T20:25:19+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=17
 permalink: /modify-local-user-account-flags-with-powershell/
 categories:
   - PowerShell
 tags:
   - PowerShell
 ---
-This script uses the PowerShell bitwise operators to add or remove user account control flags on local user accounts. It currently generates a list of all local users accounts, adds the &#8220;Password Never Expires&#8221; flag to the account named &#8220;Administrator&#8221; and removes the flag from all other accounts. The two functions and list of flags can be used to produce any needed combination.
+This script uses the PowerShell bitwise operators to add or remove user account control flags on local user accounts. It currently generates a list of all local users accounts, adds the "Password Never Expires" flag to the account named "Administrator" and removes the flag from all other accounts. The two functions and list of flags can be used to produce any needed combination.
 
 ```powershell
 # ADS_USER_FLAG_ENUM Enumeration

@@ -1,10 +1,7 @@
 ---
-id: 342
 title: Query Active Directory with PowerShell
 date: 2010-06-28T14:31:03+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=342
 permalink: /query-active-directory-with-powershell/
 categories:
   - PowerShell
@@ -85,20 +82,20 @@ Function QueryAD
 ```
 
 The script can be called, the function placed in a profile or the script can be dot-sourced, to allow the ExportGAL function to be called like another cmdlet:
-  
-`PS C:\> . .\QueryAD.ps1`
-
+~~~
+PS C:\> . .\QueryAD.ps1
+~~~
 The function accepts two parameters, a field and a value. These are used to build the search query. For example, the following will search for anyone with the last name of Smith:
-  
-`PS C:\> QueryAD sn Smith`
-
+~~~
+PS C:\> QueryAD sn Smith
+~~~
 Building a collection of everyone in the SouthEast Marketing department could be done with this:
-  
-`PS C:\> QueryAD department "SouthEast Marketing"`
-
+~~~
+PS C:\> QueryAD department "SouthEast Marketing"
+~~~
 The collection of objects can be manipulated just like any other object:
-  
-`PS C:\> QueryAD department "SouthEast Marketing" | Select-Object last,phone | Format-Table -AutoSize<br />
-PS C:\> QueryAD department "SouthEast Marketing" | ConvertTo-Html | Out-File c:\marketing.html<br />
-PS C:\> QueryAD department "SouthEast Marketing" | Export-Csv c:\marketing.csv<br />
-`
+~~~
+PS C:\> QueryAD department "SouthEast Marketing" | Select-Object last,phone | Format-Table -AutoSize
+PS C:\> QueryAD department "SouthEast Marketing" | ConvertTo-Html | Out-File c:\marketing.html
+PS C:\> QueryAD department "SouthEast Marketing" | Export-Csv c:\marketing.csv
+~~~

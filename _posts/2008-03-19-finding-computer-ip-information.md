@@ -1,10 +1,7 @@
 ---
-id: 330
 title: Finding computer IP information
 date: 2008-03-19T14:23:00+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=330
 permalink: /finding-computer-ip-information/
 categories:
   - VBScript
@@ -17,16 +14,16 @@ When we went through a subnet change, we found there were many systems with an i
 This a script I wrote to scan a subnet and dump the IP information to a .csv file.
 
 ```vb
-&#039;**************************************Heading*********************************
-&#039;find_gateway.vbs
-&#039;
-&#039;Jason Hofferle
-&#039;9/16/2004
-&#039;
-&#039;
-&#039;******************************************************************************
-Const ForAppending = 8 &#039;doesn&#039;t delete info from the text file, just adds to it
-Const ForWriting = 2 &#039;deletes all current data in the text file
+'**************************************Heading*********************************
+'find_gateway.vbs
+'
+'Jason Hofferle
+'9/16/2004
+'
+'
+'******************************************************************************
+Const ForAppending = 8 'doesn't delete info from the text file, just adds to it
+Const ForWriting = 2 'deletes all current data in the text file
 
 Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set objTextFile = objFSO.OpenTextFile("gateway_list.csv", ForWriting, True)

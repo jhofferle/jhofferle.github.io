@@ -1,29 +1,25 @@
 ---
-id: 474
 title: Webclient Caching with PowerShell
 date: 2011-05-02T09:00:44+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=474
 permalink: /webclient-caching-with-powershell/
-ninja_forms_form:
-  - "0"
 categories:
   - PowerShell
 tags:
   - PowerShell
   - Scripting Games
 ---
-In [Advanced Event 7](http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/12/the-2011-scripting-games-advanced-event-7-map-usernames-and-twitter-names-with-powershell.aspx) of the 2011 Microsoft Scripting Games, the goal was to map names to Twitter screen names. The information was to be gathered from the [SQLSaturday](http://www.sqlsaturday.com) site, but I wanted to add the functionality to query the actual [Twitter API](http://dev.twitter.com/) for more information.
+In [Advanced Event 7](https://blogs.technet.microsoft.com/heyscriptingguy/2011/04/12/the-2011-scripting-games-advanced-event-7-map-users-names-and-twitter-names-with-powershell/) of the 2011 Microsoft Scripting Games, the goal was to map names to Twitter screen names. The information was to be gathered from the [SQLSaturday](https://www.sqlsaturday.com) site, but I wanted to add the functionality to query the actual [Twitter API](https://developer.twitter.com/) for more information.
 
-Much of the Twitter API functionality requires authentication through [oAuth](https://developer.twitter.com/), but I didn&#8217;t want to add that level of complexity. Fortunately, there are some useful things that can be done without authentication. The [users/show](https://developer.twitter.com/) API accepts a Twitter screen name and returns a lot of information about that user in an xml or json format. This is what I wanted to use to add some functionality to my PowerShell script.
+Much of the Twitter API functionality requires authentication through [oAuth](https://developer.twitter.com/), but I didn't want to add that level of complexity. Fortunately, there are some useful things that can be done without authentication. The [users/show](https://developer.twitter.com/) API accepts a Twitter screen name and returns a lot of information about that user in an xml or json format. This is what I wanted to use to add some functionality to my PowerShell script.
 
 While this particular API can be accessed anonymously, it is also subject to more restrictive [rate limiting](https://developer.twitter.com/). This means I was only going to be able to make 150 requests per hour. This can be a real bummer when trying to test a script. Since I was retrieving the same information over and over, it seemed like a good idea to cache the data locally.
 
 First, I generated a path to the CSV file to be used for the local cache. I wanted to use a specific name for the file, so that it would be found on subsequent calls to the function.
 
 ```powershell
-
+$cachePath = [System.IO.Path]::GetTempPath() + 'Get-TwitterUserCache.csv'
+```
 
 With the path to the cache file determined, its existence is checked and the file is imported if found.
 
@@ -46,12 +42,13 @@ if (Test-Path $cachePath)
       }
 ```
 
-With the cache loaded into the twitterCache variable, I check to see if it contains the screen name I&#8217;m looking for.
+With the cache loaded into the twitterCache variable, I check to see if it contains the screen name I'm looking for.
 
 ```powershell
+$result = $twitterCache | Where-Object {$_.ScreenName -eq $screen_name}
+```
 
-
-If the screen name wasn&#8217;t found in the cache, the Twitter API is queried and the returned information is added to twitterCache.
+If the screen name wasn't found in the cache, the Twitter API is queried and the returned information is added to twitterCache.
 
 ```powershell
 if ($result -eq $null)
@@ -88,9 +85,10 @@ if ($result -eq $null)
 The updated cache is then written back to the CSV file.
 
 ```powershell
+$twitterCache | Export-Csv -Path $cachePath -NoTypeInformation
+```
 
-
-I wrapped this functionality into the Invoke-TwitterQuery function, so that the rest of my script wouldn&#8217;t care if the data was cached or not. It just calls the function and doesn&#8217;t have to worry about how the information is being retrieved. It also means I could make adjustments to Invoke-TwitterQuery, like storing information in a database instead of a CSV file, and the rest of the script wouldn&#8217;t need to be changed.
+I wrapped this functionality into the Invoke-TwitterQuery function, so that the rest of my script wouldn't care if the data was cached or not. It just calls the function and doesn't have to worry about how the information is being retrieved. It also means I could make adjustments to Invoke-TwitterQuery, like storing information in a database instead of a CSV file, and the rest of the script wouldn't need to be changed.
 
 All of my entries for the 2011 Scripting Games can be found at [PoshCode](https://github.com/PoshCode).
 
@@ -164,7 +162,8 @@ Function Get-TwitterUser
       # setup to cache results locally. It is written to the Temp Path,
       # but given a standard name so it can be retrieved each time the
       # function is called.
-      $cachePath = [System.IO.Path]::GetTempPath() + &#039;Get-TwitterUserCache.csv&#039;
+      $cachePath = [System.IO.Path]::GetTempPath() + 'Get-TwitterUserCache.csv'
+      ```
       Write-Verbose "Twitter cache: $cachePath"
         
       # Base URL for the twitter API being used.
@@ -413,7 +412,7 @@ Function Get-TwitterUser
     }
   }
   
-  &lt;#
+  <#
   
   .Synopsis
   Retrieves twitter users from the SQL Saturday website or from the twitter API.
@@ -523,6 +522,6 @@ Function Get-TwitterUser
   This command queries twitter for the screen name "scriptingguys" and
   displays information about that twitter user with verbose output.
   
-  #&gt;
+  #>;
 }
 ```

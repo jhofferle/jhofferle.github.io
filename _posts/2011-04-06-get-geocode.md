@@ -1,10 +1,7 @@
 ---
-id: 298
 title: Get-Geocode
 date: 2011-04-06T22:53:06+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=298
 permalink: /get-geocode/
 categories:
   - PowerShell
@@ -12,6 +9,7 @@ tags:
   - Google
   - PowerShell
 ---
+
 ```powershell
 Function Get-Geocode
 {
@@ -66,7 +64,7 @@ Function Get-Geocode
     {
     }
     
-    &lt;#
+    <#
       .Synopsis
       Uses the Google Geocoding API V3 to return geocoding 
       information for the specified address.
@@ -116,6 +114,6 @@ Function Get-Geocode
       NAME:     Get-Geocode
       AUTHOR:   Jason Hofferle
       LASTEDIT: 4/6/2011
-    #&gt;
+    #>
 }
 ```

@@ -1,10 +1,7 @@
 ---
-id: 1339
 title: Generating Lists of Computer Names with PowerShell
 date: 2012-03-06T09:00:26+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=1339
 permalink: /generating-lists-of-computer-names-with-powershell/
 categories:
   - PowerShell
@@ -47,7 +44,7 @@ $Computers = Get-ADComputer -Filter * | ForEach-Object {$_.Name}
 $Computers = Get-ADComputer -Filter * | ForEach-Object {$_.DNSHostName}
 ```
 
-When there&#8217;s more than a few computers to deal with, it&#8217;s much easier to get those names from the computer accounts in Active Directory. In a correctly configured domain environment, the <a href="https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd378937(v=ws.10)" title="Active Directory Administration with Windows PowerShell" target="_blank">Microsoft Active Directory cmdlets</a> can be used to generate lists of computers.
+When there's more than a few computers to deal with, it's much easier to get those names from the computer accounts in Active Directory. In a correctly configured domain environment, the [Microsoft Active Directory cmdlets](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/dd378937(v=ws.10)) can be used to generate lists of computers.
 
 ```powershell
 # Load the Quest Active Directory cmdlets
@@ -63,14 +60,14 @@ $Computers = Get-QADComputer -MemberOf &#039;Database Servers&#039; | ForEach-Ob
 $Computers = Get-QADComputer -SearchRoot "testlab.local/Domain Controllers" | ForEach-Object {$_.Name}
 ```
 
-Not everyone has the infrastructure in place to use the Microsoft cmdlets. Fortunately, Quest has <a href="https://www.oneidentity.com/products/active-roles/" title="ActiveRoles Management Shell for Active Directory" target="_blank">freely available</a> cmdlets for interacting with Active Directory.
+Not everyone has the infrastructure in place to use the Microsoft cmdlets. Fortunately, Quest has [freely available](https://www.oneidentity.com/products/active-roles/) cmdlets for interacting with Active Directory.
 
 ```powershell
 Get-ADComputer -Filter * | Export-Csv computerList.csv -NoTypeInformation
 Get-QADComputer | Export-Csv computerList.csv -NoTypeInformation
 ```
 
-Sometimes it&#8217;s difficult to filter a list of names using these cmdlets. Another option is to export all the computer account properties to a Comma Separated Values file, and then use Excel to filter the list.
+Sometimes it's difficult to filter a list of names using these cmdlets. Another option is to export all the computer account properties to a Comma Separated Values file, and then use Excel to filter the list.
 
 ```powershell
 $Computers = Import-Csv -Path computerList.csv | ForEach-Object {$_.Name}
@@ -78,11 +75,11 @@ $Computers = Import-Csv -Path computerList.csv | ForEach-Object {$_.Name}
 
 When the spreadsheet has been narrowed down to the required names, it can then be imported back into PowerShell to get the array of computer names.
 
-The capability of PowerShell to import Csv files is also useful when a list of computers is provided in an Excel spreadsheet from another IT department. It&#8217;s common for reporting software to generate spreadsheets of computer names along with all kinds of other data. By saving these Excel spreadsheets as Csv files, they can easily be imported directly into PowerShell.
+The capability of PowerShell to import Csv files is also useful when a list of computers is provided in an Excel spreadsheet from another IT department. It's common for reporting software to generate spreadsheets of computer names along with all kinds of other data. By saving these Excel spreadsheets as Csv files, they can easily be imported directly into PowerShell.
 
-![image-left](/assets/img/Excel_ComputerList.png){: .align-left}
+![image-center](/assets/img/Excel_ComputerList.png)
 
-![image-left](/assets/img/Excel_SaveAsCsv.png){: .align-left}
+![image-center](/assets/img/Excel_SaveAsCsv.png)
 
 ```powershell
 $Computers = Import-Csv -Path Computers.csv | Foreach-Object {$_.NetBIOSName.Trim()}

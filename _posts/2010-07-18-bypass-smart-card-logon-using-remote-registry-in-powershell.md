@@ -1,10 +1,7 @@
 ---
-id: 347
 title: Bypass Smart Card Logon using Remote Registry in PowerShell
 date: 2010-07-18T14:34:46+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=347
 permalink: /bypass-smart-card-logon-using-remote-registry-in-powershell/
 categories:
   - PowerShell
@@ -16,7 +13,7 @@ This PowerShell script changes the value of scforceoption on the specified compu
 
 The actual work is performed by only a few lines of code. Most of the script is for generating the Windows Forms GUI. This code was created using Sapien’s PrimalForms Community Edition.
 
-I now have an <a href="http://www.hofferle.com/?p=875" title="Toggle Smart Card Logon Requirement with Set-ScForceOption" target="_blank">updated version</a> that works like a PowerShell cmdlet.
+I now have an [updated version]({{"/toggle-smart-card-logon-requirement-with-set-scforceoption/"}}) that works like a PowerShell cmdlet.
 
 ```powershell
 #Generated Form Function
@@ -51,7 +48,7 @@ $InitialFormWindowState = New-Object System.Windows.Forms.FormWindowState
 Function GetStatus
   {
     Param($computer)
-    $reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey(&#039;LocalMachine&#039;, $computer)
+    $reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $computer)
     $regKey = $reg.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\system" )
     If ($regKey.GetValue("scforceoption") -eq 1)
       {
@@ -82,7 +79,7 @@ $handler_btnStatus_Click=
 
 $btnDisable_OnClick=
 {
-  $reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey(&#039;LocalMachine&#039;, $txtComputer.Text)
+  $reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $txtComputer.Text)
   $regKey = $reg.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\system", $true)
   $regKey.SetValue("scforceoption", 0)
 
@@ -92,7 +89,7 @@ $btnDisable_OnClick=
 
 $btnEnable_OnClick=
 {
-  $reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey(&#039;LocalMachine&#039;, $txtComputer.Text)
+  $reg = [Microsoft.Win32.RegistryKey]::OpenRemoteBaseKey('LocalMachine', $txtComputer.Text)
   $regKey = $reg.OpenSubKey("SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\policies\\system", $true)
   $regKey.SetValue("scforceoption", 1)
 

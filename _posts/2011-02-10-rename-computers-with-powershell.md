@@ -1,10 +1,7 @@
 ---
-id: 138
 title: Rename Computers with PowerShell
 date: 2011-02-10T15:24:01+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=138
 permalink: /rename-computers-with-powershell/
 categories:
   - PowerShell

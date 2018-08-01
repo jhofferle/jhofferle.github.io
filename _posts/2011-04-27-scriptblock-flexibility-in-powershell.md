@@ -1,24 +1,19 @@
 ---
-id: 409
 title: ScriptBlock Flexibility in PowerShell
 date: 2011-04-27T09:00:23+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=409
 permalink: /scriptblock-flexibility-in-powershell/
-ninja_forms_form:
-  - "0"
 categories:
   - PowerShell
 tags:
   - PowerShell
   - Scripting Games
 ---
-I decided to start sharing some of my submissions for the 2011 Microsoft Scripting Games that received decent ratings. This is my entry for [Advanced Event 3](http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/06/the-2011-scripting-games-advanced-event-3-use-powershell-to-query-classic-event-and-etl-diagnostic-logs.aspx), where the idea was to create a script for event log gathering. The unique part is how a single scriptblock is invoked two different ways. I don&#8217;t know that I would always integrate this into a single function, but it&#8217;s an interesting example of how flexible scriptblocks can be.
+I decided to start sharing some of my submissions for the 2011 Microsoft Scripting Games that received decent ratings. This is my entry for [Advanced Event 3](http://blogs.technet.com/b/heyscriptingguy/archive/2011/04/06/the-2011-scripting-games-advanced-event-3-use-powershell-to-query-classic-event-and-etl-diagnostic-logs.aspx), where the idea was to create a script for event log gathering. The unique part is how a single scriptblock is invoked two different ways. I don't know that I would always integrate this into a single function, but it's an interesting example of how flexible scriptblocks can be.
 
 Any code that needs to reach out and touch other computers is going to benefit from PowerShell remoting. The more computers you have to connect to, the more efficient it is to use remoting. I wanted to utilize remoting the way I would in my own production environment, but I also wanted the option to use the built-in remoting capabilities found in the Get-WinEvent cmdlet. Not everyone is lucky enough to have remoting configured everywhere.
 
-I created a scriptblock that was essentially a self-contained script with parameters. All of the actual &#8220;work&#8221; is handled in this scriptblock. The rest of the function is figuring out how to launch that scriptblock.
+I created a scriptblock that was essentially a self-contained script with parameters. All of the actual "work" is handled in this scriptblock. The rest of the function is figuring out how to launch that scriptblock.
 
 ```powershell
 $ScriptBlock = {
@@ -63,7 +58,7 @@ $ScriptBlock = {
     }
 ```
 
-With the script-within-a-script ready, I just needed to launch it appropriately. The Get-LoggedEvent function has a UseRemoting switch. When this switch is specified, I want to use Invoke-Command to take advantage of PowerShell&#8217;s fan-out remoting capabilities. I pass Invoke-Command the array of names, the scriptblock and the arguments to be passed to the scriptblock. The scriptblock is given &#8216;localhost&#8217; for the computer name, and Invoke-Command takes care of running a copy of the scriptblock on each computer.
+With the script-within-a-script ready, I just needed to launch it appropriately. The Get-LoggedEvent function has a UseRemoting switch. When this switch is specified, I want to use Invoke-Command to take advantage of PowerShell's fan-out remoting capabilities. I pass Invoke-Command the array of names, the scriptblock and the arguments to be passed to the scriptblock. The scriptblock is given 'localhost' for the computer name, and Invoke-Command takes care of running a copy of the scriptblock on each computer.
 
 ```powershell
 if ($UseRemoting)
@@ -94,15 +89,7 @@ else
     }
 ```
 
-With any script, there are always improvements that can be made. [Bartek Bielawski](http://becomelotr.wordpress.com/) (who ended up winning the 2011 Scripting Games) made a good suggestion that I use splatting for those long lists of parameters instead of backticks. He also pointed out that I don&#8217;t need to specify false as a default value for switch parameters because the value will already default to false.
-
-```powershell
-
-
-Has the same effect as:
-
-```powershell
-
+With any script, there are always improvements that can be made. [Bartek Bielawski](http://becomelotr.wordpress.com/) (who ended up winning the 2011 Scripting Games) made a good suggestion that I use splatting for those long lists of parameters instead of backticks. He also pointed out that I don't need to specify false as a default value for switch parameters because the value will already default to false.
 
 All of my entries for the 2011 Scripting Games can be found at [PoshCode](https://github.com/PoshCode).
 
@@ -226,7 +213,7 @@ Function Get-LoggedEvent
         }
     }
   }
-  &lt;#
+  <#
       .Synopsis
       Returns recent events from local and remote computers.
       
@@ -283,6 +270,6 @@ Function Get-LoggedEvent
       -----------
       This command gets event information from the three computers specified
       using PowerShell remoting.
-  #&gt;
+  #>
 }
 ```

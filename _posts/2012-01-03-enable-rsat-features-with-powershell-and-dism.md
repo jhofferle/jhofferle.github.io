@@ -1,17 +1,14 @@
 ---
-id: 790
 title: Enable RSAT Features with PowerShell and Dism
 date: 2012-01-03T09:00:53+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=790
 permalink: /enable-rsat-features-with-powershell-and-dism/
 categories:
   - PowerShell
 tags:
   - PowerShell
 ---
-Checking boxes gets old quickly, and I&#8217;ve installed and checked those little boxes for the Remote Server Administration Tools (RSAT) on Windows 7 enough times for it to be annoying. I just wanted a static script with the names of the features to enable, but [Xenophane&#8217;s Blog](http://www.xipher.dk/WordPress/?p=338 "Xenophane's Blog") has some examples of extracting the output of the /Get-Features switch to dynamically generate the command to enable everything in RSAT.
+Checking boxes gets old quickly, and I've installed and checked those little boxes for the Remote Server Administration Tools (RSAT) on Windows 7 enough times for it to be annoying. I just wanted a static script with the names of the features to enable, but [Xenophane's Blog](http://www.xipher.dk/WordPress/?p=338 "Xenophane's Blog") has some examples of extracting the output of the /Get-Features switch to dynamically generate the command to enable everything in RSAT.
 
 [Enable-RSATFeatures.zip](https://drive.google.com/open?id=10PaePKBGzf9oXjtcrwMs3kZRs8V4lHkt)
 

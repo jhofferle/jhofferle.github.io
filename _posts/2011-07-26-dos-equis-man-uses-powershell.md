@@ -1,14 +1,11 @@
 ---
-id: 655
 title: Dos Equis Man Prefers PowerShell
 date: 2011-07-26T16:58:41+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=655
 permalink: /dos-equis-man-uses-powershell/
 categories:
   - PowerShell
 tags:
   - PowerShell
 ---
-![image-left](/assets/img/dos_equis_powersell1.jpg){: .align-left}
+![image-center](/assets/img/dos_equis_powersell1.jpg)

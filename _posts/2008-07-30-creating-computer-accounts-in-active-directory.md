@@ -1,10 +1,7 @@
 ---
-id: 327
 title: Creating computer accounts in Active Directory
 date: 2008-07-30T14:22:02+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=327
 permalink: /creating-computer-accounts-in-active-directory/
 categories:
   - VBScript
@@ -19,21 +16,21 @@ The new computers are already assigned to users in a spreadsheet. I just created
 If using two separate text files is too clunkly, there is an updated script that uses a csv file as input.
 
 ```vb
-strTextFile = "computers.txt" &#039;specifies name of txt file with computer names
+strTextFile = "computers.txt" 'specifies name of txt file with computer names
 strUserFile = "users.txt"
 Const ADS_UF_PASSWD_NOTREQD            = &h0020
 Const ADS_UF_WORKSTATION_TRUST_ACCOUNT = &h1000
 Const ForReading = 1
 
-&#039;strUser = "Generic Description for all Computer Accounts"
+strUser = "Generic Description for all Computer Accounts"
 Set objFSO = CreateObject("Scripting.FileSystemObject")
 Set objTextFile = objFSO.OpenTextFile(strTextFile, ForReading)
 Set objUserFile = objFSO.OpenTextFile(strUserFile, ForReading)
 Do Until objTextFile.AtEndOfStream
-    strComputer = objTextFile.Readline &#039;reads line from text file
+    strComputer = objTextFile.Readline 'reads line from text file
     strUser = objUserFile.Readline
 
-    iretvalue = Create(strComputer) &#039;calls shutdown function with strComputer variable
+    iretvalue = Create(strComputer) 'calls shutdown function with strComputer variable
 Loop
 
 

@@ -1,10 +1,7 @@
 ---
-id: 315
 title: Reboot, Logoff or Shutdown a Remote Computer
 date: 2008-03-19T14:17:13+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=315
 permalink: /reboot-logoff-or-shutdown-a-remote-computer/
 categories:
   - VBScript
@@ -15,17 +12,17 @@ tags:
 This script is a command-line utility for rebooting, logging off or shutting down remote computers. If no option parameter is specified, a force reboot is default.
 
 ```vb
-&#039;**************************************************************************
-&#039;reboot.vbs
-&#039;
-&#039;Script for remotely rebooting a computer
-&#039;
-&#039;
-&#039;Jason Hofferle
-&#039;04/09/2007
-&#039;
-&#039;
-&#039;**************************************************************************
+'**************************************************************************
+'reboot.vbs
+'
+'Script for remotely rebooting a computer
+'
+'
+'Jason Hofferle
+'04/09/2007
+'
+'
+'**************************************************************************
 
 set objArgs = Wscript.Arguments
 strComputer = objArgs(0)
@@ -59,7 +56,7 @@ if wscript.Arguments.Count &gt; 1 then
         end select
 end if
 
-Wscript.echo Shutdown(strComputer) &#039;calls shutdown function with strComputer variable
+Wscript.echo Shutdown(strComputer) 'calls shutdown function with strComputer variable
 
 Function Shutdown(strComputer)
         On Error Resume Next
@@ -68,7 +65,7 @@ Function Shutdown(strComputer)
         Set colOperatingSystems = objWMIService.ExecQuery _
             ("Select * from Win32_OperatingSystem")
         For Each objOperatingSystem in colOperatingSystems
-            ObjOperatingSystem.Win32Shutdown(iAction) &#039;Change the number in parenthesis to what you need
+            ObjOperatingSystem.Win32Shutdown(iAction) 'Change the number in parenthesis to what you need
         If Err.Number &lt;&gt; 0 Then
           WScript.Echo strcomputer & Err.Description
         Else
@@ -79,44 +76,37 @@ Function Shutdown(strComputer)
         Next
 End Function
 
-&#039; Valid auguments for Win32Shutdown method:
-&#039;
-&#039; 0 Log Off
-&#039; 0 + 4 Forced Log Off
-&#039; 1 Shutdown
-&#039; 1 + 4 Forced Shutdown
-&#039; 2 Reboot
-&#039; 2 + 4 Forced Reboot
-&#039; 8 Power Off
-&#039; 8 + 4 Forced Power Off
+' Valid auguments for Win32Shutdown method:
+'
+' 0 Log Off
+' 0 + 4 Forced Log Off
+' 1 Shutdown
+' 1 + 4 Forced Shutdown
+' 2 Reboot
+' 2 + 4 Forced Reboot
+' 8 Power Off
+' 8 + 4 Forced Power Off
 ```
 
 At a command prompt:
-  
-reboot.vbs \[computer\] \[option\]
-
+~~~
+reboot.vbs [computer] [option]
+~~~
 To force the computer workstation01 to reboot:
-  
+~~~
 C:\>cscript.exe reboot.vbs workstation01
-
+~~~
 To force the computer workstation01 to power off:
-  
+~~~
 C:\>cscript.exe reboot.vbs workstation01 fpoweroff
-
+~~~
 Complete list of options:
   
-logoff
-  
-flogoff
-  
-shutdown
-  
-fshutdown
-  
-reboot
-  
-freboot
-  
-poweroff
-  
-fpoweroff
+* logoff
+* flogoff
+* shutdown
+* fshutdown
+* reboot
+* freboot
+* poweroff
+* fpoweroff

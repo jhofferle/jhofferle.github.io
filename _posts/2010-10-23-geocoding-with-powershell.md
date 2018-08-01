@@ -1,18 +1,15 @@
 ---
-id: 82
 title: Geocoding with PowerShell
 date: 2010-10-23T20:06:12+00:00
 author: Jason Hofferle
-#layout: post
-guid: http://www.hofferle.com/?p=82
-permalink: /geocoding-with-powershell-2/
+permalink: /geocoding-with-powershell/
 categories:
   - PowerShell
 tags:
   - Google
   - PowerShell
 ---
-Version 3 of Google&#8217;s Geocoding API does not return information in CSV format. This updated code processes the XML returned by the [new API](http://code.google.com/apis/maps/documentation/geocoding/).
+Version 3 of Google's Geocoding API does not return information in CSV format. This updated code processes the XML returned by the [new API](http://code.google.com/apis/maps/documentation/geocoding/).
 
 ```powershell
 Function Add-Geocode
@@ -39,7 +36,7 @@ Function Add-Geocode
                         $InputObject.zip
                         $suf)
 
-        $queryString = $queryString -replace &#039; &#039;,&#039;+&#039; -join &#039;+&#039;
+        $queryString = $queryString -replace ' ','+' -join '+'
 
         [xml]$returnValue = $webClient.DownloadString($queryString)
 
